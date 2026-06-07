@@ -9,8 +9,17 @@
   - Need to evaluate this and handle anything here (if needed)
   - [ ] p037: blockquote heading using fraction-style markup
   - [ ] appears in other places; do a search like ~\d/\d~ to find them.
-- [ ] p051 (and potentially elsewhere) has continuation sidenote
-- [ ] Book contains errata (single item at the very end)
+- [ ] There are continuation sidenotes throughout the book.
+- [X] Book contains errata (single item at the very end)
+- Alignment block items:
+  - [ ] f003: poetry and right-align (and other front matter)
+  - [ ] f005: right-align (and other front matter)
+  - [ ] f006: table
+  - [ ] f007-f008: table
+  - [ ] p037: right-align in blockquote
+  - [ ] p038: poetry
+  - [ ] p041: right-align in blockquote
+- [ ] p129-p132: index
 * Transcriber Notes
 - Erratum from original has been applied to this version.
 - Footnote X: find final footnote number later): changed “6 & 7” to “7 & 8” per erratum in original book. (7 & 8 Vict., cap. 66, sec. 5)
@@ -80,11 +89,11 @@ Instructions for ~/* */~ and ~/# #/~ blocks:
 - Check for a blank line before and after markup
 - If specific [[https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers][rewrap markers]] should be used, don't change them now, but add a note to your list for later handling, after page separators are removed.
 - For blocks that span a page boundary: if the next-page opening marker is on the second line with one blank before it, but it's still part of the same block from the previous page, move the wrap marker to the first line of the page, next to the page separator. This will make it easier to remove them during the removal of page separators.
-- [ ] Use the ~Search~ menu to step through all ~/* */~ blocks.
+- [X] Use the ~Search~ menu to step through all ~/* */~ blocks.
   - Regex: ~^(/\*|\*/)~
   - Apply specific [[https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Table_Indent][indent value]] if desired
   - Make sure poetry line numbers are at least two spaces to the right of the line.
-- [ ] Use the ~Search~ menu to step through all ~/#..#/~ blocks.
+- [X] Use the ~Search~ menu to step through all ~/#..#/~ blocks.
   - Regex: ~^(/#|#/)~
   - Check consistent indentation of block text
   - Apply specific [[https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Block_Quote_Indent_and_Margins][margin values]] if desired
