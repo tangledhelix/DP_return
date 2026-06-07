@@ -13,6 +13,8 @@
 - [ ] Book contains errata (single item at the very end)
 * Transcriber Notes
 - Erratum from original has been applied to this version.
+- Footnote X: find final footnote number later): changed “6 & 7” to “7 & 8” per erratum in original book. (7 & 8 Vict., cap. 66, sec. 5)
+  - [ ] Find final footnote number later
 * Notes
 ** General notes
 ** Proofer notes
@@ -72,7 +74,7 @@ Check for:
 - [X] Use ~Tools → Basic Fixup~.
 - [X] Remove any remaining ~[Blank Page]~ lines
 *** Errata
-- [ ] If original book had errata, apply it and note in TN
+- [X] If original book had errata, apply it and note in TN
 *** Fix Block Markups and Proofer Notes
 Instructions for ~/* */~ and ~/# #/~ blocks:
 - Check for a blank line before and after markup
