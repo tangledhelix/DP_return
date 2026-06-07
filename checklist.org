@@ -7,9 +7,12 @@
 * Things to revisit
 - [ ] "Dual-calendar dates with a forward slash please - e.g. 1654/5"
   - Need to evaluate this and handle anything here (if needed)
+  - [ ] p037: blockquote heading using fraction-style markup
+  - [ ] appears in other places; do a search like ~\d/\d~ to find them.
 - [ ] p051 (and potentially elsewhere) has continuation sidenote
 - [ ] Book contains errata (single item at the very end)
 * Transcriber Notes
+- Erratum from original has been applied to this version.
 * Notes
 ** General notes
 ** Proofer notes
@@ -42,9 +45,9 @@ cd ~/dp/util
 - [X] Set document language (probably ~en~)
 - [X] ~File → Project → Configure Page Labels...~. Check for roman numerals and unnumbered pages. Go to end of book to check page numbers line up.
 *** Sequential Inspection of Text
-- [ ] Turn on ~Auto Img~
-- [ ] Check for chapter/section spacing (2,4). Regex: ~(^$\n^$\n^$\n^$\n|^$\n^$\n)~ and use "Highlight All".
-- [ ] If languages other than main language are noticed, add them to Lang setting (e.g. ~en+fr~)
+- [X] Turn on ~Auto Img~
+- [X] Check for chapter/section spacing (2,4). Regex: ~(^$\n^$\n^$\n^$\n|^$\n^$\n)~ and use "Highlight All".
+- [X] If languages other than main language are noticed, add them to Lang setting (e.g. ~en+fr~)
 Check for:
 - Proper spacing for chapters and paragraphs
   - Before chapter start: 4 blank lines
