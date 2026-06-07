@@ -69,7 +69,7 @@ Check for:
 - [X] If project has Greek charset enabled, regex search ~\p{Greek}~ to look for Greek characters where they shouldn't be.
 - [X] Look for missed diacritical markup. Use Regex Library file ~diacritical_marks.json~.
   - If anything was found, run ~Tools → Unicode → Normalize Selected Characters~.
-- [ ] Use ~Tools → Basic Fixup~.
+- [X] Use ~Tools → Basic Fixup~.
 - [ ] Remove any remaining ~[Blank Page]~ lines
 *** Errata
 - [ ] If original book had errata, apply it and note in TN
