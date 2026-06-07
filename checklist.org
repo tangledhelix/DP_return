@@ -70,7 +70,7 @@ Check for:
 - [X] Look for missed diacritical markup. Use Regex Library file ~diacritical_marks.json~.
   - If anything was found, run ~Tools → Unicode → Normalize Selected Characters~.
 - [X] Use ~Tools → Basic Fixup~.
-- [ ] Remove any remaining ~[Blank Page]~ lines
+- [X] Remove any remaining ~[Blank Page]~ lines
 *** Errata
 - [ ] If original book had errata, apply it and note in TN
 *** Fix Block Markups and Proofer Notes
