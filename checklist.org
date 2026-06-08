@@ -20,6 +20,8 @@
   - [ ] p038: poetry
   - [ ] p041: right-align in blockquote
 - [ ] p129-p132: index
+- [ ] Revisit side notes. So far, rejoined them, moved above paras.
+  - https://www.pgdp.net/wiki/Sidenotes
 * Transcriber Notes
 - Erratum from original has been applied to this version.
 - Footnote X: find final footnote number later): changed “6 & 7” to “7 & 8” per erratum in original book. (7 & 8 Vict., cap. 66, sec. 5)
@@ -124,7 +126,7 @@ Instructions for ~/* */~ and ~/# #/~ blocks:
 - [X] Search for blocks: regex (no case match) ~^/[#*$PCRFLXI]~ and move footnotes outside of blocks as appropriate
 - [X] Depending on book, move footnotes to end of chapters, or end of book (use Footnote Fixup)
 *** Fixup Illustration locations
-- [ ] Use ~Tools → Illustration Fixup~ to move illos between paragraphs.
+- [X] Use ~Tools → Illustration Fixup~ to move illos between paragraphs.
   - Note the "Preserve Illo's Page Number" checkbox - using this will optimize for the page number of the illo and may dislocate the page numbering of text. Probably better to not use it for midparagraph images?
   - Choose an illo from the list and use the Move Up/Down buttons to relocate it.
 *** Remove Visible Page Breaks
