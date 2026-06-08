@@ -117,12 +117,12 @@ Instructions for ~/* */~ and ~/# #/~ blocks:
   - THERE SHOULD BE NO SUSPECTS AT TOP OF WINDOW
     - Exception: sometimes a footnote is really long
     - Exception: multiple anchors per footnote can confuse it?
-- [ ] Move footnotes between paragraphs
+- [X] Move footnotes between paragraphs
   - ~Footnote Fixup~, ~Re-run~
   - ~All to Number~, ~Reindex~
   - ~Re-run~, ~Move FNs to Paragraphs~
-- [ ] Search for blocks: regex (no case match) ~^/[#*$PCRFLXI]~ and move footnotes outside of blocks as appropriate
-- [ ] Depending on book, move footnotes to end of chapters, or end of book (use Footnote Fixup)
+- [X] Search for blocks: regex (no case match) ~^/[#*$PCRFLXI]~ and move footnotes outside of blocks as appropriate
+- [X] Depending on book, move footnotes to end of chapters, or end of book (use Footnote Fixup)
 *** Fixup Illustration locations
 - [ ] Use ~Tools → Illustration Fixup~ to move illos between paragraphs.
   - Note the "Preserve Illo's Page Number" checkbox - using this will optimize for the page number of the illo and may dislocate the page numbering of text. Probably better to not use it for midparagraph images?
