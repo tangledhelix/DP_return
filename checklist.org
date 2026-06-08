@@ -9,16 +9,16 @@
   - Need to evaluate this and handle anything here (if needed)
   - [ ] p037: blockquote heading using fraction-style markup
   - [ ] appears in other places; do a search like ~\d/\d~ to find them.
-- [ ] There are continuation sidenotes throughout the book.
+- [X] There are continuation sidenotes throughout the book.
 - [X] Book contains errata (single item at the very end)
 - Alignment block items:
-  - [ ] f003: poetry and right-align (and other front matter)
-  - [ ] f005: right-align (and other front matter)
-  - [ ] f006: table
-  - [ ] f007-f008: table
-  - [ ] p037: right-align in blockquote
-  - [ ] p038: poetry
-  - [ ] p041: right-align in blockquote
+  - [X] f003: poetry and right-align (and other front matter)
+  - [X] f005: right-align (and other front matter)
+  - [X] f006: table
+  - [X] f007-f008: table
+  - [X] p037: right-align in blockquote
+  - [X] p038: poetry
+  - [X] p041: right-align in blockquote
 - [ ] p129-p132: index
 - [ ] Revisit side notes. So far, rejoined them, moved above paras.
   - https://www.pgdp.net/wiki/Sidenotes
@@ -132,11 +132,11 @@ Instructions for ~/* */~ and ~/# #/~ blocks:
 *** Remove Visible Page Breaks
 - [X] Run ~Tools → Page Separator Fixup~ to remove visible page separators
 *** Format Front Matter
-- [ ] Format the title page, preserving as much of the original material as possible. Protect in ~/X...X/~ (no rewrap, no indent) or ~/F...F/~ (the same, except that it will be centered in the html version).
-- [ ] Edit the TOC. Find each matching chapter head; make sure heads are 1:1 with TOC. Protect TOC with ~/X...X/~. Note that your TOC will probably need to be indented to prevent rewrapping, particularly if you use multiple spaces to align page numbers.
-- [ ] If book has illustrations, edit or create /List of Illustrations/ (*Note:* this is not a requirement). Make sure it is 1:1 with ~[Illustration]~ captions. Protect with ~/X...X/~.
+- [X] Format the title page, preserving as much of the original material as possible. Protect in ~/X...X/~ (no rewrap, no indent) or ~/F...F/~ (the same, except that it will be centered in the html version).
+- [X] Edit the TOC. Find each matching chapter head; make sure heads are 1:1 with TOC. Protect TOC with ~/X...X/~. Note that your TOC will probably need to be indented to prevent rewrapping, particularly if you use multiple spaces to align page numbers.
+- [X] If book has illustrations, edit or create /List of Illustrations/ (*Note:* this is not a requirement). Make sure it is 1:1 with ~[Illustration]~ captions. Protect with ~/X...X/~.
 *** Add Noted Rewrap Markers
-- [ ] If the to-do list has any notes about adding [[https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers][rewrap markers]] (such as indexes or poetry), make those changes.
+- [X] If the to-do list has any notes about adding [[https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers][rewrap markers]] (such as indexes or poetry), make those changes.
 *** Apply Word-Frequency Checks
 - [ ] Open ~Tools → Word Frequency~. Click on an entry to jump to it.
 - [ ] Choose ~Freq~ and ~All Words~. List is now sorted by word frequency; scroll to the end and skim up the list of words that only appear 1 time looking for oddities and obvious misspellings.

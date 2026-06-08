@@ -2,7 +2,7 @@
 
 
 
-/*
+/x
 THE RETURN OF THE
 JEWS TO ENGLAND
 
@@ -22,15 +22,15 @@ LONDON
 MACMILLAN AND CO., LIMITED
 NEW YORK: THE MACMILLAN COMPANY
 1905
-*/
+x/
 
 
 
 
-/*
+/x
 OXFORD: HORACE HART
 PRINTER TO THE UNIVERSITY
-*/
+x/
 
 
 
@@ -38,7 +38,7 @@ PRINTER TO THE UNIVERSITY
 <i>TO MY FRIENDS</i>
 
 
-/*
+/x
 ARTHUR COHEN, K.C.              DAVID L. ALEXANDER, K.C.
 <sc>Past President</sc>          <sc>President</sc>
 
@@ -53,16 +53,16 @@ OF THE BRITISH JEWS
 IN RECOGNITION OF THEIR EFFORTS TO EXTEND AND
 SAFEGUARD THE LEGAL RIGHTS OF THEIR
 CO-RELIGIONISTS
-*/
+x/
 
-/*
+/p
 Da veniam scriptis, quorum non gloria nobis
   Causa, sed utilitas officiumque, fuit.
-*/
+p/
 
-/*
+/r
 Ov. <i>ex Ponto</i>, <sc>III.</sc> 9. 55.
-*/
+r/
 
 
 
@@ -80,14 +80,16 @@ be of some use to those engaged in the practical
 working out of legal problems concerning the Jews
 in this country.
 
-/*
+/r
 H. S. Q. HENRIQUES.
+r/
 
+/x
 <sc>4 King's Bench Walk,
 Temple, E.C.</sc>
 
 <i>February, 1905.</i>
-*/
+x/
 
 
 
@@ -95,7 +97,7 @@ Temple, E.C.</sc>
 TABLE OF CASES
 
 
-/*
+/x
       PAGE
 
 Anon. (1683), 1 Vernon, 263      104 (note)
@@ -144,7 +146,7 @@ Robeley <i>v.</i> Langston (1667), 2 Keble, 314      104 (note)
 Somersett's Case (1771), XX Howell's <i>State Trials</i>, 41      15
 
 Thomas <i>v.</i> Sorrel (1674), Vaughan, 330      125 (note)
-*/
+x/
 
 
 
@@ -152,7 +154,7 @@ Thomas <i>v.</i> Sorrel (1674), Vaughan, 330      125 (note)
 TABLE OF STATUTES
 
 
-/*
+/x
       PAGES
 
 Ancient Saxon Statutes      4 and 5
@@ -298,7 +300,7 @@ Worship, 1855)      126
 33 & 34 Vict., c. 14 (Naturalization Act, 1870)      63 (note), 122 (note)
 
 34 & 35 Vict., c. 48 (Promissory Oaths Act, 1871)      81 (note)
-*/
+x/
 
 
 
@@ -1640,9 +1642,9 @@ here, for in the collection of original letters found among the
 Duke of Ormonde's papers is to be found the following:--
 
 /#
-/*
+/r
 "Rouen, March 17/27, 1648/9.
-*/
+r/
 
 "This morning I happened to have some discourse with
 a Jew that spake English, and asking him how he liked
@@ -1680,10 +1682,10 @@ the same time. The advocates of toleration throughout the
 period of their power showed no disposition to abandon
 the weapons of persecution:
 
-/*
+/p
         "Et qui nolunt occidere quenquam
 Posse volunt"[59].
-*/
+p/
 
 It may be said on their behalf that the earlier and more
 cruel ordinance was never put into execution by them, but
@@ -1826,9 +1828,9 @@ here to extract from the old Parliamentary History the
 Narrative published by order of Cromwell and his Council[65].
 
 /#
-/*
+/r
 "Whitehall, December 4.
-*/
+r/
 
 "Divers eminent Ministers of the Nation, having been
 called hither by Letter from the Lord Protector, were
@@ -5972,7 +5974,7 @@ Trusts Act; and as to the exemption from rates, 3 & 4 Will. IV, cap. 30;
 INDEX
 
 
-/*
+/i
 Abjuration Oath, modified in favour of Jewish landowners required to take it, 122.
 
 Amsterdam, Jews of, 36, 40, 70, 72.
@@ -6423,7 +6425,7 @@ Wycliffe, 17, 18.
 
 
 York, Duke of, 89.
-*/
+i/
 
 
 
