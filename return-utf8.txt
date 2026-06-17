@@ -731,7 +731,7 @@ admit that the alleged statute was no longer in existence,
 but "B. B.," the anonymous author of <i>A Historical and
 Law Treatise against the Jews and Judaism</i>, a virulent
 diatribe against the Jews, published in 1703, which was
-so popular with the anti-Semites here that it was re-*printed
+so popular with the anti-Semites here that it was reprinted
 in 1721 and again in 1753 as the second edition--perceiving
 the weakness of this theory on account of the
 total disappearance of the alleged statute, unblushingly
@@ -4159,7 +4159,7 @@ Into the religious history of the remainder of the reign,
 inextricably bound up as it is with the course of politics, it
 is not necessary to enter at length; there was a perhaps
 not ill-founded suspicion that with an avowed Papist as
-successor to the crown attempts would be made to over-*throw
+successor to the crown attempts would be made to overthrow
 the established Church. In this state of feeling it
 was not unreasonable to take care that all places of trust
 and power should be filled by members of the dominant
@@ -5463,7 +5463,7 @@ without any amendment and almost without debate[155].
 of
 the Act
 compelling
-land-*owners
+landowners
 to take the
 oath of abjuration
 in favour

@@ -5,6 +5,8 @@
 "The return of the Jews to England" by Henriques, H. S. Q.
 
 * Things to revisit
+- [ ] Old-fashioned (middle English?) spellings in various places
+- [ ] Roman numerals not terminating in ~.~ - some terminate in ~,~ and one terminates in ~'s~
 - [ ] "Dual-calendar dates with a forward slash please - e.g. 1654/5"
   - Need to evaluate this and handle anything here (if needed)
   - [ ] p037: blockquote heading using fraction-style markup
@@ -14,21 +16,37 @@
 - Alignment block items:
   - [X] f003: poetry and right-align (and other front matter)
   - [X] f005: right-align (and other front matter)
-  - [X] f006: table
-  - [X] f007-f008: table
+  - [ ] f006: table
+  - [ ] f007-f008: table
   - [X] p037: right-align in blockquote
   - [X] p038: poetry
   - [X] p041: right-align in blockquote
 - [ ] p129-p132: index
 - [ ] Revisit side notes. So far, rejoined them, moved above paras.
   - https://www.pgdp.net/wiki/Sidenotes
+- [ ] f003: poem with latin?
+- [ ] p085: ~March 16-May 17~: should be en-dash? Any other cases?
+- [ ] p007-p008: latin?
+- [ ] p010-p011: latin?
+- [ ] p016: latin?
+- [ ] p018: latin?
+- [ ] p038: poem with latin?
+- [ ] p080: latin or french?
+- [ ] p085-p086: latin?
+- [ ] footnote 18: latin?
+- [ ] footnote 22: latin?
+- [ ] footnote 49: latin?
+- [ ] footnote 96: ~penc̃on~ is what language? non-italic text
 * Transcriber Notes
+** Leading TN
+- Include note about italics & smallcaps for text version.
+- The ~^~ or ~^{...}~ notation indicates a superscript
+- Various archaic and alternate spellings preserved, particularly those occuring in quotations, e.g., “forein” for “foreign” or the variant spellings “Duarto en Rigis” and “Duarto an Rigij”.
+** Trailing TN
 - Erratum from original has been applied to this version.
 - Footnote X: find final footnote number later): changed “6 & 7” to “7 & 8” per erratum in original book. (7 & 8 Vict., cap. 66, sec. 5)
   - [ ] Find final footnote number later
-- Archaic spellings preserved. Example: “forein” on p. 11, and others.
-  - on p. 56, "Duarto en Rigis (Henriques)" and "Duarto an Rigij (Henriques)"
-- p. 75: changed "user" to "use" (such use was wholly illegal)
+- p. 75: changed “user” to “use” (such use was wholly illegal)
 * Notes
 ** General notes
 ** Proofer notes
@@ -138,19 +156,19 @@ Instructions for ~/* */~ and ~/# #/~ blocks:
 *** Add Noted Rewrap Markers
 - [X] If the to-do list has any notes about adding [[https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers][rewrap markers]] (such as indexes or poetry), make those changes.
 *** Apply Word-Frequency Checks
-- [ ] Open ~Tools → Word Frequency~. Click on an entry to jump to it.
-- [ ] Choose ~Freq~ and ~All Words~. List is now sorted by word frequency; scroll to the end and skim up the list of words that only appear 1 time looking for oddities and obvious misspellings.
-- [ ] Click ~Character Cnts~.
+- [X] Open ~Tools → Word Frequency~. Click on an entry to jump to it.
+- [X] Choose ~Freq~ and ~All Words~. List is now sorted by word frequency; scroll to the end and skim up the list of words that only appear 1 time looking for oddities and obvious misspellings.
+- [X] Click ~Character Cnts~.
   - Note characters that appear only once, check usage.
   - Check for equal counts of left & right parens and brackets.
-- [ ] Click ~Emdashes~. This shows words with emdashes in them as well as similar words without emdashes (aka: suspects) marked with ~****~. Check suspects against the text and page images. Preserve author's intent even when inconsistent.
-- [ ] Click ~Hyphens~. Same as Emdashes above but for Hyphens.
-- [ ] Click ~Alpha/num~. Scan list for ~one/ell~ and ~oh/zero~ errors.
-- [ ] Click ~ALL CAPITALS~. Scan list looking for oddities.
-- [ ] Click ~MiXeD CasE~. Scan list looking for letters such as o that sometimes OCR wrongly as uppercase. ~Oh/zero~ errors can show up here, too.
-- [ ] Click ~Diacritics/æ/œ~. Scan list looking for mistakes, inconsistent usages.
-- [ ] Click ~Ital/Bold/SC~. Scan list for incorrect or inconsistent use of italics, bold face, and small caps.
-- [ ] Click ~Ligatures~. Scan list for [[https://www.pgdp.net/wiki/Æ_and_œ_ligatures][incorrect or inconsistent use]] of ~ae~ and ~oe~ ligatures.
+- [X] Click ~Emdashes~. This shows words with emdashes in them as well as similar words without emdashes (aka: suspects) marked with ~****~. Check suspects against the text and page images. Preserve author's intent even when inconsistent.
+- [X] Click ~Hyphens~. Same as Emdashes above but for Hyphens.
+- [X] Click ~Alpha/num~. Scan list for ~one/ell~ and ~oh/zero~ errors.
+- [X] Click ~ALL CAPITALS~. Scan list looking for oddities.
+- [X] Click ~MiXeD CasE~. Scan list looking for letters such as o that sometimes OCR wrongly as uppercase. ~Oh/zero~ errors can show up here, too.
+- [X] Click ~Diacritics/æ/œ~. Scan list looking for mistakes, inconsistent usages.
+- [X] Click ~Ital/Bold/SC~. Scan list for incorrect or inconsistent use of italics, bold face, and small caps.
+- [X] Click ~Ligatures~. Scan list for [[https://www.pgdp.net/wiki/Æ_and_œ_ligatures][incorrect or inconsistent use]] of ~ae~ and ~oe~ ligatures.
 #+begin_src text
 æ Æ    <Opt> '    /ai/ to rhyme with “eye”.
 œ Œ    <Opt> q    /ɔɪ/ to rhyme with “oi” in “foil”
