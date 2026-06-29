@@ -1,6 +1,6 @@
 {
   "md5checksum": "12db6e3d2b9eebbae37a1f8e500c3e1b",
-  "insertpos": "6420.11",
+  "insertpos": "951.32",
   "insertpospeer": "380.0",
   "pagedetails": {
     "f001": {
@@ -846,7 +846,7 @@
   },
   "imagedir": "/Users/dan/dp/pp/return/pngs",
   "projectid": "projectID65b196d0e30c8",
-  "languages": "en",
+  "languages": "en+la",
   "charsuites": {
     "Basic Latin": true
   },

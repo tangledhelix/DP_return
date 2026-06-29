@@ -184,8 +184,8 @@ Instructions for ~/* */~ and ~/# #/~ blocks:
 *** Apply Bookloupe
 - [X] ~Tools → Bookloupe~.
 *** Spelling and Distance Checks
-- [ ] If any languages known to be in the book aren't in the Lang: setting, add them (e.g. ~en+fr~). Only tag languages we have a dictionary for. (More dictionaries are available; see [[https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_2_Manual/Tools_Menu#Spelling][the wiki]].)
-- [ ] Use ~Tools → Spelling~. Proceed through the document, correcting words or adding them to the project dictionary as appropriate.
+- [X] If any languages known to be in the book aren't in the Lang: setting, add them (e.g. ~en+fr~). Only tag languages we have a dictionary for. (More dictionaries are available; see [[https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_2_Manual/Tools_Menu#Spelling][the wiki]].)
+- [X] Use ~Tools → Spelling~. Proceed through the document, correcting words or adding them to the project dictionary as appropriate.
 - [ ] Use ~Tools → Word Distance Check~.
 *** Fix Sidenotes
 - [ ] Read the [[https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Sidenotes][discussion]]. Step through sidenotes with: Search & Replace of ~[S~, not regex, not whole word, ignore case. Click ~Search~ to find each Sidenote.
