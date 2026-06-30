@@ -107,11 +107,11 @@ Barker <i>v.</i> Warren (1675), 2 Mod., 271      104 (note)
 Britton <i>v.</i> Standish (1704), Cas. temp. Holt 141, 3 Salk. 88      26 (note)
 
 Chamberlain of London <i>v.</i> Evans (1767), Cobbett’s <i>Parl. Hist.</i>,
-vol. XVI, pp. 313-27      112
+vol. XVI, pp. 313–27      112
 
 De Wilton <i>v.</i> Montefiore, L. R. (1900), 2 Ch. 489      1, 3
 
-East India Co. <i>v.</i> Sandys (1683-5), X Howell’s <i>State Trials</i>,
+East India Co. <i>v.</i> Sandys (1683–5), X Howell’s <i>State Trials</i>,
 371 seq.      69 (note)
 
 Fish <i>v.</i> Klein (1817), 2 Mer., 431      63 (note)
@@ -237,7 +237,7 @@ The Instrument of Government      39
 
 30 Car. II, stat. 2 (Parliamentary Test Act)      92
 
-1 Will. & Mar., c. 18 (Toleration Act)      111-113, 125
+1 Will. & Mar., c. 18 (Toleration Act)      111–113, 125
 
 1 Will. & Mar., sess. 2, c. 2 (Bill of Rights)      28, 124
 
@@ -2043,7 +2043,7 @@ the law of God and of the land. See Co. 3 Inst., p. 251.]
 [Footnote 14: <i>Statutes of the Realm</i>, I, 221.]
 
 [Footnote 15: For further detail the reader is referred to Pollock and Maitland’s
-<i>History of English Law before the time of Edward I</i>, vol. I, pp. 451-459, and
+<i>History of English Law before the time of Edward I</i>, vol. I, pp. 451–459, and
 Gneist’s <i>Constitutional History</i>, p. 228 note, and also <i>The Expulsion of the Jews
 from England in 1290</i>, by B. L. Abrahams, and the Introduction to the
 Jewish Historical and Selden Societies’ edition of <i>Select Pleas</i>, Starrs, &c., by
@@ -2124,7 +2124,7 @@ there cited.]
 
 [Footnote 34: Bracton, f. 124, vol. II, p. 300. Ann. Wykes, p. 63. Matthew Paris,
 vol. III, p. 71, says he was hanged. See Maitland, <i>Canon Law in the
-Church of England</i>, pp. 158-179.]
+Church of England</i>, pp. 158–179.]
 
 [Footnote 35: The statute is 5 Rich. II, stat. 2, cap. 5. See <i>Statutes of the Realm</i>, II,
 p. 25; <i>Rot. Parl.</i> III, 125 and 141; “The case of Heresy,” 12 <i>Rep.</i> 56.
@@ -2143,17 +2143,17 @@ was finally repealed by the Statute Law Revision Act, 1863.]
 cap. 14 (the Act of the Six Articles), 1 Edw. VI, cap. 12, 1 Edw. VI,
 cap. 1, and 2 & 3 Edw. VI, cap. 1 (see sect. 3). The last two, though
 obsolete, are still technically in force. For the whole subject see
-Stephen’s <i>History of Criminal Law</i>, vol. II, pp. 453-460.]
+Stephen’s <i>History of Criminal Law</i>, vol. II, pp. 453–460.]
 
 [Footnote 39: 1 & 2 Phil. and Mary, cap. 6.]
 
 [Footnote 40: The exact number is given as 277. For the persecution see Dodd’s
-<i>Church History</i>, vol. II, pp. 101-109; Pike’s <i>History of Crime</i>, vol. II, pp. 57-60,
+<i>Church History</i>, vol. II, pp. 101–109; Pike’s <i>History of Crime</i>, vol. II, pp. 57–60,
 and 613.]
 
 [Footnote 41: 2 <i>State Trials</i>, p. 729.]
 
-[Footnote 42: <i>Cal. S. P. Domestic</i>, 1633-4, p. 538.]
+[Footnote 42: <i>Cal. S. P. Domestic</i>, 1633–4, p. 538.]
 
 [Footnote 43: <i>Pleas of the Crown</i>, Bk. I, cap. 10, sect. 4.]
 
@@ -2194,7 +2194,7 @@ offence.” Hertslet’s <i>Collection of Treaties</i>, vol. II, p. 152.]
 
 [Footnote 50: For the petition see <i>Lords’ Journals</i>, vol. VII, p. 141. It was presented
 Jan. 16, 1644/5. For Carvajal see “The First English Jew,” by Lucien
-Wolf, <i>Trans. Jewish Hist. Soc.</i>, vol. II, pp. 14-46.]
+Wolf, <i>Trans. Jewish Hist. Soc.</i>, vol. II, pp. 14–46.]
 
 [Footnote 51: See the case of Paul Best, who had asserted that Christ was merely
 and properly a man (Goodwin, II, pp. 252 seq.), and James Nayler (5 <i>State
@@ -2204,7 +2204,7 @@ Trials</i>, 801).]
 
 [Footnote 53: Ibid., part 2, pp. 75 and 97.]
 
-[Footnote 54: Pragmaticus, Dec. 19-26. The Council of War had also on Christmas
+[Footnote 54: Pragmaticus, Dec. 19–26. The Council of War had also on Christmas
 Day voted “a Toleration of all religions.” <i>History of the Independency</i>,
 part 2, p. 50.]
 
@@ -2234,7 +2234,7 @@ Munday the 1 of Janu. till Munday the 8 of Janu. 1648.”]
 
 [Footnote 64: See <i>Cal. State Papers</i>, 1654, pp. 393 and 407; Goodwin, IV, p. 47, note;
 <i>Trans. Jewish Hist. Soc.</i>, vol. III, where the text of the petitions is given at
-pp. 88-93.]
+pp. 88–93.]
 
 [Footnote 65: Printed by Henry Hills, printer to His Highness the Lord Protector.
 <i>Parl. Hist.</i>, vol. XX, p. 474.]
@@ -3078,7 +3078,7 @@ of the Spanish and Portuguese Synagogue in Bevis Marks, and by their
 permission Mr. Almosnino, their secretary, obligingly went over with me
 some of their oldest records. Among them I found an account of a lease
 of a piece of ground in the parish of Stepney, granted them in February
-165-6/7, for a burying-ground.” It is probable that he is referring to the
+1656/7, for a burying-ground.” It is probable that he is referring to the
 lease of 1670, which mentions an older lease granted in 1656 (<i>History of
 the Commonwealth</i>, vol. IV, p. 250).]
 
@@ -4251,7 +4251,7 @@ for the execution of the laws against Jesuits, seminary priests,
 or other religious persons “being corrupted and brought up seditiously
 beyond the seas or elsewhere,” and authorizing their banishment; and on
 June 23, 1618, he was appointed a member of a similar commission (see
-<i>Calendar of State Papers, Domestic</i>, 1603-10, p. 148, and id. 1611-18, p. 547.
+<i>Calendar of State Papers, Domestic</i>, 1603–10, p. 148, and id. 1611–18, p. 547.
 The first commission is printed at length in Rymer’s <i>Foedera</i>, vol. XVI,
 p. 597). It is probably one of these commissions that is referred to. In
 any case the passage corroborates the view expressed in the preceding
@@ -4298,8 +4298,8 @@ done in Cromwell’s time by both the Instrument of Government and the
 humble Petition and Advice, but the king, mindful of his promises,
 published the Declaration without this restrictive clause.]
 
-[Footnote 107: See Cobbett’s <i>Parliamentary History</i>, vol. IV, pp. 79, 82, 131-42,
-152-4.]
+[Footnote 107: See Cobbett’s <i>Parliamentary History</i>, vol. IV, pp. 79, 82, 131–42,
+152–4.]
 
 [Footnote 108: 13 Car. II, stat. 2, cap. 1, in force till 1828, when it was virtually
 repealed by 9 Geo. IV, cap. 17, and finally repealed by 34 & 35 Vict.,
@@ -4309,13 +4309,13 @@ cap. 48 (the Promissory Oaths Act, 1871).]
 155. See Cobbett’s <i>Parl. Hist.</i>, vol. IV, p. 233.]
 
 [Footnote 110: The whole Declaration is printed in Cardwell’s <i>Documentary Annals of
-the Church of England</i>, vol. II, pp. 311-20.]
+the Church of England</i>, vol. II, pp. 311–20.]
 
 [Footnote 111: Cobbett’s <i>Parl. Hist.</i>, vol. IV, pp. 200, 263, 286, 289.]
 
 [Footnote 112: Cobbett’s <i>Parl. Hist.</i>, vol. IV, p. 294.]
 
-[Footnote 113: Ibid., pp. 311-15, taken from Clarendon’s <i>Life</i>.]
+[Footnote 113: Ibid., pp. 311–15, taken from Clarendon’s <i>Life</i>.]
 
 [Footnote 114: In his speech on opening the session on February 10, 1667, the king
 again recommended toleration: “And for the setting a firm Peace, as well
@@ -4326,18 +4326,18 @@ Protestant Subjects in matters of Religion; whereby they may be induced
 not only to submit quietly to the government but also cheerfully give
 their assistance to the support of it.”--Cobbett’s <i>Parl. Hist.</i>, vol. IV, p. 404.]
 
-[Footnote 115: Cobbett’s <i>Parl. Hist.</i>, vol. IV, pp. 421-2.]
+[Footnote 115: Cobbett’s <i>Parl. Hist.</i>, vol. IV, pp. 421–2.]
 
 [Footnote 116: Cobbett’s <i>Parl. Hist.</i>, vol. IV, p. 479.]
 
 [Footnote 117: Cardwell’s <i>Documentary Annals of the Church of England</i>, vol. II, pp.
-333-7.]
+333–7.]
 
 [Footnote 118: Cobbett’s <i>Parl. Hist.</i>, vol. IV, p. 503.]
 
 [Footnote 119: Ibid., p. 546.]
 
-[Footnote 120: Cobbett’s <i>Parl. Hist.</i>, vol. IV, pp. 551, 556-61.]
+[Footnote 120: Cobbett’s <i>Parl. Hist.</i>, vol. IV, pp. 551, 556–61.]
 
 
 
@@ -5790,10 +5790,10 @@ No. 74. He says he had heard of a gold mine in Jamaica, and desired permission
 to go there and develop it, giving the king ten per cent. He also
 asks for naturalization for himself and his brothers Joseph and Moses, and
 that they may follow their own laws and have synagogues. (See <i>Calendar,
-S. P. Colonial</i>, 1661-8, p. 48, and <i>Jews in the British West Indies</i>, by Dr. Friedenwald:
+S. P. Colonial</i>, 1661–8, p. 48, and <i>Jews in the British West Indies</i>, by Dr. Friedenwald:
 pub. American Jewish Hist. Soc., No. 5, p. 45 seq.)]
 
-[Footnote 127: Ellis’s <i>Original Letters</i>, and series, vol. IV, Letter cccix, pp. 3-22.]
+[Footnote 127: Ellis’s <i>Original Letters</i>, and series, vol. IV, Letter cccix, pp. 3–22.]
 
 [Footnote 128: <i>Diary of Samuel Pepys</i>, Oct. 14, 1663, Wheatley’s edition, vol. III,
 p. 303. This description of a visit to the Synagogue gives an impression
@@ -5805,12 +5805,12 @@ in it as it is. And I was affected to think, that many likely men of
 understanding should be without Christ, and live in the denial of him.”
 Chetham Society’s Publications, vol. XXVII, p. 262.]
 
-[Footnote 129: Gaster’s <i>History of the Ancient Synagogue</i>, pp. 7, 9-11, 17; <i>Wolf’s Jewry of
-the Restoration</i>, pp. 13-15.]
+[Footnote 129: Gaster’s <i>History of the Ancient Synagogue</i>, pp. 7, 9–11, 17; <i>Wolf’s Jewry of
+the Restoration</i>, pp. 13–15.]
 
 [Footnote 130: See Cockayne’s <i>Peerage</i>, vol. I, p. 343.]
 
-[Footnote 131: <i>S. P. Dom. Car. II</i>, ent. Book 18, pp. 78-9; <i>Calendar</i>, 1663-4, p. 672.]
+[Footnote 131: <i>S. P. Dom. Car. II</i>, ent. Book 18, pp. 78–9; <i>Calendar</i>, 1663–4, p. 672.]
 
 [Footnote 132: <i>Com. Jour.</i>, vol. IX, p. 198.]
 
@@ -5870,7 +5870,7 @@ given for the defendant. See 2 <i>Shower</i>, p. 475; XI St. Tr., p. 1166 seq.]
 
 [Footnote 144: Gaster, <i>The Ancient Synagogue</i>, p. 88.]
 
-[Footnote 145: Cobbett’s <i>Parl. Hist.</i>, vol. XVI, pp. 313-27.]
+[Footnote 145: Cobbett’s <i>Parl. Hist.</i>, vol. XVI, pp. 313–27.]
 
 [Footnote 146: In 1812 three of the most intolerant Acts passed in the reign of
 Charles II, namely, the Act against Quakers, the Five Mile Act, and the
@@ -5927,7 +5927,7 @@ never seriously brought in question.]
 1689, p. 318; and Luttrell’s <i>Diary</i>, vol. I, p. 303.]
 
 [Footnote 149: Cobbett’s <i>Parl. Hist.</i>, vol. V, p. 444, and Gray’s <i>Parl. Debates</i>, vol. IX,
-pp. 437-8.]
+pp. 437–8.]
 
 [Footnote 150: See Macaulay’s <i>History</i>, ch. xv; <i>Commons Journals</i>, vol. X, pp. 281, 319;
 <i>Calendar S. P. Dom.</i>, Dec. 31, 1689, p. 374; <i>Greenwich Hospital News-letter</i>, 3,
@@ -5935,33 +5935,33 @@ No. 83.]
 
 [Footnote 151: <i>S. P. Calendar</i>, Feb. 10, 1690.]
 
-[Footnote 152: See Tovey’s <i>Anglia Iudaica</i>, pp. 287-95.]
+[Footnote 152: See Tovey’s <i>Anglia Iudaica</i>, pp. 287–95.]
 
 [Footnote 153: The <i>Commons Journals</i> give the numbers as 140 and 78. In reality no
 clause was added, but the words which had been struck out by the Lords
-were restored to the Act. For the history of the Act, see supra, pp. 13-18.]
+were restored to the Act. For the history of the Act, see supra, pp. 13–18.]
 
 [Footnote 154: See the Inhabitants of St. Andrew’s Undershaft <i>v.</i> de Breta, Lord
 Raymond’s <i>Reports</i>, vol. I, p. 699. Before the Committee of the House of
 Commons it was stated that the allowance for maintenance was twenty
 shillings a-week. <i>Commons Journals</i>, vol. XIII, p. 799.]
 
-[Footnote 155: <i>Commons Journals</i>, vol. XIII, pp. 748, 798-800, 813, 839, 848, 886, 889,
+[Footnote 155: <i>Commons Journals</i>, vol. XIII, pp. 748, 798–800, 813, 839, 848, 886, 889,
 895, and <i>Lords Journals</i>, vol. XVII, pp. 125, 126, 128, 131, 148.]
 
 [Footnote 156: 13 Geo. II, cap. 7, repealed by the Naturalization Act, 1870; see
 especially secs. 2 and 3.]
 
 [Footnote 157: See first report of Her Majesty’s Commissioners for revising and
-consolidating the criminal law, note on pp. 32-3, and also Lord Brougham’s
+consolidating the criminal law, note on pp. 32–3, and also Lord Brougham’s
 remarks, <i>Hans. Parl. Debat.</i>, vol. 59, p. 815 (1841), and id., vol. 85, p. 1264
 (1846).]
 
 [Footnote 158: For the dispensing power see the cases of <i>non-obstante</i>, 12 Rep., fo. 18:
 Thomas <i>v.</i> Sorrel (1674), <i>Vaughan</i>, p. 330, and Godden <i>v.</i> Hales (1686),
 2 <i>Shower</i>, p. 475, and XI St. Tr., p. 1166, with the notes, especially those
-at pp. 1187 and 1251, and generally Broom’s <i>Constitutional Law</i>, pp. 492-506;
-Anson’s <i>Parliament</i>, pp. 311-17; and Burnet’s <i>Reign of James II</i>, pp. 458-60.]
+at pp. 1187 and 1251, and generally Broom’s <i>Constitutional Law</i>, pp. 492–506;
+Anson’s <i>Parliament</i>, pp. 311–17; and Burnet’s <i>Reign of James II</i>, pp. 458–60.]
 
 [Footnote 159: See 16 & 17 Vict., cap. 137, sec. 62; 18 & 19 Vict., cap. 81, sec. 9;
 and 32 & 33 Vict., cap. 110, sec. 15, as to the provisions of the Charitable
@@ -6013,7 +6013,7 @@ Burnet, 48.
 Burton’s Diary, 49.
 
 
-Canary Islands, 55-58.
+Canary Islands, 55–58.
 
 Carlyle, Thomas, 47.
 
@@ -6023,13 +6023,13 @@ Carvajal, Antonio Fernandez, 32, 50, 62.
 
 -- Maria Fernandez, 95.
 
-Cemetery, Jewish, at Mile End, 61-65.
+Cemetery, Jewish, at Mile End, 61–65.
 
 Charles I, legal position of the Jews under, 29, 58, 77.
 
-Charles II, 2, 3, 70-73.
+Charles II, 2, 3, 70–73.
 
--- his toleration, 77-93, 103, 104, 116, 124, 127.
+-- his toleration, 77–93, 103, 104, 116, 124, 127.
 
 Clarendon, 86.
 
@@ -6051,7 +6051,7 @@ Courtney, Sir William, Petition of, 76 (note), 94.
 
 Crompton, Rev. Thomas, 97.
 
-Cromwell, Oliver, 3, 32, 36, 40 seq., 46, 47, 49, 59-61, 67-73, 127.
+Cromwell, Oliver, 3, 32, 36, 40 seq., 46, 47, 49, 59–61, 67–73, 127.
 
 -- Richard, 60.
 
@@ -6076,7 +6076,7 @@ Despensers Act of banishment, 30.
 
 Directory for public worship substituted for Book of Common Prayer, 35.
 
-Dispensing Power, 83, 102, 106-110, 115, 123-125.
+Dispensing Power, 83, 102, 106–110, 115, 123–125.
 
 Dormido, Manuel Martinez, 40.
 
@@ -6152,9 +6152,9 @@ Henry III, 6, 9.
 
 Herbert, Chief Justice, 108 (note).
 
-Heresy, Law of, 17-25.
+Heresy, Law of, 17–25.
 
-High Commission, Court of, 23-25, 34.
+High Commission, Court of, 23–25, 34.
 
 Hollis, Mr., 96.
 
@@ -6165,7 +6165,7 @@ Hoveden, 5 (note).
 
 Independents, The, 35, 38.
 
-Indulgence, Declaration of, 1662, 82; 1672, 88-91; 1687, 108.
+Indulgence, Declaration of, 1662, 82; 1672, 88–91; 1687, 108.
 
 Inquisition, The, 23, 55.
 
@@ -6176,7 +6176,7 @@ Ireton, 36.
 
 James I, 71, 99.
 
--- II, 3, 68, 104-110, 124, 128.
+-- II, 3, 68, 104–110, 124, 128.
 
 Jews, their status after the Norman Conquest, 5.
 
@@ -6192,9 +6192,9 @@ Jews, their status after the Norman Conquest, 5.
 
 -- their legal position in Charles I’s reign, 29.
 
--- and Cromwell, 67-70.
+-- and Cromwell, 67–70.
 
--- and Charles II, 71-74, 76-79, 94-104.
+-- and Charles II, 71–74, 76–79, 94–104.
 
 -- and James II, 105, 106, 109.
 
@@ -6241,7 +6241,7 @@ Marriages, Act imposing taxes on, mentions Jews, 118.
 
 Mary I, 21.
 
-Menasseh Ben Israel, 3, 13, 37, 40-45, 47 seq., 64, 67.
+Menasseh Ben Israel, 3, 13, 37, 40–45, 47 seq., 64, 67.
 
 -- his widow: petition on behalf of, to Richard Cromwell, 60.
 
@@ -6280,7 +6280,7 @@ Overton, Mr., 70.
 
 Pacheco, Aaron, 2, 4, 5, 106.
 
-Parliament, attitude of, towards the Jewish settlement, 116-123.
+Parliament, attitude of, towards the Jewish settlement, 116–123.
 
 Pepys, Samuel, visit to the Synagogue, 98.
 
@@ -6298,7 +6298,7 @@ Powle, Mr. Speaker, 117.
 
 Presbyterians, 35.
 
-Prynne, quoted and commented on, 4, 11-14.
+Prynne, quoted and commented on, 4, 11–14.
 
 
 Quakers, 81, 111, 113 (note), 119, 123.
@@ -6316,7 +6316,7 @@ Recusants, 27, 65.
 
 Reformation, The, its consequences to the Jews, 17 seq.
 
-Registration of Synagogues, 125-127.
+Registration of Synagogues, 125–127.
 
 Remonstrance concerning the Jews, 94.
 
@@ -6337,11 +6337,11 @@ Rycaut, Mr., 99.
 
 Sacrament, ordered to be taken by members of Parliament, 1661, 80.
 
-Sadler, John, 59-61.
+Sadler, John, 59–61.
 
 Sawtre, William, 19.
 
-Saxon times, Jews in England in, 3-5.
+Saxon times, Jews in England in, 3–5.
 
 Shrewsbury, Earl of, 118.
 
@@ -6349,9 +6349,9 @@ Spain, Treaty with England, 31, 127.
 
 -- War with England, 54.
 
-Spaniards, Jews settle in England as, 32-34.
+Spaniards, Jews settle in England as, 32–34.
 
-Statute <i>de Iudaismo</i>, 6, 8-11, 17.
+Statute <i>de Iudaismo</i>, 6, 8–11, 17.
 
 -- or ordinance of 54 & 55 Henry III, 6, 16.
 
@@ -6359,28 +6359,28 @@ Statutes restricting the rights of the Jews, 6.
 
 Steel, Chief Baron, 43.
 
-Stirling, Lord Justice, on the date of the return of the Jews to England, 1-3.
+Stirling, Lord Justice, on the date of the return of the Jews to England, 1–3.
 
 Suffolk, Earl of, 71, 99.
 
-Synagogues, Theory that Cromwell authorized the building of, 59-61.
+Synagogues, Theory that Cromwell authorized the building of, 59–61.
 
--- First real evidence of existence of, 74, 96-101.
+-- First real evidence of existence of, 74, 96–101.
 
--- Registration of, 125-127.
+-- Registration of, 125–127.
 
 
-Taxation, attempt to lay special, on the Jews, 116-118.
+Taxation, attempt to lay special, on the Jews, 116–118.
 
-Test Act, 1673, 91, 106-110, 113 (note).
+Test Act, 1673, 91, 106–110, 113 (note).
 
 Theodore, <i>Liber Poenitentialis</i>, 4, 5.
 
-“Tolerance” said to have been granted by Cromwell in February 1658, 49-51.
+“Tolerance” said to have been granted by Cromwell in February 1658, 49–51.
 
-Toleration, 48, 79-93, 104-110.
+Toleration, 48, 79–93, 104–110.
 
-Toleration Act, 111, 113-115.
+Toleration Act, 111, 113–115.
 
 -- extended to the Jews, 115, 123.
 
@@ -6397,16 +6397,16 @@ Uniformity, The Law of, 25 seq., 115.
 
 Unitarians, 113.
 
-Usury, 6, 8-12.
+Usury, 6, 8–12.
 
 
 Villeins, Status of, similar to that of the Jews, 5, 14, 17.
 
-Villenage, Disappearance of, 15-17.
+Villenage, Disappearance of, 15–17.
 
-<i>Vindiciae Iudaeorum</i>, 44-47.
+<i>Vindiciae Iudaeorum</i>, 44–47.
 
-Violet, Thomas, 51, 74-76.
+Violet, Thomas, 51, 74–76.
 
 
 Walker, 48.
