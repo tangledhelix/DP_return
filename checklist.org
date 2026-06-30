@@ -26,7 +26,7 @@
   - https://www.pgdp.net/wiki/Sidenotes
   - put them in the checklist post-split.
 - [ ] f003: poem with latin?
-- [ ] p085: ~March 16-May 17~: should be en-dash? Any other cases?
+- [X] p085: ~March 16-May 17~: should be en-dash? Any other cases?
 - [ ] p007-p008: latin?
 - [ ] p010-p011: latin?
 - [ ] p016: latin?
