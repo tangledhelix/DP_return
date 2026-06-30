@@ -5,7 +5,7 @@
 "The return of the Jews to England" by Henriques, H. S. Q.
 
 * Things to revisit
-- [ ] Old-fashioned (middle English?) spellings in various places
+- [X] Old-fashioned (middle English?) spellings in various places
 - [ ] Roman numerals not terminating in ~.~ - some terminate in ~,~ and one terminates in ~'s~
 - [ ] "Dual-calendar dates with a forward slash please - e.g. 1654/5"
   - Need to evaluate this and handle anything here (if needed)
@@ -209,11 +209,11 @@ For now, do not process EM dash. The EM dash and long dash (2x EM) are left for 
     - Negative numbers ~–14º~ (uses MINUS SIGN)
 - Any single dashes not covered above are treated as hyphens.
 *** Last pre-split check
-- [ ] Look at the revisit list for anything to handle before text/html split
-- [ ] Check for unexpected ~*~: ~Search → Find Asterisks w/o Slash~
+- [X] Look at the revisit list for anything to handle before text/html split
+- [X] Check for unexpected ~*~: ~Search → Find Asterisks w/o Slash~
 *** Save Edited Markup
-- [ ] Save any unsaved changes
-- [ ] Use ~File → Save a Copy As` to make `return.html~
+- [X] Save any unsaved changes
+- [X] Use ~File → Save a Copy As` to make `return.html~
   - This will be the starting file for the HTML version. You can also use it  as fallback in case you mess up and need to start the following steps over.
 ** Prepare the Plain Text Version
 We now proceed to create a Plain Text Version of the book.
