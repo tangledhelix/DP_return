@@ -22,8 +22,9 @@
   - [X] p038: poetry
   - [X] p041: right-align in blockquote
 - [ ] p129-p132: index
-- [ ] Revisit side notes. So far, rejoined them, moved above paras.
+- [X] Revisit side notes. So far, rejoined them, moved above paras.
   - https://www.pgdp.net/wiki/Sidenotes
+  - put them in the checklist post-split.
 - [ ] f003: poem with latin?
 - [ ] p085: ~March 16-May 17~: should be en-dash? Any other cases?
 - [ ] p007-p008: latin?
@@ -36,7 +37,7 @@
 - [ ] footnote 18: latin?
 - [ ] footnote 22: latin?
 - [ ] footnote 49: latin?
-- [ ] footnote 96: ~penc̃on~ is what language? non-italic text
+- [ ] footnote 96: ~penc̃on~ is what language? non-italic text. uses non-composed character
 * Transcriber Notes
 ** Leading TN
 - Include note about italics & smallcaps for text version.
@@ -45,7 +46,8 @@
 ** Trailing TN
 - Erratum from original has been applied to this version.
 - Footnote X: find final footnote number later): changed “6 & 7” to “7 & 8” per erratum in original book. (7 & 8 Vict., cap. 66, sec. 5)
-  - [ ] Find final footnote number later
+  - [X] Find final footnote number later
+  - Footnote 94
 - p. 75: changed “user” to “use” (such use was wholly illegal)
 * Notes
 ** General notes
@@ -62,6 +64,7 @@ Dual-calendar dates with a forward slash please - e.g. 1654/5, and A.D. without 
 
 Images from [TIA](https://archive.org/details/returnofjewstoen00henruoft).
 #+end_src
+
 * Checklist
 ** Process the Pages
 Our first set of activities will combine all proofed and formatted pages, fixing any errors and inconsistencies.
@@ -188,9 +191,9 @@ Instructions for ~/* */~ and ~/# #/~ blocks:
 - [X] Use ~Tools → Spelling~. Proceed through the document, correcting words or adding them to the project dictionary as appropriate.
 - [X] Use ~Tools → Word Distance Check~.
 *** Fix Poetry Line Numbers
-- [ ] If the book has poetry that uses line numbers, read [[https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers][this page]] and align the line numbers consistently.
+- [X] If the book has poetry that uses line numbers, read [[https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers][this page]] and align the line numbers consistently.
 *** Curly quotes
-- [ ] Curly quotes are [[https://www.pgdp.net/phpBB3/viewtopic.php?f=3&t=73290][recommended]] in both the text and HTML versions. Now is the time to put them in, before the split.
+- [X] Curly quotes are [[https://www.pgdp.net/phpBB3/viewtopic.php?f=3&t=73290][recommended]] in both the text and HTML versions. Now is the time to put them in, before the split.
   - ~Tools → Convert to Curly Quotes~
   - Various fixup tools included on this panel
 - [ ] If needed, validate quotes pairings by searching for ~[“”‘’]~
