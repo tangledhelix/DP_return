@@ -236,8 +236,8 @@ We now proceed to create a Plain Text Version of the book.
 - [X] For paragraphs with just one sidenote, position it before the paragraph.
 - [X] For paragraphs with multiple sidenotes, will need to decide how to handle them. See the [[https://www.pgdp.net/wiki/Sidenotes][wiki article]], which talks about using Unicode diamond characters, among other ideas.
 *** Rewrap and Clear Rewrap Markers
-- [ ] Search for ~^/[*$pcrflxi]~ (regex, no match-case) and make any desired [[https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers][rewrap marker]] changes before wrapping
-- [ ] Save the file if any unsaved changes.
+- [X] Search for ~^/[*$pcrflxi]~ (regex, no match-case) and make any desired [[https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers][rewrap marker]] changes before wrapping
+- [X] Save the file if any unsaved changes.
 - [ ] ~Tools → Rewrap All~.
 - [ ] Page through entire text, looking for improper indentation. If found, re-open, clicking NO when asked if you want to save the edits. Find and fix broken rewrap markups. Repeat ~Tools → Rewrap All~.
 - [ ] Search ~[Footnote~ (no regex; add 2 leading spaces) to find footnotes in blockquotes; move them out of the blockquote.
