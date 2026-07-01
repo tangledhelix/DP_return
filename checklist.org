@@ -40,9 +40,10 @@
 - [ ] footnote 96: ~penc̃on~ is what language? non-italic text. uses non-composed character
 * Transcriber Notes
 ** Leading TN
-- Include note about italics & smallcaps for text version.
-- The ~^~ or ~^{...}~ notation indicates a superscript
 - Various archaic and alternate spellings preserved, particularly those occuring in quotations, e.g., “forein” for “foreign” or the variant spellings “Duarto en Rigis” and “Duarto an Rigij”.
+- (text) Include note about ~_italics_~ & smallcaps (ALLCAPS)
+- (text) The ~^~ or ~^{...}~ notation indicates a superscript
+- (text) Diamond character ♦ indicates a sidenotes; sometimes inline in a paragraph, sometimes before paragraph.
 ** Trailing TN
 - Erratum from original has been applied to this version.
 - Footnote X: find final footnote number later): changed “6 & 7” to “7 & 8” per erratum in original book. (7 & 8 Vict., cap. 66, sec. 5)
@@ -232,8 +233,8 @@ We now proceed to create a Plain Text Version of the book.
   - For complex tables, try using ~Txt → ASCII Table Effects~ to reformat?
 - [X] Try this regex to validate that all border characters were replace with box drawing ~[=+|-]~
 *** Process sidenotes
-- [ ] For paragraphs with just one sidenote, position it before the paragraph.
-- [ ] For paragraphs with multiple sidenotes, will need to decide how to handle them. See the [[https://www.pgdp.net/wiki/Sidenotes][wiki article]], which talks about using Unicode diamond characters, among other ideas.
+- [X] For paragraphs with just one sidenote, position it before the paragraph.
+- [X] For paragraphs with multiple sidenotes, will need to decide how to handle them. See the [[https://www.pgdp.net/wiki/Sidenotes][wiki article]], which talks about using Unicode diamond characters, among other ideas.
 *** Rewrap and Clear Rewrap Markers
 - [ ] Search for ~^/[*$pcrflxi]~ (regex, no match-case) and make any desired [[https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers][rewrap marker]] changes before wrapping
 - [ ] Save the file if any unsaved changes.
