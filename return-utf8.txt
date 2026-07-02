@@ -12,7 +12,7 @@ preserved, especially those occuring in quotations, e.g., “forein” for
 Rigij”.
 
 Obvious printer errors were silently corrected. For more detail about
-specific corrections to the text, see the Transcriber's Note at the end
+specific corrections to the text, see the Transcriber’s Note at the end
 of the book.
 
 This file uses _underscores_ to indicate italic text. Small capitals
@@ -93,7 +93,7 @@ complete in itself, and will, it is believed, be of some use to those
 engaged in the practical working out of legal problems concerning the
 Jews in this country.
 
-                                                     H. S. Q. HENRIQUES.
+                                                H. S. Q. HENRIQUES.
 
   4 KING’S BENCH WALK,
       TEMPLE, E.C.
@@ -5272,7 +5272,7 @@ Page 63, line 7 from bottom, _for_ 6 & 7 Vict. _read_ 7 & 8 Vict.
                            Transcriber’s Note
 
 
-(See also the Transcriber's Note at the beginning of the book.)
+(See also the Transcriber’s Note at the beginning of the book.)
 
 The erratum from the original book has been applied to the text.
 

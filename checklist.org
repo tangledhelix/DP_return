@@ -41,12 +41,12 @@
 * Transcriber Notes
 ** Leading TN
 - Some inconsistencies in spelling, hyphenation, and punctuation have been retained. In particular, archaic and alternate spellings have been preserved, especially those occuring in quotations, e.g., “forein” for “foreign” or the variant spellings “Duarto en Rigis” and “Duarto an Rigij”.
-- Obvious printer errors were silently corrected. For more detail about specific corrections to the text, see the Transcriber's Note at the end of the book.
+- Obvious printer errors were silently corrected. For more detail about specific corrections to the text, see the Transcriber’s Note at the end of the book.
 - (text) Include note about ~_italics_~ & smallcaps (ALLCAPS)
 - (text) The ~^~ or ~^{...}~ notation indicates a superscript
 - (text) Diamond character ♦ indicates a sidenotes; sometimes inline in a paragraph, sometimes before paragraph.
 ** Trailing TN
-- (See also the Transcriber's Note at the beginning of the book.)
+- (See also the Transcriber’s Note at the beginning of the book.)
 - The erratum from the original book has been applied to the text.
 - Footnote 94: changed “6 & 7” to “7 & 8” (per erratum). (7 & 8 Vict., cap. 66, sec. 5)
 - p. 75: changed “user” to “use” (such use was wholly illegal)
@@ -273,9 +273,9 @@ An example entry might look like this. Use the book's page numbers, not PNG numb
 p. 123: changed “foo” to “fool” (the fool and his money)
 #+end_src
 *** Final review
-- [ ] Skim over text file to find any obvious issues
+- [X] Skim over text file to find any obvious issues
 *** Validation
-- [ ] ~Text → PPtxt~
+- [X] ~Text → PPtxt~
 ** Prepare the HTML Version
 Finally, we create an HTML version of the book.
 - [ ] Open ~return.html~ that was saved previously.
