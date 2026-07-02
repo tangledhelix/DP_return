@@ -244,10 +244,10 @@ We now proceed to create a Plain Text Version of the book.
 - [X] Under ~Tools → Footnote Fixup~, use ~Tidy Footnotes~.
   - NOTE: tidy footnotes will rewrap footnote text not protected by wrap markers; so they are not removed until the next step.
 - [X] ~Tools → Clean Up Rewrap Markers~.
-- [ ] Rerun Bookloupe or pptext. Resolve any new issues.
+- [X] Rerun Bookloupe or pptext. Resolve any new issues.
 *** Final checks
-- [ ] Search for ~<~ and ~>~ to locate any tag markup not yet removed.
-- [ ] Search ~[^A-Z][A-Z]\.\n[A-Z]\.~ to look for initials across a line-break and rewrap as appropriate. (/optional/)
+- [X] Search for ~<~ and ~>~ to locate any tag markup not yet removed.
+- [X] Search ~[^A-Z][A-Z]\.\n[A-Z]\.~ to look for initials across a line-break and rewrap as appropriate. (/optional/)
 *** Check revisit list
 - [ ] Check "things to revisit" list for anything lingering in the text version
 *** Add TN
