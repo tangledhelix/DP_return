@@ -39,6 +39,7 @@
 - [ ] footnote 49: latin?
 - [ ] footnote 96: ~penc̃on~ is what language? non-italic text. uses non-composed character
 - [ ] link ~(note)~ entries in the index instead of using pageno links. (Remove link from page number?)
+- [ ] add page/note links from tables at start of book
 * Transcriber Notes
 ** Leading TN
 - Some inconsistencies in spelling, hyphenation, and punctuation have been retained. In particular, archaic and alternate spellings have been preserved, especially those occuring in quotations, e.g., “forein” for “foreign” or the variant spellings “Duarto en Rigis” and “Duarto an Rigij”.
