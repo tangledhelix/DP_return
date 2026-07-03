@@ -38,6 +38,7 @@
 - [ ] footnote 22: latin?
 - [ ] footnote 49: latin?
 - [ ] footnote 96: ~penc̃on~ is what language? non-italic text. uses non-composed character
+- [ ] link ~(note)~ entries in the index instead of using pageno links. (Remove link from page number?)
 * Transcriber Notes
 ** Leading TN
 - Some inconsistencies in spelling, hyphenation, and punctuation have been retained. In particular, archaic and alternate spellings have been preserved, especially those occuring in quotations, e.g., “forein” for “foreign” or the variant spellings “Duarto en Rigis” and “Duarto an Rigij”.
@@ -292,17 +293,17 @@ References: ([[https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p1347865][p13
   - Use only the first regex (em-dash) and ignore the others, which were done already.
   - Since we treat a long dash as two em-dashes, this takes care of both.
 *** Generate the HTML
-- [ ] It is preferable for the source line-breaks to match the book; however HTML poetry markup won't work unless ~/P..P/~ sections have been rewrapped. If the book has much poetry, rewrap it all; else select and rewrap poetry sections individually.
+- [X] It is preferable for the source line-breaks to match the book; however HTML poetry markup won't work unless ~/P..P/~ sections have been rewrapped. If the book has much poetry, rewrap it all; else select and rewrap poetry sections individually.
   - Don't remove the rewrap markers. These are needed for generation of proper HTML.
-- [ ] Search for ~^/[*$pcrflxi]~ (regex, no match-case) and make any desired [[https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers][rewrap marker]] changes before HTML generation
-- [ ] TODO: Figure out how to do ~chap_fn~ for Footnotes, i.e. ~1_1, 1_2, ... 2_1, 2_2, ...~ rather than a single numbered list?
-- [ ] TODO: Footnotes need to move to landing zones before HTML generation?
-- [ ] Open ~HTML → HTML Generator~.
+- [X] Search for ~^/[*$pcrflxi]~ (regex, no match-case) and make any desired [[https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers][rewrap marker]] changes before HTML generation
+- [X] TODO: Figure out how to do ~chap_fn~ for Footnotes, i.e. ~1_1, 1_2, ... 2_1, 2_2, ...~ rather than a single numbered list?
+- [X] TODO: Footnotes need to move to landing zones before HTML generation?
+- [X] Open ~HTML → HTML Generator~.
   - Correct the Title if not auto-detected properly.
   - Set options as desired.
   - Use the ~Auto-generate HTML~ button.
-- [ ] Save the file and open it in a browser.
-- [ ] Scroll through looking for systematic errors. (Title pages, tables, etc. will look terrible; no matter). If automatic conversion messed up, start this step over with a reset file.
+- [X] Save the file and open it in a browser.
+- [X] Scroll through looking for systematic errors. (Title pages, tables, etc. will look terrible; no matter). If automatic conversion messed up, start this step over with a reset file.
 - [ ] Page through the book looking for text that was not handled well by automatic HTML generation, in particular:
   - [[https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/DP_HTML_Best_Practices/Case_Studies/Title_Pages][Title pages]].
   - [[https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/DP_HTML_Best_Practices/Case_Studies/Tables][Tables and Tables of Contents]]. The ~Auto Table~ button can help format tables.
