@@ -108,6 +108,10 @@ table.autotable    { border-collapse: collapse; }
 table.autotable td,
 table.autotable th { padding: 0.25em; }
 
+table.cases tr,
+table.statutes tr
+{ border: 1px dotted red; }
+
 .tdl      {text-align: left;}
 .tdr      {text-align: right;}
 .tdc      {text-align: center;}
@@ -499,7 +503,7 @@ in this country.</p>
 </div>
 
 
-<table class="autotable">
+<table class="autotable cases">
 <tr>
 <th class="tdl"></th>
 <th class="tdr">
@@ -508,26 +512,10 @@ PAGE
 </tr>
 <tr>
 <td class="tdl">
-
-</td>
-<td class="tdr">
-
-</td>
-</tr>
-<tr>
-<td class="tdl">
 Anon. (1683), 1 Vernon, 263
 </td>
 <td class="tdr">
 104 (<a href="#Footnote_137_137">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl">
-
-</td>
-<td class="tdr">
-
 </td>
 </tr>
 <tr>
@@ -540,26 +528,10 @@ Barker <i>v.</i> Warren (1675), 2 Mod., 271
 </tr>
 <tr>
 <td class="tdl">
-
-</td>
-<td class="tdr">
-
-</td>
-</tr>
-<tr>
-<td class="tdl">
 Britton <i>v.</i> Standish (1704), Cas. temp. Holt 141, 3 Salk. 88
 </td>
 <td class="tdr">
 26 (<a href="#Footnote_44_44">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl">
-
-</td>
-<td class="tdr">
-
 </td>
 </tr>
 <tr>
@@ -572,26 +544,10 @@ Chamberlain of London <i>v.</i> Evans (1767), Cobbett’s <i>Parl. Hist.</i>, vo
 </tr>
 <tr>
 <td class="tdl">
-
-</td>
-<td class="tdr">
-
-</td>
-</tr>
-<tr>
-<td class="tdl">
 De Wilton <i>v.</i> Montefiore, L. R. (1900), 2 Ch. 489
 </td>
 <td class="tdr">
 <a href="#Page_1">1</a>, <a href="#Page_3">3</a>
-</td>
-</tr>
-<tr>
-<td class="tdl">
-
-</td>
-<td class="tdr">
-
 </td>
 </tr>
 <tr>
@@ -604,26 +560,10 @@ East India Co. <i>v.</i> Sandys (1683–5), X Howell’s <i>State Trials</i>, 37
 </tr>
 <tr>
 <td class="tdl">
-
-</td>
-<td class="tdr">
-
-</td>
-</tr>
-<tr>
-<td class="tdl">
 Fish <i>v.</i> Klein (1817), 2 Mer., 431
 </td>
 <td class="tdr">
 63 (<a href="#Footnote_94_94">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl">
-
-</td>
-<td class="tdr">
-
 </td>
 </tr>
 <tr>
@@ -636,26 +576,10 @@ Gilbert <i>v.</i> Buzzard &amp; Boyer (1821), 2 Hag. <i>Cons.</i>, 333
 </tr>
 <tr>
 <td class="tdl">
-
-</td>
-<td class="tdr">
-
-</td>
-</tr>
-<tr>
-<td class="tdl">
 Goddard <i>v.</i> Smith (1764), 8 Mod., 264
 </td>
 <td class="tdr">
 102 (<a href="#Footnote_135_135">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl">
-
-</td>
-<td class="tdr">
-
 </td>
 </tr>
 <tr>
@@ -668,26 +592,10 @@ Godden <i>v.</i> Hales (1686), 2 Shower, 475; XI Howell’s <i>State Trials</i>,
 </tr>
 <tr>
 <td class="tdl">
-
-</td>
-<td class="tdr">
-
-</td>
-</tr>
-<tr>
-<td class="tdl">
 Inhabitants of St. Andrew’s Undershaft <i>v.</i> De Breta (1701), 1 Ld. Raym., 699
 </td>
 <td class="tdr">
 <a href="#Page_120">120</a>
-</td>
-</tr>
-<tr>
-<td class="tdl">
-
-</td>
-<td class="tdr">
-
 </td>
 </tr>
 <tr>
@@ -700,26 +608,10 @@ Lindo <i>v.</i> Belisario (1795), 1 Hag. <i>Cons.</i>, 216
 </tr>
 <tr>
 <td class="tdl">
-
-</td>
-<td class="tdr">
-
-</td>
-</tr>
-<tr>
-<td class="tdl">
 Musgrove <i>v.</i> Chun Teeong Toy L. R., [1891], A. C. 272
 </td>
 <td class="tdr">
 69 (<a href="#Footnote_100_100">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl">
-
-</td>
-<td class="tdr">
-
 </td>
 </tr>
 <tr>
@@ -732,26 +624,10 @@ Nayler’s Case (1656), V Howell’s <i>State Trials</i>, 801
 </tr>
 <tr>
 <td class="tdl">
-
-</td>
-<td class="tdr">
-
-</td>
-</tr>
-<tr>
-<td class="tdl">
 Pigg <i>v.</i> Caley (1617), Noy 27
 </td>
 <td class="tdr">
 <a href="#Page_15">15</a>
-</td>
-</tr>
-<tr>
-<td class="tdl">
-
-</td>
-<td class="tdr">
-
 </td>
 </tr>
 <tr>
@@ -764,26 +640,10 @@ Powell <i>v.</i> The Kempton Park Racecourse Co., L. R. [1897], 2 Q. B. 242 &amp
 </tr>
 <tr>
 <td class="tdl">
-
-</td>
-<td class="tdr">
-
-</td>
-</tr>
-<tr>
-<td class="tdl">
 R. <i>v.</i> Bartholomew Legatt (1612), II Howell’s <i>State Trials</i>, 729
 </td>
 <td class="tdr">
 <a href="#Page_22">22</a>
-</td>
-</tr>
-<tr>
-<td class="tdl">
-
-</td>
-<td class="tdr">
-
 </td>
 </tr>
 <tr>
@@ -796,14 +656,6 @@ Reg. <i>v.</i> Price (1884), L. R., 12 Q. B. D. 247
 </tr>
 <tr>
 <td class="tdl">
-
-</td>
-<td class="tdr">
-
-</td>
-</tr>
-<tr>
-<td class="tdl">
 Robeley <i>v.</i> Langston (1667), 2 Keble, 314
 </td>
 <td class="tdr">
@@ -812,26 +664,10 @@ Robeley <i>v.</i> Langston (1667), 2 Keble, 314
 </tr>
 <tr>
 <td class="tdl">
-
-</td>
-<td class="tdr">
-
-</td>
-</tr>
-<tr>
-<td class="tdl">
 Somersett’s Case (1771), XX Howell’s <i>State Trials</i>, 41
 </td>
 <td class="tdr">
 <a href="#Page_15">15</a>
-</td>
-</tr>
-<tr>
-<td class="tdl">
-
-</td>
-<td class="tdr">
-
 </td>
 </tr>
 <tr>
@@ -857,7 +693,7 @@ Thomas <i>v.</i> Sorrel (1674), Vaughan, 330
 </div>
 
 
-<table class="autotable">
+<table class="autotable statutes">
 <tr>
 <th class="tdl"></th>
 <th class="tdr">
@@ -1997,7 +1833,7 @@ The Instrument of Government
 34 &amp; 35 Vict., c. 48 (Promissory Oaths Act, 1871)
 </td>
 <td class="tdr">
-81 (note)
+81 (<a href="#Footnote_108_108">note</a>)
 </td>
 </tr>
 </table>

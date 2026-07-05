@@ -38,8 +38,8 @@
 - [ ] (html) footnote 22: latin?
 - [ ] (html) footnote 49: latin?
 - [ ] (html) footnote 96: ~penc̃on~ is what language? non-italic text. uses non-composed character
-- [ ] (html) link ~(note)~ entries in the index instead of using pageno links. (Remove link from page number?)
-- [ ] (html) add page/note links from tables at start of book
+- [X] (html) link ~(note)~ entries in the index instead of using pageno links. (Remove link from page number?)
+- [X] (html) add page/note links from tables at start of book
 - [ ] (html) place mid-paragraph sidenotes
 - [ ] Add to TN (both editions) something about the x/y dates (day-of-month, and year)
 * Transcriber Notes
@@ -317,8 +317,8 @@ References: ([[https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p1347865][p13
   - Illustrations.
 - [X] Use ~HTML → HTML Markup~ to make improvements. Use regex replacements to make systematic changes.
   - Where you see a problem, make a correction in Guiguts, save the file, and click the "reload" button in the web browser.
-- [ ] Hyperlink page references in text, TOC, and index (discussed [[https://www.pgdp.net/wiki/PPTools/Guiguts/HTML#Hyperlinking_Page_Numbers][here]] and [[https://www.pgdp.net/wiki/Indexes][here]]).
-- [ ] Remove the [[https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/HTML_Menu#Generated_TOC][Generated TOC]] if it is not needed.
+- [X] Hyperlink page references in text, TOC, and index (discussed [[https://www.pgdp.net/wiki/PPTools/Guiguts/HTML#Hyperlinking_Page_Numbers][here]] and [[https://www.pgdp.net/wiki/Indexes][here]]).
+- [X] Remove the [[https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/HTML_Menu#Generated_TOC][Generated TOC]] if it is not needed.
 - [ ] If ~A.M.~ ~P.M.~ or similar abbreviations were used and have spaces, insert ~&nbsp;~ to avoid undesirable mid-abbreviation line wraps.
 - [ ] If {super,sub}scripts were used, convert to ~<sup>~ or ~<sub>~ (NOTE: does Guiguts do this itself? Seems to for subs.)
 - [ ] Semantic fixup for italics
