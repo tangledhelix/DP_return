@@ -7,39 +7,41 @@
 * Things to revisit
 - [X] Old-fashioned (middle English?) spellings in various places
 - [ ] Roman numerals not terminating in ~.~ - some terminate in ~,~ and one terminates in ~'s~
-- [ ] "Dual-calendar dates with a forward slash please - e.g. 1654/5"
+- [X] "Dual-calendar dates with a forward slash please - e.g. 1654/5"
   - Need to evaluate this and handle anything here (if needed)
-  - [ ] p037: blockquote heading using fraction-style markup
-  - [ ] appears in other places; do a search like ~\d/\d~ to find them.
+  - [X] p037: blockquote heading using fraction-style markup
+  - [X] appears in other places; do a search like ~\d/\d~ to find them.
 - [X] There are continuation sidenotes throughout the book.
 - [X] Book contains errata (single item at the very end)
 - Alignment block items:
   - [X] f003: poetry and right-align (and other front matter)
   - [X] f005: right-align (and other front matter)
-  - [ ] f006: table
-  - [ ] f007-f008: table
+  - [X] f006: table
+  - [X] f007-f008: table
   - [X] p037: right-align in blockquote
   - [X] p038: poetry
   - [X] p041: right-align in blockquote
-- [ ] p129-p132: index
+- [X] p129-p132: index
 - [X] Revisit side notes. So far, rejoined them, moved above paras.
   - https://www.pgdp.net/wiki/Sidenotes
   - put them in the checklist post-split.
-- [ ] f003: poem with latin?
+- [ ] (html) f003: poem with latin?
 - [X] p085: ~March 16-May 17~: should be en-dash? Any other cases?
-- [ ] p007-p008: latin?
-- [ ] p010-p011: latin?
-- [ ] p016: latin?
-- [ ] p018: latin?
-- [ ] p038: poem with latin?
-- [ ] p080: latin or french?
-- [ ] p085-p086: latin?
-- [ ] footnote 18: latin?
-- [ ] footnote 22: latin?
-- [ ] footnote 49: latin?
-- [ ] footnote 96: ~penc̃on~ is what language? non-italic text. uses non-composed character
-- [ ] link ~(note)~ entries in the index instead of using pageno links. (Remove link from page number?)
-- [ ] add page/note links from tables at start of book
+- [ ] (html) p007-p008: latin?
+- [ ] (html) p010-p011: latin?
+- [ ] (html) p016: latin?
+- [ ] (html) p018: latin?
+- [ ] (html) p038: poem with latin?
+- [ ] (html) p080: latin or french?
+- [ ] (html) p085-p086: latin?
+- [ ] (html) footnote 18: latin?
+- [ ] (html) footnote 22: latin?
+- [ ] (html) footnote 49: latin?
+- [ ] (html) footnote 96: ~penc̃on~ is what language? non-italic text. uses non-composed character
+- [ ] (html) link ~(note)~ entries in the index instead of using pageno links. (Remove link from page number?)
+- [ ] (html) add page/note links from tables at start of book
+- [ ] (html) place mid-paragraph sidenotes
+- [ ] Add to TN (both editions) something about the x/y dates (day-of-month, and year)
 * Transcriber Notes
 ** Leading TN
 - Some inconsistencies in spelling, hyphenation, and punctuation have been retained. In particular, archaic and alternate spellings have been preserved, especially those occuring in quotations, e.g., “forein” for “foreign” or the variant spellings “Duarto en Rigis” and “Duarto an Rigij”.
