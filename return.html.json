@@ -1,40 +1,40 @@
 {
-  "md5checksum": "2f03f1537fa5b739e04314d5af6b38f0",
-  "insertpos": "111.14",
-  "insertpospeer": "1262.0",
+  "md5checksum": "bbf8b27cd74491a1b9f17c09c67b3dbb",
+  "insertpos": "112.17",
+  "insertpospeer": "677.18",
   "pagedetails": {
     "f001": {
-      "index": "354.0",
+      "index": "356.0",
       "style": "Roman",
       "number": "1",
       "label": "Pg i"
     },
     "f002": {
-      "index": "401.0",
+      "index": "403.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg ii"
     },
     "f003": {
-      "index": "412.0",
+      "index": "414.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg iii"
     },
     "f004": {
-      "index": "462.6",
+      "index": "464.6",
       "style": "\"",
       "number": "+1",
       "label": "Pg iv"
     },
     "f005": {
-      "index": "462.6",
+      "index": "464.6",
       "style": "\"",
       "number": "+1",
       "label": "Pg v"
     },
     "f006": {
-      "index": "493.0",
+      "index": "495.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg vi"
