@@ -108,15 +108,19 @@ table.autotable    { border-collapse: collapse; }
 table.autotable td,
 table.autotable th { padding: 0.25em; }
 
-table.cases td,
-table.statutes td
-{ border: 1px dotted red; }
-
 .tdl      {text-align: left;}
 .tdr      {text-align: right;}
 .tdc      {text-align: center;}
 .tdt      {vertical-align: top;}
 .tdb      {vertical-align: bottom;}
+
+table.cases td.tdl, table.statutes td.tdl {
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
+table.cases td, table.statutes td {
+  border: 1px dotted red;
+}
 
 .pagenum { /* uncomment the next line for invisible page numbers */
     /*  visibility: hidden;  */
