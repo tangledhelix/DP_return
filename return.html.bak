@@ -37,6 +37,8 @@ p {
     margin-bottom: .5em;
 }
 
+.sidenote { text-indent: 0; }
+
 .p2       {margin-top: 2em;}
 .p4       {margin-top: 4em;}
 .p6       {margin-top: 6em;}
@@ -1290,14 +1292,9 @@ The Instrument of Government
   </h2>
 </div>
 
-
-<span class="sidenote">Date of
-the return
-of the
-Jews to
-England.</span>
-
-<p>For a period of more than three and a half centuries
+<p>
+<span class="sidenote">Date of the return of the Jews to England.</span>
+For a period of more than three and a half centuries
 Jews were not permitted to live in England, nor is
 the date when they were first allowed to settle here
 by any means certain. However, in considering the
@@ -1355,12 +1352,9 @@ obediently to his government.’ From that time forward
 the Jews appear to have been permitted to reside in
 England and to practise the rites of their religion&#x2060;<a id="FNanchor_3_3" href="#Footnote_3_3" class="fnanchor">[3]</a>&#x2060;.”</p>
 
-<span class="sidenote">Popular,
-historical,
-and legal
-theories.</span>
-
-<p>This date, November 13, 1685, in the reign of James II,
+<p>
+<span class="sidenote">Popular, historical, and legal theories.</span>
+This date, November 13, 1685, in the reign of James II,
 is inconsistent with the popular theory that the Jews came
 over during the Protectorate of Oliver Cromwell in the
 wake of their great Rabbi, Menasseh Ben Israel, in the
@@ -1389,14 +1383,10 @@ attempt was made in due form of law to prevent the Jews
 who had already an organized community from continuing
 their residence in the country.</p>
 
-<span class="sidenote">Early history
-of the
-Jews in
-England.
-Saxon
-times.</span>
-
-<p>In order to understand the conditions for the solution
+<p>
+<span class="sidenote">Early history of the Jews in England.
+Saxon times.</span>
+In order to understand the conditions for the solution
 of this problem, it is necessary to glance at the previous
 <span class="pagenum" id="Page_4">[Pg 4]</span>history of the Jews in this country. There can be little
 doubt that from the earliest times, that is, ever since
@@ -1443,24 +1433,9 @@ mass was not to be celebrated in any place where the bodies
 of Jews or infidels were buried&#x2060;<a id="FNanchor_9_9" href="#Footnote_9_9" class="fnanchor">[9]</a>&#x2060;, and no Christian was to
 turn Jew or take part in Jewish feasts&#x2060;<a id="FNanchor_10_10" href="#Footnote_10_10" class="fnanchor">[10]</a>&#x2060;.</p>
 
-<span class="sidenote">Legal
-status of
-the Jews
-after the
-Norman
-Conquest.</span>
-
-<span class="sidenote">Exchequer
-of the
-Jews.</span>
-
-<span class="sidenote">Statutes
-restricting
-the Jews’
-civil
-rights.</span>
-
-<p>However this may be, there can be no doubt that after
+<p>
+<span class="sidenote">Legal status of the Jews after the Norman Conquest.</span>
+However this may be, there can be no doubt that after
 the Norman Conquest separate Jewish communities were
 to be found in many of the more important towns. The
 Jews, or “Iudaei,” as they were called, living in these
@@ -1483,6 +1458,7 @@ freemen, but their persons and property were under the
 absolute control and disposition of the king, whose exactions
 were only restricted by that prudence which warns
 the owner not to slay the goose that lays the golden eggs.
+<span class="sidenote">Exchequer of the Jews.</span>
 So important a source of revenue did the Jews become
 that a special court, the Exchequer of the Jews, was
 established in the reign of Richard I; this court had
@@ -1493,7 +1469,9 @@ remitted to a purely Jewish tribunal, to be decided by
 Jewish and not by English law. The Jews were not
 popular; they were the licensed money-lenders of the
 land—in this trade they had an absolute monopoly&#x2060;<a id="FNanchor_12_12" href="#Footnote_12_12" class="fnanchor">[12]</a>&#x2060;—and
-the creditor is rarely beloved by his debtor. The
+the creditor is rarely beloved by his debtor.
+<span class="sidenote">Statutes restricting the Jews’ civil rights.</span>
+The
 barons looked with jealous eyes on the Jews’ wide
 privileges in relation to their fellow men; but it was
 not till towards the close of Henry III’s long reign that
@@ -1513,7 +1491,9 @@ gain their living by lawful merchandise and labour, and
 might buy houses in the cities where they lived and hold
 them in chief of the king, and might take farms or land for
 the term of ten years or less. But the licence to take lands
-to farm was to endure for only fifteen years&#x2060;<a id="FNanchor_14_14" href="#Footnote_14_14" class="fnanchor">[14]</a>&#x2060;. Such was
+to farm was to endure for only fifteen years&#x2060;<a id="FNanchor_14_14" href="#Footnote_14_14" class="fnanchor">[14]</a>&#x2060;.
+<span class="sidenote">Banishment of the Jews.</span>
+Such was
 the position of the Jews before their final departure from
 the country in 1290&#x2060;<a id="FNanchor_15_15" href="#Footnote_15_15" class="fnanchor">[15]</a>&#x2060;. This event is accurately described
 in Stubbs’s <i>Constitutional History</i>: “At the same time (as
@@ -1559,15 +1539,10 @@ in any of the documents, but is generally believed to be
 the first of November&#x2060;<a id="FNanchor_20_20" href="#Footnote_20_20" class="fnanchor">[20]</a>&#x2060;; the writ in question was therefore
 issued immediately after their final departure.</p>
 
-<span class="sidenote">Effect
-of the
-banishment
-on the
-Revenue
-of the
+<p>
+<span class="sidenote">Effect of the banishment on the Revenue of the
 King.</span>
-
-<p>In consideration of having issued this decree of banishment,
+In consideration of having issued this decree of banishment,
 the Parliament which was then sitting, composed as
 it was in a great measure of landowners to whom Jewish
 usury had been a heavy burden, granted the king a fifteenth
@@ -1607,14 +1582,10 @@ to the Jews would come to him by way of escheats&#x2060;<a id="FNanchor_22_22" h
 
 <p><span class="pagenum" id="Page_10">[Pg 10]</span></p>
 
-<span class="sidenote">Theories
-concerning
-the
-banishment,
-(1) Lord
+<p>
+<span class="sidenote">Theories concerning the banishment, (1) Lord
 Coke’s.</span>
-
-<p>Looking back over the gulf of centuries, this event can
+Looking back over the gulf of centuries, this event can
 be descried with sufficient clearness, but the loss of the
 proclamation of banishment has left it wrapped in some
 obscurity that has given rise to several erroneous theories
@@ -1667,10 +1638,9 @@ Sancti Michaelis anno regni nostri tertio”; so that the date
 is now placed beyond all doubt&#x2060;<a id="FNanchor_24_24" href="#Footnote_24_24" class="fnanchor">[24]</a>&#x2060;. The basis of Coke’s
 theory is thus destroyed.</p>
 
-<span class="sidenote">(2)
-Prynne’s.</span>
-
-<p>Prynne, on the other hand, is very positive that the
+<p>
+<span class="sidenote">(2) Prynne’s.</span>
+Prynne, on the other hand, is very positive that the
 banishment was effected by Act of Parliament; his words
 are: “This their banishment was by the unanimous desire,
 Judgment, Edict, and Decree both of the King and his
@@ -1684,14 +1654,10 @@ from whose works he had already given; but these
 extracts when carefully examined do not bear out his
 assertion.</p>
 
-<span class="sidenote">(3) That
-the expulsion
-was
-by a synod
-held in
+<p>
+<span class="sidenote">(3) That the expulsion was by a synod held in
 London.</span>
-
-<p>This view held by Prynne was undoubtedly very widely
+This view held by Prynne was undoubtedly very widely
 spread, and at one time held by both the supporters and
 opponents of the Jews’ readmission; for the first petition
 presented on behalf of the Jews to the Council of War on
@@ -1772,15 +1738,10 @@ rest on very strong authority, and it is certain that the
 clergy, whatever their wishes might have been, had no
 legal power to effect the expulsion of the Jews&#x2060;<a id="FNanchor_28_28" href="#Footnote_28_28" class="fnanchor">[28]</a>&#x2060;.</p>
 
-<span class="sidenote">Period
-between
-the
-banishment
-and
-return of
-the Jews.</span>
-
-<p>It has been lately suggested that in spite of the decree
+<p>
+<span class="sidenote">Period between the banishment and return of the
+Jews.</span>
+It has been lately suggested that in spite of the decree
 of banishment and the severe penalties which disobedience
 to that decree would undoubtedly have entailed, some
 Jews still remained in this country. The suggestion is
@@ -1801,10 +1762,9 @@ relation to the return of the Jews here. Those events
 <span class="pagenum" id="Page_15">[Pg 15]</span>were the extinction of villenage and the reformation of
 the English Church.</p>
 
-<span class="sidenote">The disappearance
-of villenage.</span>
-
-<p>The disappearance of villenage is one of those great
+<p>
+<span class="sidenote">The disappearance of villenage.</span>
+The disappearance of villenage is one of those great
 changes which has been brought about without the
 intervention of the legislature. To a great extent this
 result was effected by the attitude of the courts of common
@@ -1878,11 +1838,9 @@ existed any doubt after the resettlement as to the absolute
 freedom and equality of the Jews with their fellow citizens
 before the law, it has now been removed.</p>
 
-<span class="sidenote">Consequences
-of the
-Reformation.</span>
-
-<p>Much as the decay of villenage might have facilitated
+<p>
+<span class="sidenote">Consequences of the Reformation.</span>
+Much as the decay of villenage might have facilitated
 the return of the Jews by rendering the former disabling
 enactments no longer applicable to them, the various laws
 passed in consequence of the Reformation of the English
@@ -1899,10 +1857,9 @@ other than those of the Established Church—the law of
 uniformity, to a great extent embodied in the statutes
 known as the laws against recusants.</p>
 
-<span class="sidenote">The law of
-Heresy.</span>
-
-<p>At the time of the expulsion of the Jews, and indeed
+<p>
+<span class="sidenote">The law of Heresy.</span>
+At the time of the expulsion of the Jews, and indeed
 until the days of Wycliffe and the rise of the Lollards
 nearly a century afterwards, heresy was almost unknown
 in England; and if there was any legal machinery other
@@ -2011,12 +1968,9 @@ with the memory of the cruelties that accompanied the
 expulsion two hundred years before would effectually
 discountenance any such attempt.</p>
 
-<span class="sidenote">Alterations
-in
-the law of
-Heresy.</span>
-
-<p>Under Henry VIII and Edward VI the law as to heresy
+<p>
+<span class="sidenote">Alterations in the law of Heresy.</span>
+Under Henry VIII and Edward VI the law as to heresy
 was considerably altered, but it was not varied in such
 a way as to give any sort of toleration to those who held
 principles in conflict with the doctrines proclaimed by the
@@ -2086,12 +2040,9 @@ show what might have been the position of professing
 Jews openly living and practising their religion in this
 country.</p>
 
-<span class="sidenote">Heresy
-and the
-Court of
-High Commission.</span>
-
-<p>Since the year 1612 no execution for heresy has taken
+<p>
+<span class="sidenote">Heresy and the Court of High Commission.</span>
+Since the year 1612 no execution for heresy has taken
 place in England, nor were offenders, if it was intended to
 <span class="pagenum" id="Page_23">[Pg 23]</span>deal severely with them, brought before the ecclesiastical
 courts. They were, however, dealt with by the Court of
@@ -2144,12 +2095,9 @@ had Laud and his associates known that they were at this
 very time beginning to creep secretly into the kingdom,
 this omission would hardly have been made.</p>
 
-<span class="sidenote">Abolition
-of the
-Court of
-High Commission.</span>
-
-<p>The court had always been unpopular, and the oppressive
+<p>
+<span class="sidenote">Abolition of the Court of High Commission.</span>
+The court had always been unpopular, and the oppressive
 use made of it by Laud caused its abolition by the
 Long Parliament in 1640 by a statute (16 Car. I, cap. 11).
 After reciting, “Whereas by colour of some words ... in
@@ -2185,10 +2133,9 @@ prosecution for heresy ever having taken place since the
 ecclesiastical courts were shorn of their power of inflicting
 corporal punishment by the Long Parliament in 1640.</p>
 
-<span class="sidenote">The Law
-of Uniformity.</span>
-
-<p>Such was in outline the law of heresy; it remains now
+<p>
+<span class="sidenote">The Law of Uniformity.</span>
+Such was in outline the law of heresy; it remains now
 to consider the second impediment to a Jewish resettlement,
 the Law of Uniformity. The expression Church and
 State is a common, almost a hackneyed one, and we are
@@ -2266,9 +2213,9 @@ he was to be adjudged a felon and suffer as in the case of
 felony (i. e. death and forfeiture of lands, goods, and
 chattels), without benefit of clergy.</p>
 
+<p>
 <span class="sidenote">Recusants.</span>
-
-<p>Persons neglecting to come to church were called Recusants;
+Persons neglecting to come to church were called Recusants;
 and if they absented themselves because they were
 Papists, Popish Recusants&#x2060;<a id="FNanchor_45_45" href="#Footnote_45_45" class="fnanchor">[45]</a>&#x2060;. This latter class was subject
 to still further disabilities. In Elizabeth’s reign they were
@@ -2336,16 +2283,10 @@ was enacted that a recusant who conformed and repaired
 to church should also be required to take the sacrament
 of the Lord’s Supper once at least every year.</p>
 
-<span class="sidenote">Legal
-position of
-the Jews
-at the
-beginning
-of
-Charles I’s
-reign.</span>
-
-<p>Such was the legislation against recusants, which was
+<p>
+<span class="sidenote">Legal position of the Jews at the beginning of
+Charles I’s reign.</span>
+Such was the legislation against recusants, which was
 not finally repealed until the middle of the last century&#x2060;<a id="FNanchor_47_47" href="#Footnote_47_47" class="fnanchor">[47]</a>&#x2060;.
 We are now able to sum up the legal position in which
 Jews, in the early years of Charles I’s reign, when they
@@ -2410,14 +2351,10 @@ The first of these obstacles was not removed until the reign
 of Charles II; we will now explain how the second was
 obviated in the time of that king’s father.</p>
 
-<span class="sidenote">Treaty
-with
-Spain,
-1630.
-Spanish
+<p>
+<span class="sidenote">Treaty with Spain, 1630. Spanish
 crypto-Jews.</span>
-
-<p>Before the commencement of the seventeenth century, it
+Before the commencement of the seventeenth century, it
 had become customary for the monarchs of Europe to maintain
 legations in each other’s capitals, and these legations
 were, by the principles of international law, which were
@@ -2507,19 +2444,10 @@ organization of a community was impossible, and even
 private prayers could only be indulged in under the cover
 of the strictest secrecy.</p>
 
-<span class="sidenote">The Great
-Rebellion.
-Ascendency
-of
-the Independents.</span>
-
-<span class="sidenote">Petition
-by the
-Jews of
-Amsterdam,
-1648/9.</span>
-
-<p>At length a brighter prospect seemed to open; the
+<p>
+<span class="sidenote">The Great Rebellion. Ascendency of the
+Independents.</span>
+At length a brighter prospect seemed to open; the
 Great Rebellion had broken out and proved successful, and
 the Protestant Dissenters who had formerly inveighed
 against the persecution of the church and advocated
@@ -2585,7 +2513,9 @@ desired to share it, were not slow to take advantage of so
 favourable an opportunity. The Council of Mechanics at
 <span class="pagenum" id="Page_36">[Pg 36]</span>Whitehall had at the end of December voted a toleration
 of all religions whatsoever, “not excepting Turkes nor Papists
-nor Jews&#x2060;<a id="FNanchor_54_54" href="#Footnote_54_54" class="fnanchor">[54]</a>&#x2060;.” A petition on their behalf was prepared by the
+nor Jews&#x2060;<a id="FNanchor_54_54" href="#Footnote_54_54" class="fnanchor">[54]</a>&#x2060;.”
+<span class="sidenote">Petition by the Jews of Amsterdam, 1648/9.</span>
+A petition on their behalf was prepared by the
 Jews of Amsterdam; it was in the name of Johanna
 Cartwright a widow, and Ebenezer her son, freeborn of
 England, and resident in the city of Amsterdam, and prayed
@@ -2675,13 +2605,10 @@ enforced by the Presbyterians either, and the later ordinance
 was undoubtedly acted upon; the proceedings against
 George Fox, the Quaker, being a well-known instance&#x2060;<a id="FNanchor_60_60" href="#Footnote_60_60" class="fnanchor">[60]</a>&#x2060;.</p>
 
-<span class="sidenote">Modification
-of
-the laws
-against
+<p>
+<span class="sidenote">Modification of the laws against
 recusancy.</span>
-
-<p>Though the Independents did not repeal the law relating
+Though the Independents did not repeal the law relating
 to blasphemy, they found it necessary to materially amend
 the laws against recusants. In spite of having obtained
 the supreme power, they formed, if numbers only were
@@ -2740,14 +2667,9 @@ provided this liberty be not extended to Popery or Prelacy,
 <span class="pagenum" id="Page_40">[Pg 40]</span>nor to such as under the profession of Christ, hold forth
 and practise licentiousness&#x2060;<a id="FNanchor_62_62" href="#Footnote_62_62" class="fnanchor">[62]</a>&#x2060;.”</p>
 
-<span class="sidenote">Freedom
-of worship
-not extended
-to all
-Christian
+<p><span class="sidenote">Freedom of worship not extended to all Christian
 sects.</span>
-
-<p>If one thing is certain among the doubts occasioned by
+If one thing is certain among the doubts occasioned by
 the hasty and manifold changes of law which took place
 during this revolutionary period, it is that freedom of
 worship was not extended even to all Christian sects;
@@ -2757,22 +2679,10 @@ article, and no form of worship not in accordance with
 Christian dogma was at any time legal or authorized
 throughout the whole period.</p>
 
-<span class="sidenote">Continuation
-of the
-negotiations
-with
-Jews of
+<p>
+<span class="sidenote">Continuation of the negotiations with Jews of
 Amsterdam.</span>
-
-<span class="sidenote">Menasseh
-ben Israel.</span>
-
-<span class="sidenote">The
-Whitehall
-Conference,
-1655.</span>
-
-<p>Nevertheless, the Jews, encouraged by the reception their
+Nevertheless, the Jews, encouraged by the reception their
 overtures had met with in the early part of 1649, had not
 given up their hopes. The Navigation Act which became
 law on October 9, 1651&#x2060;<a id="FNanchor_63_63" href="#Footnote_63_63" class="fnanchor">[63]</a>&#x2060;, caused such friction between
@@ -2791,7 +2701,9 @@ the speedy consideration of the Council, but they met with
 the reception which throughout the interregnum was
 accorded to all attempts to relax the law in favour of the
 Jews; the Council did not see its way to make any order
-in the matter&#x2060;<a id="FNanchor_64_64" href="#Footnote_64_64" class="fnanchor">[64]</a>&#x2060;. But the cause was not yet hopeless; in the
+in the matter&#x2060;<a id="FNanchor_64_64" href="#Footnote_64_64" class="fnanchor">[64]</a>&#x2060;.
+<span class="sidenote">Menasseh ben Israel.</span>
+But the cause was not yet hopeless; in the
 October of the year following, Menasseh ben Israel, brother-in-law
 <span class="pagenum" id="Page_41">[Pg 41]</span>to Dormido, and a learned Rabbi, came from
 Amsterdam to London, and was hospitably received by the
@@ -2801,7 +2713,9 @@ scandal, but who was at the same time determined not to
 risk a popular tumult which might not improbably break
 out if protection was extended to a strange religion without
 the previous sanction and approbation of the leaders of the
-people. It was with this view that a conference was
+people.
+<span class="sidenote">The Whitehall Conference, 1655.</span>
+It was with this view that a conference was
 summoned to meet at Whitehall to discuss the question.
 So much has recently been written about the conference
 and the events which led to it, that it will be sufficient
@@ -2927,20 +2841,9 @@ Deliberation.’”</p>
 
 <p><span class="pagenum" id="Page_44">[Pg 44]</span></p>
 
-<span class="sidenote">Result of
-the Conference.</span>
-
-<span class="sidenote">Menasseh’s
-second
-petition,
-March,
-1655/6.</span>
-
-<span class="sidenote">Departure
-and death
-of Menasseh.</span>
-
-<p>Thus the famous Conference resulted, like all the
+<p>
+<span class="sidenote">Result of the Conference.</span>
+Thus the famous Conference resulted, like all the
 attempts made during the interregnum, in nothing being
 done and no alteration in the law being made; Cromwell’s
 good-will was not proof against the prejudice which was
@@ -2950,7 +2853,9 @@ actuated as he was at this time by the motives of the
 astute politician rather than by the feelings of the religious
 enthusiast, care to press the cause of religious toleration in
 the teeth of popular opposition; and yet he did not give
-the petitioners a formal dismissal. And so Rabbi Menasseh
+the petitioners a formal dismissal.
+<span class="sidenote">Menasseh’s second petition, March, 1655/6.</span>
+And so Rabbi Menasseh
 remained in London, but with far different hopes to those
 he cherished on his first arrival. On March 24 of the
 following year he again took part with six other Jews in
@@ -2975,7 +2880,9 @@ Commonwealth hath at this time most freely granted
 them many and great priviledges&#x2060;<a id="FNanchor_66_66" href="#Footnote_66_66" class="fnanchor">[66]</a>&#x2060;.” But Menasseh, though
 his <i>Vindiciae</i> effected nothing, though no response came
 to his second petition with its very humble prayer, still
-<span class="pagenum" id="Page_45">[Pg 45]</span>stayed behind at his post, hoping against hope. In
+<span class="pagenum" id="Page_45">[Pg 45]</span>stayed behind at his post, hoping against hope.
+<span class="sidenote">Departure and death of Menasseh.</span>
+In
 September, 1657, his son Samuel died in his house, and
 the pious father having solemnly promised to take his
 mortal remains to Holland and lay them to rest in consecrated
@@ -3247,12 +3154,9 @@ Cromwell</i>, p. lxxxvii.</p></div>
   </h2>
 </div>
 
-
-<span class="sidenote">Failure
-of Menasseh’s
-mission.</span>
-
-<p>Menasseh Ben Israel’s mission had failed. The Conference
+<p>
+<span class="sidenote">Failure of Menasseh’s mission.</span>
+Menasseh Ben Israel’s mission had failed. The Conference
 summoned to consider his proposals had broken up
 without coming to any resolution; the petition presented
 in the following spring had received no answer, and at
@@ -3307,10 +3211,9 @@ much agitated, but nothing was done,” apply with equal
 truth to the earlier petition and the great Rabbi’s mission
 seven years later.</p>
 
-<span class="sidenote">Cromwell’s
-Toleration.</span>
-
-<p>During our own and our fathers’ times a great change
+<p>
+<span class="sidenote">Cromwell’s Toleration.</span>
+During our own and our fathers’ times a great change
 has taken place in the opinions men have formed of
 Cromwell’s character and his place in the history of his
 country. It was at one time the fashion to write him
@@ -3361,18 +3264,10 @@ worship contrary to the Protestant religion, and therefore,
 in breach of the law of the land, to be publicly
 celebrated.</p>
 
-<span class="sidenote">Theory
-that a
-‘tolerance’
-was
-granted to
-the Jews
-by Cromwell
-in
-February,
-1658.</span>
-
-<p>Our English historians have taken Cromwell’s hospitable
+<p>
+<span class="sidenote">Theory that a ‘tolerance’ was granted to the
+Jews by Cromwell in February, 1658.</span>
+Our English historians have taken Cromwell’s hospitable
 treatment of Menasseh and his summoning of the Whitehall
 Conference as examples of his toleration, but all
 admit that in this instance no practical effect was given
@@ -3465,20 +3360,10 @@ possibly because the organizers have discovered the futility
 of attempting to create an anniversary for which there is
 no historical justification.</p>
 
-<span class="sidenote">Theory
-that the
-Committee
-of
-the
-Council
-of State
-reported
-in favour
-of admitting
-the
-Jews.</span>
-
-<p>The next theory is, that though the Conference effected
+<p>
+<span class="sidenote">Theory that the Committee of the Council of
+State reported in favour of admitting the Jews.</span>
+The next theory is, that though the Conference effected
 <span class="pagenum" id="Page_52">[Pg 52]</span>nothing, the Committee of the Council of State which had
 been appointed to consider Menasseh’s Petition, subsequently
 reported in favour of admitting the Jews, subject to certain
@@ -3583,20 +3468,10 @@ provision was ever during the whole existence of the Commonwealth
 Government made or attempted to be made
 either by the legislature or the executive&#x2060;<a id="FNanchor_82_82" href="#Footnote_82_82" class="fnanchor">[82]</a>&#x2060;.</p>
 
-<span class="sidenote">Theory as
-to the
-return of
-the Jews,
-founded
-on the
-proceedings
-against
-Antonio
-Robles
-(March-May,
-1656).</span>
-
-<p>Let us now turn to a third theory. It is that, though
+<p>
+<span class="sidenote">Theory as to the return of the Jews, founded on
+the proceedings against Antonio Robles (March-May, 1656).</span>
+Let us now turn to a third theory. It is that, though
 it cannot be proved that any formal concession was publicly
 made to the Jews, yet the circumstances accompanying
 the proceedings taken against one Antonio Robles show
@@ -3713,13 +3588,9 @@ should be forthwith discharged, and that Robles should
 be at liberty to dispose of his goods and papers notwithstanding
 the warrants issued against them&#x2060;<a id="FNanchor_83_83" href="#Footnote_83_83" class="fnanchor">[83]</a>&#x2060;.</p>
 
-<span class="sidenote">The true
-bearing
-of the
-Robles
-case.</span>
-
-<p>The case is undoubtedly of great interest as showing the
+<p>
+<span class="sidenote">The true bearing of the Robles case.</span>
+The case is undoubtedly of great interest as showing the
 position of the Jews here at the time of the failure of
 Menasseh’s mission, but it in no way points to any legal
 recognition having been accorded to them. Robles’s property
@@ -3773,18 +3644,10 @@ attend at some Protestant place of worship in
 order to make sure of escaping the pains and penalties of
 the Acts against Recusants&#x2060;<a id="FNanchor_87_87" href="#Footnote_87_87" class="fnanchor">[87]</a>&#x2060;.</p>
 
-<span class="sidenote">Theory
-that Cromwell
-gave
-a special
-authorization
-to
-John
-Sadler to
-build a
-Synagogue.</span>
-
-<p>Yet another theory claims attention; it is that Cromwell
+<p>
+<span class="sidenote">Theory that Cromwell gave a special
+authorization to John Sadler to build a Synagogue.</span>
+Yet another theory claims attention; it is that Cromwell
 as Protector gave to John Sadler “a special authorization”
 to build a synagogue&#x2060;<a id="FNanchor_88_88" href="#Footnote_88_88" class="fnanchor">[88]</a>&#x2060;. The authority for this statement
 is a passage in the account of John Sadler in the Birch
@@ -3831,18 +3694,10 @@ the Jews, omits altogether to mention it&#x2060;<a id="FNanchor_90_90" href="#Fo
 <span class="pagenum" id="Page_61">[Pg 61]</span>to come to any other conclusion than that the alleged
 grant was never made.</p>
 
-<span class="sidenote">Theory
-founded
-on the
-antiquity
-of the
-Spanish
-and Portuguese
-cemetery
-at Mile
-End.</span>
-
-<p>The last of these theories with which it is necessary to
+<p>
+<span class="sidenote">Theory founded on the antiquity of the Spanish
+and Portuguese cemetery at Mile End.</span>
+The last of these theories with which it is necessary to
 deal is that a favourable answer was given to the petition
 mentioned at the end of the last article, which was presented
 on March 24, 1656, praying for protection in writing
@@ -4147,21 +4002,8 @@ during the month of October, 1901.</p></div>
   </h2>
 </div>
 
-
-<span class="sidenote">Cromwell’s
-attitude to
-the Jews.</span>
-
-<span class="sidenote">The legal
-position of
-the Jews
-under
-Cromwell
-the same
-as under
-Charles I.</span>
-
-<p>We must now turn from the pursuit of theories which,
+<p><span class="sidenote">Cromwell’s attitude to the Jews.</span>
+We must now turn from the pursuit of theories which,
 however interesting, are either insufficiently supported by
 evidence or demonstrably false, and attempt to sum up
 what Cromwell actually did. It is clear that at one time
@@ -4193,7 +4035,10 @@ wisely refused to pay for a boon which could only be
 securely granted under the guarantee of an Act of Parliament,
 when the Protector had not the courage to introduce
 a bill which, even if backed by his great influence,
-would have stood little chance of ever becoming law. At
+would have stood little chance of ever becoming law.
+<span class="sidenote">The legal position of the Jews under Cromwell
+the same as under Charles I.</span>
+At
 any rate, Cromwell did nothing, and the position of the
 Jews remained throughout his régime the same as it had
 been in the time of Charles I. They were liable to severe
@@ -4229,21 +4074,10 @@ Families into this Kingdom, which have (since King Charles
 the Second’s Restauration) been increased to the Number
 of between Three and Fourscore Families.”</p>
 
-<span class="sidenote">Cromwell
-did not
-grant
-and had
-no power
-to grant
-special
-privileges
-to the
-Jews in
-respect
-of their
-religion.</span>
-
-<p>To this then all the statements about Cromwell’s protection
+<p>
+<span class="sidenote">Cromwell did not grant and had no power to grant
+special privileges to the Jews in respect of their religion.</span>
+To this then all the statements about Cromwell’s protection
 of the Jews amount, that he knowingly allowed some half-dozen
 families to remain in the country, even utilizing their
 services for the purpose of carrying out his political aims.
@@ -4285,19 +4119,10 @@ any time arrogated to himself the right of introducing any
 strange religion, or mitigating the law in favour of its
 adherents.</p>
 
-<span class="sidenote">Position
-at the time
-of Cromwell’s
-death.
-Previous
-intrigues
-of the
-Jews in
-Holland
-with the
-Royalists.</span>
-
-<p>This was the situation of the Jews in the early days
+<p>
+<span class="sidenote">Position at the time of Cromwell’s death.
+Previous intrigues of the Jews in Holland with the Royalists.</span>
+This was the situation of the Jews in the early days
 of September, 1658; it was almost precisely the same as
 it had been ten years before, save that the hopes which
 were then formed had been disappointed, and succour was
@@ -4332,30 +4157,10 @@ granted by King James to my Lord of Suffolk for the
 discovery of them, which made most of the ablest of them
 fly out of England&#x2060;<a id="FNanchor_101_101" href="#Footnote_101_101" class="fnanchor">[101]</a>&#x2060;.”</p>
 
-<span class="sidenote">Menasseh’s
-failure
-made
-the Jews
-of Holland
-incline to
-Charles II.</span>
-
-<span class="sidenote">Commission
-to
-Lt.-Gen.
-Middleton
-to treat
-with
-them.</span>
-
-<span class="sidenote">Their
-hopes
-destroyed
-by the
-battle of
-the Dunes.</span>
-
-<p>At this time the hopes of the Jews centred in Cromwell’s
+<p>
+<span class="sidenote">Menasseh’s failure made the Jews of Holland
+incline to Charles II.</span>
+At this time the hopes of the Jews centred in Cromwell’s
 <span class="pagenum" id="Page_72">[Pg 72]</span>professions of universal toleration, and had been raised to
 fever heat by the invitation extended to Menasseh and his
 followers. But these hopes were destined to bitter disappointment.
@@ -4368,6 +4173,8 @@ so the Jews in Holland now turned to the exiled Charles,
 peradventure they might obtain from him, in the event of
 his ever being restored to his kingdom, the boon which
 had been refused them by the all-powerful Protector.
+<span class="sidenote">Commission to Lt.-Gen. Middleton to treat with
+them.</span>
 Little more than a year after they had been found so unapproachable
 by Sir Marmaduke Langdale and Mr. Overton,
 the failure of Menasseh’s mission having occurred in the
@@ -4396,7 +4203,10 @@ importance to him. Such assistance he received, and he
 afterwards, as will be seen, scrupulously carried out the
 pledge, on the faith of which it had been rendered. But
 for the time being the prospect for resettlement was not
-a bright one. Charles was not ready to start until early
+a bright one.
+<span class="sidenote">Their hopes destroyed by the battle of the
+Dunes.</span>
+Charles was not ready to start until early
 in 1658, but on March 1 of that year English frigates
 destroyed his ships at Ostend, and after the battle of the
 Dunes on June 8, all hope of help from Spain was gone,
@@ -4408,19 +4218,10 @@ first of these events almost certain, though a period of more
 than a year and a half was to elapse before the king came
 to his own again.</p>
 
-<span class="sidenote">Interval
-between
-the death
-of Cromwell
-and
-the Restoration.
-Increase
-in the
-number of
-the Jews
-here.</span>
-
-<p>In this interval no great change can be proved to have
+<p>
+<span class="sidenote">Interval between the death of Cromwell and the
+Restoration. Increase in the number of the Jews here.</span>
+In this interval no great change can be proved to have
 taken place in the condition of the Jews here, but the reins
 of government had become slacker, and the laws of intolerance,
 though unaltered, were less uniformly enforced.
@@ -4446,13 +4247,10 @@ for a plague to your subjects)&#x2060;<a id="FNanchor_103_103" href="#Footnote_1
 at the same time also testify to this increase in the
 numbers of the Jews.</p>
 
-<span class="sidenote">First mention
-of a
-Jewish
-synagogue
-in England.</span>
-
-<p>There is moreover some, though it must be admitted weak,
+<p>
+<span class="sidenote">First mention of a Jewish synagogue in
+England.</span>
+There is moreover some, though it must be admitted weak,
 evidence that a synagogue was established at this time. It
 was of course a secret, and in no sense a public building.
 The authority for this statement is a scurrilous pamphlet,
@@ -4539,14 +4337,10 @@ he could not earlier obtain any evidence of their having
 set up a synagogue, and so rendered themselves amenable
 to the criminal law.</p>
 
-<span class="sidenote">No change
-in the legal
-status
-of the
-Jews till
+<p>
+<span class="sidenote">No change in the legal status of the Jews till
 the Restoration.</span>
-
-<p>There is evidence then that in the year and a half which
+There is evidence then that in the year and a half which
 <span class="pagenum" id="Page_77">[Pg 77]</span>succeeded Cromwell’s death the numbers of the Jews
 increased, and their position and prospects improved so
 far that they ventured to hold divine service, probably in
@@ -4562,22 +4356,10 @@ have been aroused and whatever laxity there may have
 been in administering the law in this interval, no change
 was effected in the legal status of the Jews.</p>
 
-<span class="sidenote">The Restoration
-of
-the king
-and Resettlement
-of the
-Jews.</span>
-
-<span class="sidenote">Charles II
-an advocate
-of
-toleration
-in an
-intolerant
-age.</span>
-
-<p>On Royal Oak Day, May 29, 1660, Charles II made his
+<p>
+<span class="sidenote">The Restoration of the king and Resettlement of
+the Jews.</span>
+On Royal Oak Day, May 29, 1660, Charles II made his
 triumphal entry into London, amidst the plaudits and
 acclamations of the citizens. Thenceforward all the acts
 of the late Government, unless expressly confirmed by
@@ -4611,7 +4393,10 @@ explain this strange phenomenon it will be necessary to
 review briefly the general religious history of the reign,
 and then examine the occasions on which the still small
 Jewish community was brought into contact with the
-governing powers. The king himself was of a tolerant
+governing powers.
+<span class="sidenote">Charles II an advocate of toleration in an
+intolerant age.</span>
+The king himself was of a tolerant
 disposition, and again and again combatted the zeal for
 persecution of his Parliament, though in these contests he
 was often worsted, thanks to his prevailing vices of self-indulgence
@@ -4663,12 +4448,9 @@ to consent to such an Act of Parliament, as, upon mature
 deliberation, shall be offered to us, for the full granting
 that indulgence.”</p>
 
-<span class="sidenote">The Convention
-Parliament
-and
-toleration.</span>
-
-<p>The Convention Parliament, by which Charles had been
+<p>
+<span class="sidenote">The Convention Parliament and toleration.</span>
+The Convention Parliament, by which Charles had been
 recalled, did not pass any legislation on the subject of
 religion. The House of Commons contained many supporters
 of the old régime, who preferred the Presbyterian
@@ -4689,23 +4471,9 @@ presented and read a first time; but the toleration was
 thought too wide, and the bill rejected on the second
 reading by 183 to 157 votes&#x2060;<a id="FNanchor_107_107" href="#Footnote_107_107" class="fnanchor">[107]</a>&#x2060;.</p>
 
-<span class="sidenote">The new
-Parliament,
-1661.</span>
-
-<span class="sidenote">Members
-ordered to
-take the
-Sacrament.</span>
-
-<span class="sidenote">The Corporation
-Act.</span>
-
-<span class="sidenote">The
-Quakers’
-Act.</span>
-
-<p>At the end of the year the Parliament was dissolved,
+<p>
+<span class="sidenote">The new Parliament, 1661.</span>
+At the end of the year the Parliament was dissolved,
 and in the spring of the following year the elections for
 the new House of Commons were held. A wave of loyalty,
 such as has been seldom experienced, swept over the
@@ -4718,7 +4486,9 @@ mottoes and watchwords of the newly-elected representatives
 of the people. The Church was to be purged of all
 dissenting elements, and life in the State to be made endurable
 only to those who owned allegiance to the doctrines of
-the national Church. Accordingly, the first thing done by
+the national Church.
+<span class="sidenote">Members ordered to take the Sacrament.</span>
+Accordingly, the first thing done by
 the House of Commons, after the election of Sir Edward
 Turner as their Speaker, was to order all the members to
 take the Sacrament according to the old Liturgy, on pain
@@ -4727,6 +4497,7 @@ order that “The solemn League and Covenant” should be
 burned by the common hangman at Westminster and in
 the City, and that all copies thereof be taken down out of
 all churches, chapels, and all other public places in the kingdom.
+<span class="sidenote">The Corporation Act.</span>
 Moreover, the first law that it added to the statute-book,
 <span class="pagenum" id="Page_81">[Pg 81]</span>was “an Act for the well-governing and regulating
 of Corporations,” commonly called the Corporation Act, by
@@ -4740,6 +4511,7 @@ Thus all Nonconformists, of whatsoever creed or sect, were
 placed under a political disability, which was not removed
 till the year 1828. This was immediately followed by an
 Act restoring the bishops to their seats in the Upper House.
+<span class="sidenote">The Quakers’ Act.</span>
 The next measure passed this session to which attention
 must be directed was the Quakers’ Act, the passage of
 which was delayed in the Lords, who “had not stomachs
@@ -4766,11 +4538,9 @@ the statute-book more than a century and a half. It may
 name was not coupled with the Quakers, as it has been in
 several subsequent Acts of the legislature&#x2060;<a id="FNanchor_109_109" href="#Footnote_109_109" class="fnanchor">[109]</a>&#x2060;.</p>
 
-<span class="sidenote">The Act
-of Uniformity,
-1662.</span>
-
-<p>The other Act of this session that it is necessary to
+<p>
+<span class="sidenote">The Act of Uniformity, 1662.</span>
+The other Act of this session that it is necessary to
 mention is the Act of Uniformity (13 &amp; 14 Car. II, cap. 4),
 which ordained the exclusive use of the newly-revised
 Prayer-book in all places of public worship, and rendered
@@ -4788,11 +4558,9 @@ or mainprize,” for each offence. It is to be noted that these
 last provisions, though allowed to become obsolete, were
 not repealed till the year 1846.</p>
 
-<span class="sidenote">First Declaration
-of Indulgence,
-1662.</span>
-
-<p>The Act of Uniformity came into force on St. Bartholomew’s
+<p>
+<span class="sidenote">First Declaration of Indulgence, 1662.</span>
+The Act of Uniformity came into force on St. Bartholomew’s
 Day (Aug. 24), 1662. Its effect was not only to
 drive more than 3,000 ministers from their livings, but
 also, as the earlier legislation punishing non-attendance
@@ -4836,11 +4604,9 @@ as may enable us to exercise with a more universal satisfaction,
 that power of dispensing which we conceive to be
 inherent in us&#x2060;<a id="FNanchor_110_110" href="#Footnote_110_110" class="fnanchor">[110]</a>&#x2060;.”</p>
 
-<span class="sidenote">The Conventicle
-Act,
-1664.</span>
-
-<p>In the face of this declaration we are not surprised to
+<p>
+<span class="sidenote">The Conventicle Act, 1664.</span>
+In the face of this declaration we are not surprised to
 find that the penal laws were not strictly enforced, and
 that in particular cases, in which the declaration itself was
 not considered a general dispensation, the power of dispensing
@@ -4933,13 +4699,10 @@ to some of your majesty’s foreign plantations, unless he
 redeem himself by laying down 100<i>l.</i>: ‘Immedicabile
 vulnus ense recidendum, ne pars sincera trahatur&#x2060;<a id="FNanchor_112_112" href="#Footnote_112_112" class="fnanchor">[112]</a>&#x2060;’.”</p>
 
-<span class="sidenote">Bill for
-granting
-Liberty
-of Conscience
+<p>
+<span class="sidenote">Bill for granting Liberty of Conscience
 rejected.</span>
-
-<p>In the following session a Bill to enable the granting of
+In the following session a Bill to enable the granting of
 Indulgences for Liberty of Conscience was introduced into
 the House of Lords with the approbation of the king under
 the auspices of Ashley and Arlington, but without the
@@ -4950,11 +4713,9 @@ besides the Catholic lords, it was agreed that there should
 be no question put for the commitment; which was the
 most civil way of rejecting it&#x2060;<a id="FNanchor_113_113" href="#Footnote_113_113" class="fnanchor">[113]</a>&#x2060;.”</p>
 
-<span class="sidenote">The Five
-Mile Act,
-1665.</span>
-
-<p>The legislation of persecution was not yet complete. In
+<p>
+<span class="sidenote">The Five Mile Act, 1665.</span>
+The legislation of persecution was not yet complete. In
 the following year, 1665, by the Parliament which met at
 Oxford because the plague was still raging in London, the
 Five Mile Act (17 Car. II, c. 2) was passed which forbade
@@ -4965,12 +4726,9 @@ any city or corporate town without subscribing a declaration
 of non-resistance, and taking the oath laid down in
 the Act.</p>
 
-<span class="sidenote">Second
-Conventicle
-Act,
-1670.</span>
-
-<p>No further legislation was enacted till the year 1670;
+<p>
+<span class="sidenote">Second Conventicle Act, 1670.</span>
+No further legislation was enacted till the year 1670;
 the execution of the laws already passed would have satisfied
 the Church party; attention was, moreover, absorbed
 in foreign affairs and the war with Holland; but, on the
@@ -5016,11 +4774,9 @@ Authority in Ecclesiastical Affairs as fully and as amply as
 himself or any of his Predecessors have or might have
 done the same; any thing in this Act notwithstanding.”</p>
 
-<span class="sidenote">Declaration
-of Indulgence,
-1672.</span>
-
-<p>In the spring of the following year both Houses of
+<p>
+<span class="sidenote">Declaration of Indulgence, 1672.</span>
+In the spring of the following year both Houses of
 Parliament petitioned the king to issue a proclamation for
 the banishment of priests and Jesuits, and the enforcement
 of the laws against Recusants. The king again complied,
@@ -5095,16 +4851,10 @@ thus I shall take it very ill to receive contradiction in what
 I have done. And I will deal plainly with you, I am
 resolved to stick to my Declaration&#x2060;<a id="FNanchor_118_118" href="#Footnote_118_118" class="fnanchor">[118]</a>&#x2060;.”</p>
 
-<span class="sidenote">The power
-to issue
-the Declaration
-questioned
-in the
-Commons.
-The Declaration
-cancelled.</span>
-
-<p>The question was speedily taken into consideration by
+<p>
+<span class="sidenote">The power to issue the Declaration questioned in
+the Commons. The Declaration cancelled.</span>
+The question was speedily taken into consideration by
 the House of Commons, which, after a long and fierce
 debate, resolved by 168 votes to 116, “That Penal Statutes,
 in matters Ecclesiastical, cannot be suspended but by Act
@@ -5150,16 +4900,9 @@ thought right to relate at length on account of the light
 it throws on the spirit of the times as well as upon the
 question immediately before us.</p>
 
-<span class="sidenote">The Test
-Act,
-1673.</span>
-
-<span class="sidenote">The
-Parliamentary
-Test Act,
-1678.</span>
-
-<p>Into the religious history of the remainder of the reign,
+<p>
+<span class="sidenote">The Test Act, 1673.</span>
+Into the religious history of the remainder of the reign,
 inextricably bound up as it is with the course of politics, it
 is not necessary to enter at length; there was a perhaps
 not ill-founded suspicion that with an avowed Papist as
@@ -5182,7 +4925,9 @@ or to receive any legacy, and also the forfeiture of five
 hundred pounds, which could be recovered by any informer
 for his own benefit. It will be at once seen that this Act,
 though expressly directed against Papists, was equally
-applicable to sectaries of all denominations. This was
+applicable to sectaries of all denominations.
+<span class="sidenote">The Parliamentary Test Act, 1678.</span>
+This was
 followed five years later by the Parliamentary Test Act
 (30 Car. II, st. 2), entitled “An Act for the more effectual
 Preserving the King’s Person and Government, by disabling
@@ -5355,47 +5100,10 @@ their assistance to the support of it.”—Cobbett’s <i>Parl. Hist.</i>, vol.
   </h2>
 </div>
 
-
-<span class="sidenote">Petitions
-against
-the Jews
-at the
-time of
-the Restoration.</span>
-
-<span class="sidenote">Position
-of the
-Jews after
-the Restoration.</span>
-
-<span class="sidenote">The first
-synagogue.</span>
-
-<span class="sidenote">The secrecy
-surrounding
-the synagogue
-discarded
-at
-the end of
-1662 or beginning
-of
-1663.</span>
-
-<span class="sidenote">An organized
-community
-formed.</span>
-
-<span class="sidenote">1664.
-Threatened
-attack on
-the Jews.
-Petition
-to the
-king. His
-gracious
-answer.</span>
-
-<p>At the time of the Restoration there were some thirty
+<p>
+<span class="sidenote">Petitions against the Jews at the time of the
+Restoration.</span>
+At the time of the Restoration there were some thirty
 families of Jews in England&#x2060;<a id="FNanchor_121_121" href="#Footnote_121_121" class="fnanchor">[121]</a>&#x2060;, and these naturally awaited
 with expectation the promise of the king, given through
 General Middleton, “to abate that rigour of the law which
@@ -5476,7 +5184,10 @@ of Commons on religious questions during this reign it is
 clear that no relaxation of the law was to be effected by
 legislation in favour of the Jews, and the subject was not
 again brought forward in Parliament for a period of more
-than ten years. The position of the Jews, though unsatisfactory,
+than ten years.
+<span class="sidenote">Position of the Jews after the
+Restoration.</span>
+The position of the Jews, though unsatisfactory,
 was by no means intolerable; the laws against
 Recusants were not very strictly enforced against them,
 and their place of worship, if they had already one, was
@@ -5486,7 +5197,9 @@ other hand, the new Navigation Act had securely closed all
 the colonies and plantations against foreign merchants and
 factors, but this obstacle was surmounted by applying for
 and in many cases obtaining letters of denization from the
-king&#x2060;<a id="FNanchor_126_126" href="#Footnote_126_126" class="fnanchor">[126]</a>&#x2060;. As early as the year 1662 they were emboldened
+king&#x2060;<a id="FNanchor_126_126" href="#Footnote_126_126" class="fnanchor">[126]</a>&#x2060;.
+<span class="sidenote">The first synagogue.</span>
+As early as the year 1662 they were emboldened
 <span class="pagenum" id="Page_97">[Pg 97]</span>to erect a synagogue. There is the doubtful reference to a
 synagogue in <i>The Great Trapanner of England Discovered</i>,
 published in 1660, which has already been referred to; but
@@ -5515,7 +5228,10 @@ of admittance to the synagogue. We may judge the size
 of the congregation by the writer’s statement that in the
 synagogue he counted “about or above a hundred right
 Jews and one proselite amongst them&#x2060;<a id="FNanchor_127_127" href="#Footnote_127_127" class="fnanchor">[127]</a>&#x2060;.” It soon became
-no longer necessary to maintain this strict secrecy. In
+no longer necessary to maintain this strict secrecy.
+<span class="sidenote">The secrecy surrounding the synagogue discarded
+at the end of 1662 or beginning of 1663.</span>
+In
 <span class="pagenum" id="Page_98">[Pg 98]</span>the absence of any documentary evidence it is not safe to
 assume that a special dispensation was given by the king
 to the Jews by reason of that dispensing power which he
@@ -5537,7 +5253,9 @@ attempt at concealment. The clerk of the acts of the
 navy remarks upon the disorder, want of attention and
 confusion in the service, and observes that he could not
 “have imagined there had been any religion in the whole
-world so absurdly performed as this&#x2060;<a id="FNanchor_128_128" href="#Footnote_128_128" class="fnanchor">[128]</a>&#x2060;.” It was in the
+world so absurdly performed as this&#x2060;<a id="FNanchor_128_128" href="#Footnote_128_128" class="fnanchor">[128]</a>&#x2060;.”
+<span class="sidenote">An organized community formed.</span>
+It was in the
 course of this year that the hitherto isolated Jewish
 families formed themselves into a community. Henceforth
 regular records were kept; the synagogue, in addition to
@@ -5554,7 +5272,10 @@ strange religion should long remain unnoticed, and the
 passing of the Conventicle Act, which expressly declared
 that the Elizabethan legislation against Recusants was still
 in force and ought to be put into execution, invited an
-attack upon the Jews. It was not long delayed. The
+attack upon the Jews. It was not long delayed.
+<span class="sidenote">1664. Threatened attack on the Jews. Petition to
+the king. His gracious answer.</span>
+The
 Conventicle Act came into force on July 1, 1664. And
 immediately afterwards we hear of a Mr. Rycaut molesting
 the heads of the congregation, suggesting that they were
@@ -5602,15 +5323,10 @@ the Jews after Christmas, 1662, the new declaration was
 necessary to enable them to escape the severe penalties of
 the new Act which had just come into force.</p>
 
-<span class="sidenote">Inquiry
-concerning
-the
-Jews ordered
-by
-the House
+<p>
+<span class="sidenote">Inquiry concerning the Jews ordered by the House
 of Commons.</span>
-
-<p>For some years the synagogue was kept open and the
+For some years the synagogue was kept open and the
 services regularly held without molestation. On February 6,
 1670/1, the House of Commons thought fit to take this matter
 into their consideration. There was a scheme on foot to
@@ -5636,27 +5352,10 @@ and presented to the king; whose answer to this address
 excepting those who served his father and himself faithfully
 in the late wars has been already mentioned.</p>
 
-<span class="sidenote">1673. Prosecution
-of the
-Jews for
-meeting
-for the
-exercise
-of their
-religion.</span>
-
-<span class="sidenote">The Jews
-petition
-the king
-and obtain
-an Order
-in Council
-to stay
-the proceedings
-against
-them.</span>
-
-<p>For the time being, then, the Jews were left undisturbed;
+<p>
+<span class="sidenote">1673. Prosecution of the Jews for meeting for
+the exercise of their religion.</span>
+For the time being, then, the Jews were left undisturbed;
 nor were they concerned with the publication of the Declaration
 of Indulgence in the spring of 1672, for, for nearly
 nine years before that time they had openly exercised the
@@ -5673,7 +5372,10 @@ at the winter quarter sessions of 1673 at the
 Guildhall, the leaders of the Jewish community were indicted
 of a riot for meeting together for the exercise of
 their religion in Duke’s Place, and a true bill was found
-against them by the grand jury. The Jews again petitioned
+against them by the grand jury.
+<span class="sidenote">The Jews petition the king and obtain an Order
+in Council to stay the proceedings against them.</span>
+The Jews again petitioned
 the king, referring to the favourable reply they
 had received in 1664; and, as was seen in the first of these
 articles&#x2060;<a id="FNanchor_133_133" href="#Footnote_133_133" class="fnanchor">[133]</a>&#x2060;, on February 11, 1673/4, an order was made by the
@@ -5682,18 +5384,10 @@ proceedings at law against the Petitioners who have been
 <span class="pagenum" id="Page_102">[Pg 102]</span>indicted as aforesaid and do provide they may receive no
 further trouble in this behalf&#x2060;<a id="FNanchor_134_134" href="#Footnote_134_134" class="fnanchor">[134]</a>&#x2060;.”</p>
 
-<div class="sidenote">Entering
-a <i>nolle prosequi</i>
-on an
-indictment
-a
-new way
-of exercising
-the
-Dispensing
-Power.</div>
-
-<p>The method by which the Attorney-General is able to
+<p>
+<span class="sidenote">Entering a <i>nolle prosequi</i> on an indictment
+a new way of exercising the Dispensing Power.</span>
+The method by which the Attorney-General is able to
 stop proceedings in a criminal trial is by entering a <i>nolle
 prosequi</i>—a course which before these times was not unusual
 in the case of informations or prosecutions commenced
@@ -5732,16 +5426,10 @@ Nor was their confidence without justification,
 for no further attack was made upon them during the
 remainder of the reign.</p>
 
-<span class="sidenote">Progress
-made in
-the Establishment
-of a Jewish
-community
-in the
-reign of
-Charles</span>
-
-<p>It is well to pause here and glance at the progress
+<p>
+<span class="sidenote">Progress made in the Establishment of a Jewish
+community in the reign of Charles</span>
+It is well to pause here and glance at the progress
 made since the king’s return. The resettlement, towards
 which, in spite of several sustained but unsuccessful attempts,
 no real advance had actually been made during
@@ -5792,30 +5480,10 @@ established, requiring only the like recognition and
 protection from succeeding monarchs to make itself permanently
 and legally secure.</p>
 
-<span class="sidenote">Accession
-of James
-II. His
-religious
+<p>
+<span class="sidenote">Accession of James II. His religious
 policy.</span>
-
-<span class="sidenote">Jews arrested
-and
-charged
-with recusancy.</span>
-
-<span class="sidenote">On the
-petition of
-Joseph
-Henriques
-and others
-a formal
-Order in
-Council
-made staying
-the
-proceedings.</span>
-
-<p>On February 6, 1684/5, Charles II died, and his brother
+On February 6, 1684/5, Charles II died, and his brother
 James was proclaimed king. The new sovereign was from
 the first determined that the crushing disabilities under
 <span class="pagenum" id="Page_105">[Pg 105]</span>which his fellow Papists laboured should no longer press
@@ -5847,7 +5515,9 @@ adopted: “That this house doth acquiesce, entirely rely,
 and rest wholly satisfied in his majesty’s gracious word and
 repeated Declaration, to support and defend the Religion
 of the Church of England, as it is now by law established;
-which is dearer to us than our lives&#x2060;<a id="FNanchor_139_139" href="#Footnote_139_139" class="fnanchor">[139]</a>&#x2060;.” Though no proclamation
+which is dearer to us than our lives&#x2060;<a id="FNanchor_139_139" href="#Footnote_139_139" class="fnanchor">[139]</a>&#x2060;.”
+<span class="sidenote">Jews arrested and charged with recusancy.</span>
+Though no proclamation
 was issued, an attempt was a short time afterwards
 made to enforce the penal laws against the Jews;
 for one Thomas Beaumont issued process under the statute
@@ -5855,7 +5525,10 @@ made in the 23rd year of Queen Elizabeth, which inflicted
 <span class="pagenum" id="Page_106">[Pg 106]</span>a penalty of £20 a month for non-attendance at church,
 against no fewer than forty-eight Jews, of whom thirty-seven
 were arrested “as they were following their occasions on the
-Royal Exchange”; whereupon Joseph Henriques, Abraham
+Royal Exchange”;
+<span class="sidenote">On the petition of Joseph Henriques and others a
+formal Order in Council made staying the proceedings.</span>
+whereupon Joseph Henriques, Abraham
 Delivera, and Aaron Pacheco, the overseers of the Jewish
 synagogue, presented a petition to the King in Council
 praying “his Majesty to permit and suffer them as heretofore
@@ -5870,16 +5543,10 @@ this account, but quietly enjoy the free exercise of their
 religion, whilst they behave themselves dutifully and
 obediently to his government&#x2060;<a id="FNanchor_140_140" href="#Footnote_140_140" class="fnanchor">[140]</a>&#x2060;.”</p>
 
-<span class="sidenote">Dispute
-between
-James II
-and Parliament
-concerning
-the
-Dispensing
-Power.</span>
-
-<p>This Order in Council was made on November 13, 1685,
+<p>
+<span class="sidenote">Dispute between James II and Parliament
+concerning the Dispensing Power.</span>
+This Order in Council was made on November 13, 1685,
 at the very time when Parliament, newly reassembled after
 the suppression of Monmouth’s rebellion, was questioning
 the power of the king to retain in his service Roman
@@ -5937,17 +5604,10 @@ their want of confidence in him, prorogued Parliament,
 <span class="pagenum" id="Page_108">[Pg 108]</span>which never met again for the transaction of business
 during his short reign&#x2060;<a id="FNanchor_142_142" href="#Footnote_142_142" class="fnanchor">[142]</a>&#x2060;.</p>
 
-<span class="sidenote">The struggle
-transferred
-to
-the Law
-Courts.
-James issues
-his
-Declaration
-of Indulgence.</span>
-
-<p>The struggle was now transferred from the Parliament
+<p>
+<span class="sidenote">The struggle transferred to the Law Courts.
+James issues his Declaration of Indulgence.</span>
+The struggle was now transferred from the Parliament
 House to the Law Courts. A decision that the king had
 power to dispense with the penalties inflicted by the Test
 Act was obtained&#x2060;<a id="FNanchor_143_143" href="#Footnote_143_143" class="fnanchor">[143]</a>&#x2060;, and James proceeded to make the utmost
@@ -5970,16 +5630,9 @@ burst, and James was driven from his throne.</p>
 
 <p><span class="pagenum" id="Page_109">[Pg 109]</span></p>
 
-<span class="sidenote">The illegality
-of
-James’s
-proceedings.</span>
-
-<span class="sidenote">Did not
-affect the
-Jews.</span>
-
-<p>Until after the decision of Godden <i>v.</i> Hales in Easter
+<p>
+<span class="sidenote">The illegality of James’s proceedings.</span>
+Until after the decision of Godden <i>v.</i> Hales in Easter
 term, 1686, the king had probably not gone beyond the
 law, though he had undoubtedly stretched his prerogative
 to its furthest limits, but his proceedings after that time
@@ -6003,7 +5656,9 @@ object of placing the members of the different sects on
 the same footing as members of the Church of England,
 was, after destroying the supremacy of the Established
 Church, to gradually transfer it to the adherents of the
-Church of Rome. The Jews did not avail themselves of
+Church of Rome.
+<span class="sidenote">Did not affect the Jews.</span>
+The Jews did not avail themselves of
 the Declaration of Indulgence, but for different reasons
 from their nonconformist brethren. They were satisfied
 with the dispensation granted them by Charles II, and
@@ -6027,16 +5682,10 @@ increasing, and still enjoying the royal favour, as is proved
 by the fact that thirty-four of its members were granted
 letters of denization by James II during his short reign.</p>
 
-<span class="sidenote">Views on
-toleration
-at the
-time of
-the Revolution.</span>
-
-<span class="sidenote">The Toleration
-Act.</span>
-
-<p>The Revolution of 1688 did not affect the status of the
+<p>
+<span class="sidenote">Views on toleration at the time of the
+Revolution.</span>
+The Revolution of 1688 did not affect the status of the
 Jews. It was indeed recognized that it was necessary to
 reward in some way the loyalty to the constitution of the
 Dissenters, who, in spite of the indulgence offered them by
@@ -6065,6 +5714,7 @@ or repealed, but, in accordance with a mode of legislation
 <span class="pagenum" id="Page_111">[Pg 111]</span>which seems peculiarly dear to the English people, the
 effect of disobedience was annulled by exempting Dissenters
 from the penalties they would have otherwise incurred.
+<span class="sidenote">The Toleration Act.</span>
 This was done by means of the statute (1 Will. &amp; M., cap. 18)
 entitled “An Act for exempting their Majesties’ <i>protestant</i>
 subjects dissenting from the Church of England from the
@@ -6137,13 +5787,10 @@ Act&#x2060;<a id="FNanchor_145_145" href="#Footnote_145_145" class="fnanchor">[1
 
 <p><span class="pagenum" id="Page_113">[Pg 113]</span></p>
 
-<span class="sidenote">Extension
-of the
-benefits of
-the Toleration
+<p>
+<span class="sidenote">Extension of the benefits of the Toleration
 Act.</span>
-
-<p>The benefit of the Toleration Act was extended to
+The benefit of the Toleration Act was extended to
 Unitarians in the year 1813, and to the Roman Catholics,
 who had received considerable measures of relief by
 statutes passed in 1778, 1791, 1829, in the year 1832, and
@@ -6154,13 +5801,9 @@ which were finally repealed in the years 1844 and 1846&#x2060;<a id="FNanchor_14
 
 <p><span class="pagenum" id="Page_114">[Pg 114]</span></p>
 
-<span class="sidenote">Relief
-from the
-Test and
-Corporation
-Acts.</span>
-
-<p>No relief was formally given to enable Nonconformists
+<p>
+<span class="sidenote">Relief from the Test and Corporation Acts.</span>
+No relief was formally given to enable Nonconformists
 to fill municipal, political, or military offices, from which
 all who did not take the Communion according to the rites
 of the Church of England were excluded; but after the
@@ -6179,15 +5822,10 @@ transubstantiation was repealed, and Papists also, under
 certain conditions, were admitted to full political rights by
 the Roman Catholic Relief Act of 1829.</p>
 
-<span class="sidenote">Legislative
-relief
-from the
-penal laws
-at length
-given to
-the Jews.</span>
-
-<p>It is somewhat remarkable that, until the year 1846, no
+<p>
+<span class="sidenote">Legislative relief from the penal laws at length
+given to the Jews.</span>
+It is somewhat remarkable that, until the year 1846, no
 <i>legislative</i> relief from the penal laws, except in so far as
 some of them had been repealed in the year 1812 and the
 year 1844, was granted to the Jews.—The repealing Acts
@@ -6240,17 +5878,10 @@ London and the principal commercial centres. Every year
 the position became more secure, and premature attempts
 at legislation would have only endangered it.</p>
 
-<span class="sidenote">Parliament
-and
-the Jews.
-Attempt
-to lay
-special
-taxation
-upon
-them.</span>
-
-<p>It cannot, however, be disputed that the Jews were
+<p>
+<span class="sidenote">Parliament and the Jews. Attempt to lay special
+taxation upon them.</span>
+It cannot, however, be disputed that the Jews were
 deliberately excluded from the Toleration Act, for almost
 immediately after its passage their status was the subject
 of discussion in the House of Commons. In order to
@@ -6345,14 +5976,10 @@ had been granted in the reign of James II, and continued
 since the Revolution, was finally withdrawn by an Order
 in Council made in the October of this year&#x2060;<a id="FNanchor_152_152" href="#Footnote_152_152" class="fnanchor">[152]</a>&#x2060;.</p>
 
-<span class="sidenote">Mention of
-Jews in
-the Act
-imposing
-taxation
-on marriages.</span>
-
-<p>On other occasions also the permanent settlement of the
+<p>
+<span class="sidenote">Mention of Jews in the Act imposing taxation on
+marriages.</span>
+On other occasions also the permanent settlement of the
 Jews here was recognized by Parliament, and they are
 more than once expressly mentioned in Acts of Parliament.
 The first of these Acts is 6 &amp; 7 Will. and Mar. cap. 6, entitled
@@ -6371,11 +5998,9 @@ to the law of England, but at the same time the Act was
 not to be construed as in any way making good or effectual
 any such marriage.</p>
 
-<span class="sidenote">The Act
-against
-Blasphemy.</span>
-
-<p>Again a few years later, in the spring of 1698, when “the
+<p>
+<span class="sidenote">The Act against Blasphemy.</span>
+Again a few years later, in the spring of 1698, when “the
 Act for the more effectual suppressing of Blasphemy and
 Profaneness” was before Parliament, and an amendment
 was inserted after its return to the Lords, by which all
@@ -6391,17 +6016,10 @@ relating to the Jews, who deny Jesus Christ; 144 were for
 it, and 78 against it: so the clause was added that the Jews
 shal not be molested&#x2060;<a id="FNanchor_153_153" href="#Footnote_153_153" class="fnanchor">[153]</a>&#x2060;.”</p>
 
-<span class="sidenote">The Act to
-oblige
-Jews to
-maintain
-their
-Protestant
-children.
-The de
-Breta case.</span>
-
-<p>The next occasion on which this subject was raised in
+<p>
+<span class="sidenote">The Act to oblige Jews to maintain their
+Protestant children. The de Breta case.</span>
+The next occasion on which this subject was raised in
 the legislature was in the year 1702, when the Act to oblige
 the Jews to maintain and provide for their Protestant children
 was passed. The way in which this statute was put in
@@ -6476,18 +6094,10 @@ was presented against it, and after certain amendments had
 been made in the Commons, it was passed in the Lords
 without any amendment and almost without debate&#x2060;<a id="FNanchor_155_155" href="#Footnote_155_155" class="fnanchor">[155]</a>&#x2060;.</p>
 
-<span class="sidenote">Relaxation
-of
-the Act
-compelling
-landowners
-to take the
-oath of abjuration
-in favour
-of the
-Jews.</span>
-
-<p>On other occasions occurring at frequent intervals before
+<p>
+<span class="sidenote">Relaxation of the Act compelling landowners to
+take the oath of abjuration in favour of the Jews.</span>
+On other occasions occurring at frequent intervals before
 <span class="pagenum" id="Page_122">[Pg 122]</span>1846 Parliament took cognizance of the presence of the Jews,
 generally with the view of mitigating in their favour new
 enactments which would have otherwise pressed heavily
@@ -6508,27 +6118,10 @@ religion to take the oath without the final words, in like
 manner as Jews are admitted to be sworn to give evidence
 in Courts of Justice.</p>
 
-<span class="sidenote">Similar
-privileges
-given the
-Jews by
-other Acts
-of Parliament.
-The
-Colonial
-Naturalization
-Act, 1740.</span>
-
-<span class="sidenote">Lord
-Hardwicke’s
-Marriage
-Act, 1753.</span>
-
-<span class="sidenote">The Jewish
-Naturalization
-Act, 1753.</span>
-
-<p>Again in the year 1740 an Act was passed enabling all
+<p>
+<span class="sidenote">Similar privileges given the Jews by other Acts
+of Parliament. The Colonial Naturalization Act, 1740.</span>
+Again in the year 1740 an Act was passed enabling all
 persons who had settled for a period of seven years in any
 of the British colonies in America to be naturalized, under
 certain conditions, without the necessity of obtaining a
@@ -6542,14 +6135,18 @@ religion.” It was also further provided that Jews taking
 the necessary oaths for the purposes of this Act might
 omit the words “on the true faith of a Christian,” in the
 same way as they were enabled to do under 9 Geo. I, cap.
-24&#x2060;<a id="FNanchor_156_156" href="#Footnote_156_156" class="fnanchor">[156]</a>&#x2060;. Thirteen years later Lord Hardwicke’s Act for the
+24&#x2060;<a id="FNanchor_156_156" href="#Footnote_156_156" class="fnanchor">[156]</a>&#x2060;.
+<span class="sidenote">Lord Hardwicke’s Marriage Act, 1753.</span>
+Thirteen years later Lord Hardwicke’s Act for the
 better preventing of clandestine marriages (26 Geo. II,
 <span class="pagenum" id="Page_123">[Pg 123]</span>cap. 33), which made null and void all marriages solemnized
 without the publication of banns or licence, expressly
 excepted marriages amongst the people called Quakers or
 amongst the persons professing the Jewish religion, and
 most of the subsequent marriage Acts have contained
-similar exceptions. In the same year was passed the famous
+similar exceptions.
+<span class="sidenote">The Jewish Naturalization Act, 1753.</span>
+In the same year was passed the famous
 Jew bill (26 Geo. II, cap. 26), which permitted persons
 professing the Jewish religion to be naturalized by Act of
 Parliament without having previously taken the Sacrament.
@@ -6573,22 +6170,11 @@ marriages by the Secretary of a synagogue certified by the
 President of the London Committee of Deputies of the
 British Jews.</p>
 
-<span class="sidenote">The Jews
-admitted
-to the
-benefit of
-the Toleration
-Act,
-1845 and
-1846. Till
-then they
-were protected
-only by
-the Dispensing
-Power of
-the king.</span>
-
-<p>This brings us down to the years 1845 and 1846, when
+<p>
+<span class="sidenote">The Jews admitted to the benefit of the
+Toleration Act, 1845 and 1846. Till then they were protected only by
+the Dispensing Power of the king.</span>
+This brings us down to the years 1845 and 1846, when
 the measures of relief were granted, and the Jewish religion
 finally admitted to the benefit of the Toleration Act.
 Till then the immunity of the Jews from the consequences
@@ -6643,19 +6229,10 @@ their religion, whilst they behave themselves dutifully and
 obediently to his government”—as a grant within the
 meaning of the proviso&#x2060;<a id="FNanchor_158_158" href="#Footnote_158_158" class="fnanchor">[158]</a>&#x2060;.</p>
 
-<span class="sidenote">Resulting
-anomaly
-in the law
-as to the
-Registration
-of Synagogues.</span>
-
-<span class="sidenote">Advantages
-of
-certifying
-a synagogue.</span>
-
-<p>When the facts are properly analysed, it is difficult to
+<p>
+<span class="sidenote">Resulting anomaly in the law as to the
+Registration of Synagogues.</span>
+When the facts are properly analysed, it is difficult to
 suggest any other foundation for the freedom of the Jews
 to establish synagogues, and to absent themselves from
 church, than the exercise of the dispensing power of the
@@ -6700,7 +6277,9 @@ especially by an enactment entitled “An Act to relieve Her
 Majesty’s subjects from certain penalties and disabilities
 in regard to religious opinions,” the manifest intention of
 which was to grant relief from former burdens, but not to
-impose any new obligations. However, by the Places of
+impose any new obligations.
+<span class="sidenote">Advantages of certifying a synagogue.</span>
+However, by the Places of
 Religious Worship Registration Act, 1855 (18 &amp; 19 Vict.,
 cap. 81), a Jewish synagogue <i>may</i> be certified in writing to
 the Registrar-General of births, deaths, and marriages, and
