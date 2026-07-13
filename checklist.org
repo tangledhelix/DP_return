@@ -25,19 +25,20 @@
 - [X] Revisit side notes. So far, rejoined them, moved above paras.
   - https://www.pgdp.net/wiki/Sidenotes
   - put them in the checklist post-split.
-- [ ] (html) f003: poem with latin?
+- [X] (html) f003: poem with latin?
 - [X] p085: ~March 16-May 17~: should be en-dash? Any other cases?
-- [ ] (html) p007-p008: latin?
-- [ ] (html) p010-p011: latin?
-- [ ] (html) p016: latin?
-- [ ] (html) p018: latin?
-- [ ] (html) p038: poem with latin?
-- [ ] (html) p080: latin or french?
-- [ ] (html) p085-p086: latin?
-- [ ] (html) footnote 18: latin?
-- [ ] (html) footnote 22: latin?
-- [ ] (html) footnote 49: latin?
-- [ ] (html) footnote 96: ~penc̃on~ is what language? non-italic text. uses non-composed character
+- [X] (html) p007-p008: latin?
+- [X] (html) p010-p011: latin?
+- [X] (html) p016: latin?
+- [X] (html) p018: latin?
+- [X] (html) p038: poem with latin?
+- [X] (html) p080: latin or french?
+- [X] (html) p085-p086: latin?
+- [X] (html) footnote 18: latin?
+- [X] (html) footnote 22: latin?
+- [X] (html) footnote 49: latin?
+- [X] (html) footnote 96: ~penc̃on~ is what language? non-italic text. uses non-composed character
+  - It's apparently English, some sort of weird contraction of ~pension~ or ~pencion~ where the character stands in for ~ci~ or ~si~. Nothing to tag.
 - [X] (html) link ~(note)~ entries in the index instead of using pageno links. (Remove link from page number?)
 - [X] (html) add page/note links from tables at start of book
 - [X] (html) place mid-paragraph sidenotes
@@ -344,7 +345,7 @@ References: ([[https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p1347865][p13
   - Use the Regex Library tool and ~italic_semantic.json~.
   - Note: ~lang="xx"~ can be used on *any* HTML tag including ~cite~, ~em~, ...
   - [[http://www.w3schools.com/tags/ref_language_codes.asp][List of language codes]]
-- [ ] Using Regex Library and my ~abbr.json~ file, add ~abbr~ tags as appropriate. ([[https://www.pgdp.net/wiki/Accessibility_Recipes/Abbreviations][Reference]])
+- [X] Using Regex Library and my ~abbr.json~ file, add ~abbr~ tags as appropriate. ([[https://www.pgdp.net/wiki/Accessibility_Recipes/Abbreviations][Reference]])
 *** Table notes
 **** Wide tables and scrolling
 Surround your table in a div using ~overflow-x~ and it will become scrollable in the browser. (YMMV in e-readers.)
@@ -384,14 +385,14 @@ The CSS will need tweaking for each specific project's needs.
 <td class="c015" colspan="2"><img class="tb-brace" alt="top curly bracket" src="images/top-brace.png"></td>
 #+end_src
 *** Process sidenotes
-- [ ] Does Guiguts auto-process these somehow from ~[Sidenote: ]~ markup?
-- [ ] Decide how to handle these; see the [[https://www.pgdp.net/wiki/Sidenotes][wiki page]].
+- [X] Does Guiguts auto-process these somehow from ~[Sidenote: ]~ markup?
+- [X] Decide how to handle these; see the [[https://www.pgdp.net/wiki/Sidenotes][wiki page]].
 *** Drop caps
 Drop-cap CSS is in my custom header; markup looks like:
 #+begin_src html
 <p class="drop-cap"><span class="smcap uppercase">The</span>
 #+end_src
-- [ ] Handle any drop-caps ([[https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub/Dropcaps][wiki]])
+- [X] Handle any drop-caps ([[https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub/Dropcaps][wiki]])
 *** Process Hi-resolution Images
 If the project manager provided high-resolution scans of the images in the text, use an image processing program such as GIMP or Adobe Photoshop Elements to optimize them—see [[https://www.pgdp.net/wiki/Guide_to_Image_Processing][Guide to Image Processing]]. You can do this before, during, or after HTML conversion.
 
