@@ -6,7 +6,7 @@
 
 * Things to revisit
 - [X] Old-fashioned (middle English?) spellings in various places
-- [ ] Roman numerals not terminating in ~.~ - some terminate in ~,~ and one terminates in ~'s~
+- [X] Roman numerals not terminating in ~.~ - some terminate in ~,~ and one terminates in ~'s~
 - [X] "Dual-calendar dates with a forward slash please - e.g. 1654/5"
   - Need to evaluate this and handle anything here (if needed)
   - [X] p037: blockquote heading using fraction-style markup
@@ -40,8 +40,27 @@
 - [ ] (html) footnote 96: ~penc̃on~ is what language? non-italic text. uses non-composed character
 - [X] (html) link ~(note)~ entries in the index instead of using pageno links. (Remove link from page number?)
 - [X] (html) add page/note links from tables at start of book
-- [ ] (html) place mid-paragraph sidenotes
+- [X] (html) place mid-paragraph sidenotes
 - [ ] Add to TN (both editions) something about the x/y dates (day-of-month, and year)
+- [X] (html) abbr.json: add ~Car.~ for ~Charles~
+- [X] (html) abbr.json: add ~Will.~ for ~William~
+- [X] (html) abbr.json: add ~Jac.~ for ~James~
+- [X] (html) abbr.json: add ~Vict.~ for ~Victoria~
+- [X] (html) abbr.json: add ~Edw.~ for ~Edward~
+- [X] (html) abbr.json: add ~Rich.~ for ~Richard~
+- [X] (html) abbr.json: add ~Hen.~ for ~Henry~
+- [X] (html) resolve meaning of ~c.~ in legal citations (probably ~chapter~)
+- [X] (html) resolve meaning of ~stat.~ in legal citations (sometimes ~st.~?) == ~statute~
+- [X] (html) abbr.json: add ~sess.~ for ~session~
+- [X] (html) abbr.json: add ~cap.~ for ~chapter~
+- [X] (html) abbr.json: add ~sect.~ for ~section~
+- [X] (html) abbr.json: add ~do.~ for ~ditto~ (sometimes ~Do.~)
+- [X] (html) abbr.json: add ~id.~ (Latin ~idem~ ("same")) to the title-less Latin abbrs?
+- [X] (html) abbr.json: add ~pt.~ for ~part~
+- [X] (html) abbr.json: add ~App.~ for ~Appendix~?
+- [X] (html) abbr.json: add ~fol.~ and ~fo.~ for ~folio~?
+- [X] (html) abbr.json: add ~Phil.~  for ~Philip~
+- [X] (html) abbr.json: add ~Mar.~  for ~Mary~
 * Transcriber Notes
 ** Leading TN
 - Some inconsistencies in spelling, hyphenation, and punctuation have been retained. In particular, archaic and alternate spellings have been preserved, especially those occuring in quotations, e.g., “forein” for “foreign” or the variant spellings “Duarto en Rigis” and “Duarto an Rigij”.
