@@ -26,6 +26,21 @@ before a paragraph begins, others are inline within paragraphs. The
 transcriber attempted to preserve the correct position of each sidenote
 while placing them between sentences.
 
+Note on dates: “1684/5” style:
+
+Dates from this period sometimes carry two numbers separated by a
+slash, affecting the year or the day.
+
+Year (e.g., “February 6, 1684/5”): Before 1752, England’s legal year
+began March 25, not January 1. Dates between January 1 and March
+24 could carry both the Old Style civil year (1684) and the modern
+equivalent (1685).
+
+Day (e.g., “March 17/27”): The Julian (Old Style) calendar used in
+England ran behind the Gregorian (New Style) calendar used on the
+Continent—by 10 days in the 17th century, 11 in the 18th. The first
+number is the English date; the second, the Continental equivalent.
+
 
 
 

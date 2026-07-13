@@ -42,7 +42,7 @@
 - [X] (html) link ~(note)~ entries in the index instead of using pageno links. (Remove link from page number?)
 - [X] (html) add page/note links from tables at start of book
 - [X] (html) place mid-paragraph sidenotes
-- [ ] Add to TN (both editions) something about the x/y dates (day-of-month, and year)
+- [X] Add to TN (both editions) something about the x/y dates (day-of-month, and year)
 - [X] (html) abbr.json: add ~Car.~ for ~Charles~
 - [X] (html) abbr.json: add ~Will.~ for ~William~
 - [X] (html) abbr.json: add ~Jac.~ for ~James~
@@ -62,6 +62,7 @@
 - [X] (html) abbr.json: add ~fol.~ and ~fo.~ for ~folio~?
 - [X] (html) abbr.json: add ~Phil.~  for ~Philip~
 - [X] (html) abbr.json: add ~Mar.~  for ~Mary~
+- [ ] (html) Figure out where ~<main>~, ~<nav>~, ~<section>~ should be ...
 * Transcriber Notes
 ** Leading TN
 - Some inconsistencies in spelling, hyphenation, and punctuation have been retained. In particular, archaic and alternate spellings have been preserved, especially those occuring in quotations, e.g., “forein” for “foreign” or the variant spellings “Duarto en Rigis” and “Duarto an Rigij”.
@@ -69,6 +70,10 @@
 - (text) Include note about ~_italics_~ & smallcaps (ALLCAPS)
 - (text) The ~^~ or ~^{...}~ notation indicates a superscript
 - (text) Diamond character ♦ indicates a sidenotes; sometimes inline in a paragraph, sometimes before paragraph.
+- Note on dates: “1684/5” style
+  - Dates from this period sometimes carry two numbers separated by a slash, affecting the year or the day.
+  - Year (e.g., “February 6, 1684/5”): Before 1752, England’s legal year began March 25, not January 1. Dates between January 1 and March 24 could carry both the Old Style civil year (1684) and the modern equivalent (1685).
+  - Day (e.g., “March 17/27”): The Julian (Old Style) calendar used in England ran behind the Gregorian (New Style) calendar used on the Continent—by 10 days in the 17th century, 11 in the 18th. The first number is the English date; the second, the Continental equivalent.
 ** Trailing TN
 - (See also the Transcriber’s Note at the beginning of the book.)
 - The erratum from the original book has been applied to the text.
@@ -439,9 +444,9 @@ For each image:
 - [X] If any images were modified substantially (including removing a library sticker or stamp), add a TN. Place the new image in the public domain in the TN. This is a PG requirement.
 - [X] If fabricating your own cover, add the TN as noted in [[https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub/Cover][Easy_Epub/Cover]].
 *** Check "things to revisit"
-- [ ] Check revisit list for anything left for the HTML version
+- [X] Check revisit list for anything left for the HTML version
 *** Add TN
-- [ ] Add transcriber's notes, example follows.
+- [X] Add transcriber's notes, example follows.
 #+begin_src html
 <div class="transnote">
 <h2 class="nobreak">Transcriber’s Note</h2>
@@ -466,7 +471,7 @@ An example entry might look like this. Use the book's page numbers, not PNG numb
 </ul>
 #+end_src
 
-- [ ] Make sure the TN has no straight-quotes ~'"~ and instead uses curly quotes ~“”‘’~
+- [X] Make sure the TN has no straight-quotes ~'"~ and instead uses curly quotes ~“”‘’~
 *** Validate HTML and CSS
 Perform these validation steps before submitting your book. Validation is also helpful while customizing the HTML and CSS above.
 - [ ] Use ~HTML → HTML5 Validator~. Fix any reported problems.

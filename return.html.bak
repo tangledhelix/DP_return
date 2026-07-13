@@ -356,6 +356,51 @@ p.drop-cap::first-letter {
 <body>
 <main>
 
+<div class="transnote">
+<h2 class="nobreak" id="TN_leading">Transcriber’s Note</h2>
+
+<p>
+Some inconsistencies in spelling, hyphenation, and punctuation have been
+retained. In particular, archaic and alternate spellings have been
+preserved, especially those occuring in quotations, e.g., “forein” for
+“foreign,” or the variant spellings “Duarto en Rigis” and “Duarto an
+Rigij”.
+</p>
+
+<p>
+Obvious printer errors were silently corrected. For more detail about
+specific corrections to the text, see the <a href="#TN_trailing">Transcriber’s Note</a> at the end
+of the book.
+</p>
+
+This file uses _underscores_ to indicate italic text. Small capitals
+changed to all capitals. Text indicated with ^ indicates a superscript.
+Where the superscript is longer than one character, ^{} is used to
+group characters together.
+
+The Diamond character ♦ is used to indicate a sidenote, printed in
+the margin in the original paper edition. Some sidenotes occur alone
+before a paragraph begins, others are inline within paragraphs. The
+transcriber attempted to preserve the correct position of each sidenote
+while placing them between sentences.
+
+Note on dates: “1684/5” style:
+
+Dates from this period sometimes carry two numbers separated by a
+slash, affecting the year or the day.
+
+Year (e.g., “February 6, 1684/5”): Before 1752, England’s legal year
+began March 25, not January 1. Dates between January 1 and March
+24 could carry both the Old Style civil year (1684) and the modern
+equivalent (1685).
+
+Day (e.g., “March 17/27”): The Julian (Old Style) calendar used in
+England ran behind the Gregorian (New Style) calendar used on the
+Continent—by 10 days in the 17th century, 11 in the 18th. The first
+number is the English date; the second, the Continental equivalent.
+
+</div>
+
 
 <p><span class="pagenum" id="Page_i">[Pg i]</span></p>
 
@@ -1802,7 +1847,7 @@ return and reside here. The disabling acts no doubt
 applied to “<span lang="la">Iudaei</span>” or Jews, nor were any exceptions made
 in the statutes, but the Jews who came back to England
 in the seventeenth century were free men; they were no
-longer villeins or quasi-villeins, and were not “<span class="la">Iudaei</span>”
+longer villeins or quasi-villeins, and were not “<span lang="la">Iudaei</span>”
 within the meaning of the Acts. This principle of interpretation
 is well known to English law, and after much
 discussion and considerable disagreement among our
@@ -3952,7 +3997,7 @@ administrator” (<cite><abbr title="Coke on Littleton">Co. Litt.</abbr></cite> 
 merchants or not, but it was still limited to lands held for the purpose of
 residence or occupation by the alien or his servants, or for the purpose
 of any business, trade, or manufacture, and to terms not exceeding
-twenty-one years (7 &amp; 8 <abbr title="Victoria">Vict.</abbr>, <abbr title="chapter">cap.</abbr> 66, <abbr title="section">sec.</abbr> 5). It was not until 1870 that
+twenty-one years (<span id="TN2">7 &amp; 8 <abbr title="Victoria">Vict.</abbr>, <abbr title="chapter">cap.</abbr> 66, <abbr title="section">sec.</abbr> 5</span>). It was not until 1870 that
 the unrestricted right of holding lands was conferred upon aliens (see
 33 <abbr title="Victoria">Vict.</abbr>, <abbr title="chapter">cap.</abbr> 14, <abbr title="section">sec.</abbr> 2). As to the old law, see the case of Fish <i><abbr>v.</abbr></i> Klein
 (1817), 2 Mer. 431.</p></div>
@@ -4305,7 +4350,7 @@ Violet had to personally conduct his intended accomplice
 thither, is said to have been situated in Duke’s Place, and
 not in King Street or Creechurch Lane, the traditional
 sites of the first synagogues. If used as a place of worship
-as well as business such use was wholly illegal and strictly
+as well as business <span id="TN1">such use was wholly illegal</span> and strictly
 secret, so that in the only one of the petitions presented
 against the Jews in the autumn of 1660, which has been
 thought worthy of preservation among the State Archives,
@@ -7043,5 +7088,28 @@ Trusts Act; and as to the exemption from rates, 3 &amp; 4 <abbr title="William">
 <p>Page 63, line 7 from bottom, <i>for</i> 6 &amp; 7 Vict. <i>read</i> 7 &amp; 8 Vict.</p>
 
 </main>
+
+<div class="transnote">
+<h2 class="nobreak" id="TN_trailing">Transcriber’s Note</h2>
+
+<p>
+(See also the <a href="#TN_leading">Transcriber’s Note</a> at the beginning of the book.)
+</p>
+
+<p>
+The <a href="#Erratum">erratum</a> from the original book has been applied to the text.
+</p>
+
+<p>
+Footnote 94: changed “6 & 7” to “7 & 8” (per erratum). (<a href="#TN2">7 & 8 Vict.,
+cap. 66, sec. 5</a>)
+</p>
+
+<p>
+p. 75: changed “user” to “use” (<a href="#TN1">such use was wholly illegal</a>)
+</p>
+
+</div>
+
 </body>
 </html>
