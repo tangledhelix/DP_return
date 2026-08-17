@@ -539,6 +539,7 @@ Don't necessarily have to do *all* of these, but these are what I have.
 - [ ] Mac
   - [ ] Apple Books
   - [ ] Calibre (epub3)
+  - [ ] Thorium
 - [ ] Phone
   - [ ] Apple Books (iPhone)
   - [ ] Kindle (iPhone)
