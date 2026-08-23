@@ -1,4 +1,4 @@
-#+title: Guiguts PP Process Checklist
+#+TITLE: Guiguts PP Process Checklist
 
 (Updated for [[https://github.com/DistributedProofreaders/guiguts-py][Guiguts 2]])
 
@@ -43,26 +43,8 @@
 - [X] (html) add page/note links from tables at start of book
 - [X] (html) place mid-paragraph sidenotes
 - [X] Add to TN (both editions) something about the x/y dates (day-of-month, and year)
-- [X] (html) abbr.json: add ~Car.~ for ~Charles~
-- [X] (html) abbr.json: add ~Will.~ for ~William~
-- [X] (html) abbr.json: add ~Jac.~ for ~James~
-- [X] (html) abbr.json: add ~Vict.~ for ~Victoria~
-- [X] (html) abbr.json: add ~Edw.~ for ~Edward~
-- [X] (html) abbr.json: add ~Rich.~ for ~Richard~
-- [X] (html) abbr.json: add ~Hen.~ for ~Henry~
-- [X] (html) resolve meaning of ~c.~ in legal citations (probably ~chapter~)
-- [X] (html) resolve meaning of ~stat.~ in legal citations (sometimes ~st.~?) == ~statute~
-- [X] (html) abbr.json: add ~sess.~ for ~session~
-- [X] (html) abbr.json: add ~cap.~ for ~chapter~
-- [X] (html) abbr.json: add ~sect.~ for ~section~
-- [X] (html) abbr.json: add ~do.~ for ~ditto~ (sometimes ~Do.~)
-- [X] (html) abbr.json: add ~id.~ (Latin ~idem~ ("same")) to the title-less Latin abbrs?
-- [X] (html) abbr.json: add ~pt.~ for ~part~
-- [X] (html) abbr.json: add ~App.~ for ~Appendix~?
-- [X] (html) abbr.json: add ~fol.~ and ~fo.~ for ~folio~?
-- [X] (html) abbr.json: add ~Phil.~  for ~Philip~
-- [X] (html) abbr.json: add ~Mar.~  for ~Mary~
-- [ ] (html) Figure out where ~<main>~, ~<nav>~, ~<section>~ should be ...
+- [X] (html) Handle abbreviations noted below
+- [ ] (html) Figure out where ~<nav>~, ~<section>~ should be ...
 * Transcriber Notes
 ** Leading TN
 - Some inconsistencies in spelling, hyphenation, and punctuation have been retained. In particular, archaic and alternate spellings have been preserved, especially those occuring in quotations, e.g., “forein” for “foreign” or the variant spellings “Duarto en Rigis” and “Duarto an Rigij”.
@@ -81,11 +63,113 @@
 - p. 75: changed “user” to “use” (such use was wholly illegal)
 * Notes
 ** General notes
+*** Abbreviations
+| Abbr         | Expansion              | 1st seen | Notes                    |
+|--------------+------------------------+----------+--------------------------|
+| A.D.         |                        |        4 | no-title                 |
+| Add.         | Additional             |       45 |                          |
+| Ang.         | Anglia                 |       45 |                          |
+| App.         | Appendix               |       67 |                          |
+| Aug.         | August                 |       32 |                          |
+| Brit.        | Britain                |       45 |                          |
+| c.           | chapter(?)             |      vii | context: legal citations |
+| Cal.         | Calendar               |       45 |                          |
+| cap.         | chapter                |      vii |                          |
+| Car.         | Charles                |      vii |                          |
+| Cas.         | Cases                  |       45 |                          |
+| ch.          | chapter                |       67 |                          |
+| Co.          | Company                |       vi |                          |
+| Co. Litt.    | ?                      |       67 | no-title                 |
+| Cod.         | ?                      |       45 | no-title                 |
+| Com.         | ?                      |      128 | no-title                 |
+| Comm.        | Commission             |       67 |                          |
+| Cons.        | Consistory             |       vi |                          |
+| Const. Hist. | Constitutional History |       45 |                          |
+| Debat.       | Debates                |      128 |                          |
+| Dec.         | December               |       43 |                          |
+| do.          | ditto                  |       67 |                          |
+| Do.          | ditto                  |       67 |                          |
+| Dom.         | Domestic               |       45 |                          |
+| Dr.          | Doctor                 |        8 | no-title                 |
+| e.g.         |                        |        4 | no-title                 |
+| Ecb.         | Ecbert                 |       45 |                          |
+| ed.          | edition                |       67 |                          |
+| Edw.         | Edward                 |      vii |                          |
+| Eliz.        | Elizabeth              |      vii |                          |
+| Ex.          | Excerptiones           |       45 |                          |
+| Feb.         | February               |      128 |                          |
+| fo.          | folio                  |       67 |                          |
+| fol.         | folio                  |       45 |                          |
+| Foed.        | Foedera                |       45 |                          |
+| fol.         | folio                  |       45 |                          |
+| Geo.         | George                 |     viii |                          |
+| Hag.         | Haggard                |       vi |                          |
+| Hans.        | Hansard                |      128 |                          |
+| Hemingb.     | ?                      |        7 | no-title                 |
+| Hen.         | Henry                  |      vii |                          |
+| Hist.        | Historical             |       45 |                          |
+| i.e.         |                        |       27 | no-title                 |
+| ib.          | ibid                   |       vi | no-title                 |
+| Ibid.        |                        |       45 | no-title                 |
+| id.          | idem [la]              |       94 | "same"                   |
+| Inter.       | Interregnum            |       45 |                          |
+| Jac.         | James                  |      vii |                          |
+| Jan.         | January                |       12 |                          |
+| Jas.         | James                  |       65 |                          |
+| Jour.        | ?                      |      128 | no-title                 |
+| Juv.         | Juvenal                |       45 |                          |
+| Lib. P.      | Liber Poenitentialis   |       45 |                          |
+| Lieut.-Gen.  | Lieutenant-General     |      130 |                          |
+| Lt.-Gen.     | Lieutenant-General     |       72 |                          |
+| M.           | Mary                   |       28 |                          |
+| M.A.         | ?                      |      128 | no-title                 |
+| Mar.         | Mary                   |      vii |                          |
+| Mod.         | ?                      |      128 | no-title                 |
+| Mr.          | Mister                 |        1 | no-title                 |
+| Mrs.         | Misses                 |       67 | no-title                 |
+| MS.          | Manuscript             |       11 |                          |
+| MSS.         | Manuscripts            |       45 |                          |
+| Mus.         | Museum                 |       45 |                          |
+| n.           | note                   |       67 |                          |
+| No.          | Number                 |       45 |                          |
+| Nos.         | Numbers                |       67 |                          |
+| Nov.         | November               |      117 |                          |
+| Oct.         | October                |      128 |                          |
+| Ov.          | Ovid                   |      iii |                          |
+| p.           | page                   |        2 |                          |
+| Parl.        | Parliamentary          |      128 |                          |
+| Parl. Hist.  | Parliamentary History  |       vi |                          |
+| Phil.        | Philip                 |      vii |                          |
+| pp.          | pages                  |       vi |                          |
+| pt.          | part                   |       45 |                          |
+| Rep.         | Reports                |       45 |                          |
+| Rev.         | Reverend               |      129 |                          |
+| Rich.        | Richard                |      vii |                          |
+| Rot. Parl.   | Rotuli Parliamentorum  |       45 |                          |
+| S. P.        | State Papers           |       45 |                          |
+| Sat.         | Satires                |       45 |                          |
+| sec.         | section                |       67 |                          |
+| sect.        | section                |       21 |                          |
+| sess.        | session                |     viii |                          |
+| Soc.         | Society                |       45 |                          |
+| sqq.         |                        |       94 | no-title                 |
+| st.          | statute                |     viii | context:legal citations  |
+| St.          | Saint                  |       vi |                          |
+| St. Tr.      | State Trials           |      128 |                          |
+| stat.        | statute                |      vii | context:legal citationsl |
+| Theod.       | Theodore               |       45 |                          |
+| Trans.       | Transactions           |       45 |                          |
+| v.           | versus [la]            |       vi | no-title                 |
+| Vet.         | ?                      |       45 | no-title                 |
+| Vict.        | Victoria               |     viii |                          |
+| vol.         | volume                 |       vi |                          |
+| W.           | William                |       28 |                          |
+| Will.        | William                |     viii |                          |
 ** Proofer notes
 ** Smooth reader notes
 ** Forum notes
 ** Project comments
-#+begin_src markdown
+#+BEGIN_SRC markdown
 Alignment . . . . dots (front matter) should be removed. Six spaces preferred.
 
 Dual-calendar dates with a forward slash please - e.g. 1654/5, and A.D. without a space.
@@ -93,7 +177,7 @@ Dual-calendar dates with a forward slash please - e.g. 1654/5, and A.D. without 
 ----
 
 Images from [TIA](https://archive.org/details/returnofjewstoen00henruoft).
-#+end_src
+#+END_SRC
 
 * Checklist
 ** Process the Pages
@@ -101,11 +185,11 @@ Our first set of activities will combine all proofed and formatted pages, fixing
 *** Initial Setup
 - Choose a short, simple project name, e.g. ~pascal~ for /The Provincial Letters of Blaise Pascal/
 - Run the [[https://github.com/tangledhelix/dp_pp_utils][setup script]] to fetch the project resources and create the [[https://github.com/tangledhelix?tab=repositories&q=DP_&type=&language=&sort=][Github]] project
-#+begin_src shell
+#+BEGIN_SRC shell
 cd ~/dp/util
 . venv/bin/activate
 ./make_project.py
-#+end_src
+#+END_SRC
 - [X] Read the [[https://www.pgdp.net/c/project.php?id=projectID65b196d0e30c8#project-comments][project comments]]
 - [X] Subscribe to the [[https://www.pgdp.net/phpBB3/viewtopic.php?t=81042][forum topic]] and read all posts
 - [X] Open ~return-utf8.txt~ in Guiguts
@@ -202,11 +286,11 @@ Instructions for ~/* */~ and ~/# #/~ blocks:
 - [X] Click ~Diacritics/æ/œ~. Scan list looking for mistakes, inconsistent usages.
 - [X] Click ~Ital/Bold/SC~. Scan list for incorrect or inconsistent use of italics, bold face, and small caps.
 - [X] Click ~Ligatures~. Scan list for [[https://www.pgdp.net/wiki/Æ_and_œ_ligatures][incorrect or inconsistent use]] of ~ae~ and ~oe~ ligatures.
-#+begin_src text
+#+BEGIN_SRC text
 æ Æ    <Opt> '    /ai/ to rhyme with “eye”.
 œ Œ    <Opt> q    /ɔɪ/ to rhyme with “oi” in “foil”
 <shift> for capital letter
-#+end_src
+#+END_SRC
 *** Apply Scanno Checks
 - [X] Use ~Tools → Stealth Scannos~
   - [X] Search based on ~en-common.json~. Work through the list.
@@ -282,7 +366,7 @@ We now proceed to create a Plain Text Version of the book.
 *** Add TN
 - [X] Add transcriber's notes, example follows. Use 4+2 blank lines as in new chapter.
 - [X] Rewrap this section of text when finished.
-#+begin_src text
+#+BEGIN_SRC text
 Transcriber’s Note
 
 
@@ -290,7 +374,7 @@ Some inconsistencies in spelling, hyphenation, and punctuation have been
 retained.
 
 This file uses _underscores_ to indicate italic text.
-#+end_src
+#+END_SRC
 
 If bold is used, add also ~and =equals= to indicate bold text~
 
@@ -298,9 +382,9 @@ If there were small-caps, ~Small capitals changed to all capitals.~
 
 An example entry might look like this. Use the book's page numbers, not PNG number.
 
-#+begin_src text
+#+BEGIN_SRC text
 p. 123: changed “foo” to “fool” (the fool and his money)
-#+end_src
+#+END_SRC
 *** Final review
 - [X] Skim over text file to find any obvious issues
 *** Validation
@@ -354,11 +438,11 @@ References: ([[https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p1347865][p13
 *** Table notes
 **** Wide tables and scrolling
 Surround your table in a div using ~overflow-x~ and it will become scrollable in the browser. (YMMV in e-readers.)
-#+begin_src html
+#+BEGIN_SRC html
 <div style="overflow-x:auto;">
 <table>...</table>
 </div>
-#+end_src
+#+END_SRC
 I used this technique in ~catholichistory~.
 **** Large brackets or braces grouping table cells
 Tables using wide-span braces or brackets are a pain. An image adjusted for size in CSS probably works the best. See ~eugenics~ for examples. That project used both horizontal and vertical curly braces in tables, using images:
@@ -369,7 +453,7 @@ Tables using wide-span braces or brackets are a pain. An image adjusted for size
 
 The CSS will need tweaking for each specific project's needs.
 
-#+begin_src css
+#+BEGIN_SRC css
 /* left/right braces */
 .lr-brace { height: 2.25em; max-height: 2.25em; }
 /* top/bottom braces */
@@ -380,23 +464,23 @@ The CSS will need tweaking for each specific project's needs.
 .c015 { vertical-align: middle; text-align: center; padding-left: .5em;
         padding-right: .5em; }
 
-#+end_src
+#+END_SRC
 
-#+begin_src html
+#+BEGIN_SRC html
 <!-- left brace spanning 2 rows -->
 <td class="c014" rowspan="2"> <img class="lr-brace" alt="left curly bracket" src="images/left-brace.png"></td>
 
 <!-- top brace spanning 2 columns -->
 <td class="c015" colspan="2"><img class="tb-brace" alt="top curly bracket" src="images/top-brace.png"></td>
-#+end_src
+#+END_SRC
 *** Process sidenotes
 - [X] Does Guiguts auto-process these somehow from ~[Sidenote: ]~ markup?
 - [X] Decide how to handle these; see the [[https://www.pgdp.net/wiki/Sidenotes][wiki page]].
 *** Drop caps
 Drop-cap CSS is in my custom header; markup looks like:
-#+begin_src html
+#+BEGIN_SRC html
 <p class="drop-cap"><span class="smcap uppercase">The</span>
-#+end_src
+#+END_SRC
 - [X] Handle any drop-caps ([[https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Easy_Epub/Dropcaps][wiki]])
 *** Process Hi-resolution Images
 If the project manager provided high-resolution scans of the images in the text, use an image processing program such as GIMP or Adobe Photoshop Elements to optimize them—see [[https://www.pgdp.net/wiki/Guide_to_Image_Processing][Guide to Image Processing]]. You can do this before, during, or after HTML conversion.
@@ -404,7 +488,7 @@ If the project manager provided high-resolution scans of the images in the text,
 Unless purely decorative, add an ~alt~ tag for each image unless it has a caption. For decoration, use ~alt="" data-role="presentation"~ (empty string to satisfy the validator).
 
 Taken from a [[https://www.pgdp.net/phpBB3/viewtopic.php?p=1354798&sid=db2ca383a2ce4e9d70bc598253bb0936#p1354798][forum post]]:
-#+begin_quote
+#+BEGIN_QUOTE
 DO
 - use an empty string for purely decorative images.
 - when an image is meant to convey an action, try to use a single word: download" or "email".
@@ -420,7 +504,7 @@ DON'T
 - describe details that are irrelevant to the narrative.
 - describe logos. Just identify them.
 - make up shit.
-#+end_quote
+#+END_QUOTE
 
 Image [[https://www.pgdp.net/phpBB3/viewtopic.php?f=3&t=70286][sizes]]:
 - Inline: up to 256K, 5000x5000 pixels
@@ -447,7 +531,7 @@ For each image:
 - [X] Check revisit list for anything left for the HTML version
 *** Add TN
 - [X] Add transcriber's notes, example follows.
-#+begin_src html
+#+BEGIN_SRC html
 <div class="transnote">
 <h2 class="nobreak">Transcriber’s Note</h2>
 
@@ -456,20 +540,20 @@ Some inconsistencies in spelling, hyphenation, and punctuation have been
 retained.
 </p>
 </div>
-#+end_src
+#+END_SRC
 
 An example entry might look like this. Use the book's page numbers, not PNG number.
 
 *NOTE:* Use ~<span id=~, not ~<a id=~, for the target of the below links.
 
-#+begin_src html
+#+BEGIN_SRC html
 <ul>
 <li>
 <abbr title="page">p.</abbr> 123: changed “foo” to “fool”
 (<a href="#TN1">the fool and his money</a>)
 </li>
 </ul>
-#+end_src
+#+END_SRC
 
 - [X] Make sure the TN has no straight-quotes ~'"~ and instead uses curly quotes ~“”‘’~
 *** Validate HTML and CSS
