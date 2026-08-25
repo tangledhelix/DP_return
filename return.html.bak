@@ -529,8 +529,6 @@ in this country.</p>
 
 </section>
 
-<section class="chapter">
-
 <nav data-epub-type="toc">
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
 <p><span class="pagenum" id="Page_vi">[Pg vi]</span></p>
@@ -6381,7 +6379,7 @@ legal by Act of Parliament.</p>
 <div class="footnote"><p><a id="Footnote_121_121" href="#FNanchor_121_121" class="label">[121]</a> See the Da Costa lists published in Wolf’s <cite>Jewry of the Restoration</cite>,
 <abbr>p.</abbr> 4.</p></div>
 
-<div class="footnote"><p><a id="Footnote_122_122" href="#FNanchor_122_122" class="label">[122]</a> <cite><abbr>S. P.</abbr> <abbr>Dom.</abbr> <abbr>Car.</abbr> II</abbr></cite>, <abbr>vol.</abbr> XXI, <abbr>p.</abbr> 140; <cite>Calendar</cite>, 1660, <abbr>p.</abbr> 366.</p></div>
+<div class="footnote"><p><a id="Footnote_122_122" href="#FNanchor_122_122" class="label">[122]</a> <cite><abbr>S. P.</abbr> <abbr>Dom.</abbr> <abbr>Car.</abbr> II</cite>, <abbr>vol.</abbr> XXI, <abbr>p.</abbr> 140; <cite>Calendar</cite>, 1660, <abbr>p.</abbr> 366.</p></div>
 
 <div class="footnote"><p><a id="Footnote_123_123" href="#FNanchor_123_123" class="label">[123]</a> <cite>Remembrancia</cite>, <abbr>vol.</abbr> IX, <abbr>p.</abbr> 44.</p></div>
 
@@ -6580,20 +6578,14 @@ Trusts Act; and as to the exemption from rates, 3 &amp; 4 <abbr>Will.</abbr> IV,
 5 &amp; 6 <abbr>Will.</abbr> IV, <abbr>cap.</abbr> 50, <abbr>sec.</abbr> 27; and 38 &amp; 39 <abbr>Vict.</abbr>, <abbr>cap.</abbr> 55, <abbr>sec.</abbr> 151.</p></div>
 </div>
 
-
+<nav data-epub-type="index">
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
-
 <p><span class="pagenum" id="Page_129">[Pg 129]</span></p>
-
 
   <h2 class="nobreak" id="INDEX">
     INDEX
   </h2>
-</div>
 
-
-<nav data-epub-type="index">
 <ul class="index">
   <li class="ifrst">Abjuration Oath, modified in favour of Jewish landowners required to take it, <a href="#Page_122">122</a>.</li>
 
@@ -7051,18 +7043,17 @@ Trusts Act; and as to the exemption from rates, 3 &amp; 4 <abbr>Will.</abbr> IV,
 </ul>
 </nav>
 
-
+<section class="chapter">
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
-<div class="chapter">
   <p class="center" id="Erratum">
     <strong><span class="smcap">Erratum.</span></strong>
   </p>
-</div>
 
 
 <p>Page 63, line 7 from bottom, <i>for</i> 6 &amp; 7 Vict. <i>read</i> 7 &amp; 8 Vict.</p>
+</section>
 
-<div class="transnote">
+<section class="transnote">
 <p id="TN_trailing" class="center"><strong>Transcriber’s Note</strong></p>
 
 <p>
@@ -7082,7 +7073,7 @@ cap. 66, sec. 5</a>)
 p. 75: changed “user” to “use” (<a href="#TN1">such use was wholly illegal</a>)
 </p>
 
-</div>
+</section>
 
 </body>
 </html>
