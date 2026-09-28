@@ -236,7 +236,7 @@ p { text-indent: 1em; text-align: left; }
     margin-left: auto;
     margin-right: auto;
     page-break-before: always;
-    width: 40em;
+    width: 35em;
     max-width: 100%;
 }
 
@@ -312,10 +312,10 @@ number is the English date; the second, the Continental equivalent.
 <li><a href="#PREFACE">PREFACE</a></li>
 <li><a href="#TABLE_OF_CASES">TABLE OF CASES</a></li>
 <li><a href="#TABLE_OF_STATUTES">TABLE OF STATUTES</a></li>
-<li><a href="#I">CHAPTER I.</a></li>
-<li><a href="#II">CHAPTER II.</a></li>
-<li><a href="#III">CHAPTER III.</a></li>
-<li><a href="#IV">CHAPTER IV.</a></li>
+<li><a href="#I">I.</a></li>
+<li><a href="#II">II.</a></li>
+<li><a href="#III">III.</a></li>
+<li><a href="#IV">IV.</a></li>
 <li><a href="#INDEX">INDEX</a></li>
 </ul>
 </nav>
@@ -399,11 +399,9 @@ CO-RELIGIONISTS
     <div class="stanza">
       <div class="verse indent0">Da veniam scriptis, quorum non gloria nobis</div>
       <div class="verse indent2">Causa, sed utilitas officiumque, fuit.</div>
+      <div class="verse right">Ov. <cite>ex Ponto</cite>, <span class="allsmcap">III.</span> 9. 55.</div>
     </div>
   </div>
-<p class="right">
-  Ov. <cite>ex Ponto</cite>, <span class="allsmcap">III.</span> 9. 55.
-</p>
 </div>
 
 </div>
