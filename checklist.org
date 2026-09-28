@@ -46,12 +46,13 @@
 - [X] (html) Handle abbreviations noted below
 - [X] (html) Handle any use of ~<nav>~
 - [X] (html) Handle any use of ~<section>~
-- [ ] (html) Handle converting sidenotes to use ~<aside>~ (must float them to top of paragraph, then; aside is a sectioning element).
-- [ ] (html) Handle converting footnotes to use ~<aside>~ and roles
+- [X] (html) Handle converting sidenotes to use ~<aside>~ (must float them to top of paragraph, then; aside is a sectioning element).
+  - skipping, sidenotes can't be asides if mid-paragraph
+- [X] (html) Handle converting footnotes to use ~<aside>~ and roles
 - [X] (html) re-evaluate tables on f006, f007-8
 - [ ] (html) convert Table of Cases (f006) to flexbox grid list
 - [ ] (html) convert Table of Statutes (f007-f008) to flexbox grid list
-- [ ] (html) Can data-epub-type="toc" be used multiple times?
+- [X] (html) Can data-epub-type="toc" be used multiple times?
 * Transcriber Notes
 ** Leading TN
 - Some inconsistencies in spelling, hyphenation, and punctuation have been retained. In particular, archaic and alternate spellings have been preserved, especially those occuring in quotations, e.g., “forein” for “foreign” or the variant spellings “Duarto en Rigis” and “Duarto an Rigij”.
