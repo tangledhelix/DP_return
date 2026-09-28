@@ -121,6 +121,39 @@ table.cases td.tdl, table.statutes td.tdl {
   text-indent: -1.5em;
 }
 
+/* Classes to support ToC using list & flex */
+.toc-wrap {
+    width: 35em;
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: left;
+}
+.toc2-wrap { width: 25em; }
+.toc-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.toc-head {
+    font-weight: bold;
+    font-variant: small-caps;
+}
+.toc-entry {
+    display: flex;
+    line-height: 1.5;
+}
+.toc-title {
+    flex: 1 auto;
+    margin-left: 1.5em;
+    text-indent: -1.5em;
+}
+.toc-page {
+    flex: 0 6em;
+    margin-left: 1em;
+    text-align: right;
+    align-self: flex-end;
+}
+
 .pagenum { /* uncomment the next line for invisible page numbers */
     /*  visibility: hidden;  */
     position: absolute;
@@ -492,7 +525,7 @@ CO-RELIGIONISTS
     </div>
   </div>
 <p class="right">
-  <abbr title="Ovid">Ov.</abbr> <cite>ex Ponto</cite>, <span class="allsmcap">III.</span> 9. 55.
+  Ov. <cite>ex Ponto</cite>, <span class="allsmcap">III.</span> 9. 55.
 </p>
 </div>
 
@@ -527,774 +560,410 @@ in this country.</p>
 
 </section>
 
-<nav data-epub-type="toc">
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
 <p><span class="pagenum" id="Page_vi">[Pg vi]</span></p>
 
+<nav data-epub-type="toc">
   <h2 class="nobreak" id="TABLE_OF_CASES">
     TABLE OF CASES
   </h2>
 
-<table class="autotable cases">
-<tr>
-<th></th>
-<th class="tdr">PAGE</th>
-</tr>
-<tr>
-<td class="tdl tdt">
-Anon. (1683), 1 Vernon, 263
-</td>
-<td class="tdr tdb">
-104 (<a href="#Footnote_137_137">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Barker <i>v.</i> Warren (1675), 2 Mod., 271
-</td>
-<td class="tdr tdb">
-104 (<a href="#Footnote_137_137">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Britton <i>v.</i> Standish (1704), Cas. temp. Holt 141, 3 Salk. 88
-</td>
-<td class="tdr tdb">
-26 (<a href="#Footnote_44_44">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Chamberlain of London <i>v.</i> Evans (1767), Cobbett’s <cite><abbr title="Parliamentary History">Parl. Hist.</abbr></cite>, <abbr title="volume">vol.</abbr> XVI, <abbr title="pages">pp.</abbr> 313–27
-</td>
-<td class="tdr tdb">
-<a href="#Page_112">112</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-De Wilton <i>v.</i> Montefiore, L. R. (1900), 2 Ch. 489
-</td>
-<td class="tdr tdb">
-<a href="#Page_1">1</a>, <a href="#Page_3">3</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-East India <abbr title="Company">Co.</abbr> <i>v.</i> Sandys (1683–5), X Howell’s <cite>State Trials</cite>, 371 seq.
-</td>
-<td class="tdr tdb">
-69 (<a href="#Footnote_100_100">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Fish <i>v.</i> Klein (1817), 2 Mer., 431
-</td>
-<td class="tdr tdb">
-63 (<a href="#Footnote_94_94">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Gilbert <i>v.</i> Buzzard &amp; Boyer (1821), 2 <abbr title="Haggard">Hag.</abbr> <cite><abbr title="Consistory">Cons.</abbr></cite>, 333
-</td>
-<td class="tdr tdb">
-63 (<a href="#Footnote_95_95">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Goddard <i>v.</i> Smith (1764), 8 Mod., 264
-</td>
-<td class="tdr tdb">
-102 (<a href="#Footnote_135_135">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Godden <i>v.</i> Hales (1686), 2 Shower, 475; XI Howell’s <cite>State Trials</cite>, 1166
-</td>
-<td class="tdr tdb">
-108 (<a href="#Footnote_143_143">note</a>) &amp; 125 (<a href="#Footnote_158_158">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Inhabitants of <abbr title="Saint">St.</abbr> Andrew’s Undershaft <i>v.</i> De Breta (1701), 1 Ld. Raym., 699
-</td>
-<td class="tdr tdb">
-<a href="#Page_120">120</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Lindo <i>v.</i> Belisario (1795), 1 Hag. <cite>Cons.</cite>, 216
-</td>
-<td class="tdr tdb">
-<a href="#Page_1">1</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Musgrove <i>v.</i> Chun Teeong Toy L. R., [1891], A. C. 272
-</td>
-<td class="tdr tdb">
-69 (<a href="#Footnote_100_100">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Nayler’s Case (1656), V Howell’s <cite>State Trials</cite>, 801
-</td>
-<td class="tdr tdb">
-34 (<a href="#Footnote_51_51">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Pigg <i>v.</i> Caley (1617), Noy 27
-</td>
-<td class="tdr tdb">
-<a href="#Page_15">15</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Powell <i>v.</i> The Kempton Park Racecourse Co., L. R. [1897], 2 Q. B. 242 &amp; ib. [1899], A. C. 143
-</td>
-<td class="tdr tdb">
-<a href="#Page_16">16</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-R. <i>v.</i> Bartholomew Legatt (1612), II Howell’s <cite>State Trials</cite>, 729
-</td>
-<td class="tdr tdb">
-<a href="#Page_22">22</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Reg. <i>v.</i> Price (1884), L. R., 12 Q. B. D. 247
-</td>
-<td class="tdr tdb">
-63 (<a href="#Footnote_95_95">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Robeley <i>v.</i> Langston (1667), 2 Keble, 314
-</td>
-<td class="tdr tdb">
-104 (<a href="#Footnote_137_137">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Somersett’s Case (1771), XX Howell’s <cite>State Trials</cite>, 41
-</td>
-<td class="tdr tdb">
-<a href="#Page_15">15</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Thomas <i>v.</i> Sorrel (1674), Vaughan, 330
-</td>
-<td class="tdr tdb">
-125 (<a href="#Footnote_158_158">note</a>)
-</td>
-</tr>
-</table>
+<div class="toc-wrap">
+<ul class="toc-list">
+  <li class="toc-entry toc-head">
+    <span class="toc-title"></span>
+    <span class="toc-page">PAGE</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title"><i>Anon. (1683), 1 Vernon, 263</i></span>
+    <span class="toc-page">104 (<a href="#Footnote_137_137">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Barker <i>v.</i> Warren (1675), 2 Mod., 271</span>
+    <span class="toc-page">104 (<a href="#Footnote_137_137">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Britton <i>v.</i> Standish (1704), Cas. temp. Holt 141, 3 Salk. 88</span>
+    <span class="toc-page">26 (<a href="#Footnote_44_44">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Chamberlain of London <i>v.</i> Evans (1767), Cobbett’s <cite>Parl. Hist.</cite>, vol. XVI, pp. 313–27</span>
+    <span class="toc-page"><a href="#Page_112">112</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">De Wilton <i>v.</i> Montefiore, L. R. (1900), 2 Ch. 489</span>
+    <span class="toc-page"><a href="#Page_1">1</a>, <a href="#Page_3">3</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">East India Co. <i>v.</i> Sandys (1683–5), X Howell’s <cite>State Trials</cite>, 371 seq.</span>
+    <span class="toc-page">69 (<a href="#Footnote_100_100">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Fish <i>v.</i> Klein (1817), 2 Mer., 431</span>
+    <span class="toc-page">63 (<a href="#Footnote_94_94">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Gilbert <i>v.</i> Buzzard &amp; Boyer (1821), 2 Hag. <cite>Cons.</cite>, 333</span>
+    <span class="toc-page">63 (<a href="#Footnote_95_95">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Goddard <i>v.</i> Smith (1764), 8 Mod., 264</span>
+    <span class="toc-page">102 (<a href="#Footnote_135_135">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Godden <i>v.</i> Hales (1686), 2 Shower, 475; XI Howell’s <cite>State Trials</cite>, 1166</span>
+    <span class="toc-page">108 (<a href="#Footnote_143_143">note</a>) &amp; 125 (<a href="#Footnote_158_158">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Inhabitants of St. Andrew’s Undershaft <i>v.</i> De Breta (1701), 1 Ld. Raym., 699</span>
+    <span class="toc-page"><a href="#Page_120">120</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Lindo <i>v.</i> Belisario (1795), 1 Hag. <cite>Cons.</cite>, 216</span>
+    <span class="toc-page"><a href="#Page_1">1</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Musgrove <i>v.</i> Chun Teeong Toy L. R., [1891], A. C. 272</span>
+    <span class="toc-page">69 (<a href="#Footnote_100_100">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Nayler’s Case (1656), V Howell’s <cite>State Trials</cite>, 801</span>
+    <span class="toc-page">34 (<a href="#Footnote_51_51">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Pigg <i>v.</i> Caley (1617), Noy 27</span>
+    <span class="toc-page"><a href="#Page_15">15</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Powell <i>v.</i> The Kempton Park Racecourse Co., L. R. [1897], 2 Q. B. 242 &amp; ib. [1899], A. C. 143</span>
+    <span class="toc-page"><a href="#Page_16">16</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">R. <i>v.</i> Bartholomew Legatt (1612), II Howell’s <cite>State Trials</cite>, 729</span>
+    <span class="toc-page"><a href="#Page_22">22</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Reg. <i>v.</i> Price (1884), L. R., 12 Q. B. D. 247</span>
+    <span class="toc-page">63 (<a href="#Footnote_95_95">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Robeley <i>v.</i> Langston (1667), 2 Keble, 314</span>
+    <span class="toc-page">104 (<a href="#Footnote_137_137">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Somersett’s Case (1771), XX Howell’s <cite>State Trials</cite>, 41</span>
+    <span class="toc-page"><a href="#Page_15">15</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Thomas <i>v.</i> Sorrel (1674), Vaughan, 330</span>
+    <span class="toc-page">125 (<a href="#Footnote_158_158">note</a>)</span>
+  </li>
+</ul>
+</div>
 
 </nav>
 
-<section data-epub-type="toc">
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
 <p><span class="pagenum" id="Page_vii">[Pg vii]</span></p>
 
+<nav data-epub-type="toc">
   <h2 class="nobreak" id="TABLE_OF_STATUTES">
     TABLE OF STATUTES
   </h2>
 
-<table class="autotable statutes">
-<tr>
-<th></th>
-<th class="tdr">PAGES</th>
-</tr>
-<tr>
-<td class="tdl tdt">
-Ancient Saxon Statutes
-</td>
-<td class="tdr tdb">
-<a href="#Page_4">4</a> and <a href="#Page_5">5</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Law of Edward the Confessor
-</td>
-<td class="tdr tdb">
-<a href="#Page_5">5</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Magna Charta
-</td>
-<td class="tdr tdb">
-<a href="#Page_13">13</a>, 69 (<a href="#Footnote_100_100">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-54 &amp; 55 Henry III
-</td>
-<td class="tdr tdb">
-<a href="#Page_6">6</a>, <a href="#Page_16">16</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-3 <abbr title="Edward">Edw.</abbr> I, <i lang="xno">de la Jeuerie</i> or <i lang="la">de Iudaismo</i>
-</td>
-<td class="tdr tdb">
-<a href="#Page_6">6</a>, <a href="#Page_10">10</a>, <a href="#Page_11">11</a>, <a href="#Page_14">14</a>, <a href="#Page_16">16</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-15 Edw. II (Act banishing the Despensers)
-</td>
-<td class="tdr tdb">
-<a href="#Page_30">30</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-5 <abbr title="Richard">Rich.</abbr> II, <abbr title="statute">stat.</abbr> 2, <abbr title="chapter">cap.</abbr> 5
-</td>
-<td class="tdr tdb">
-<a href="#Page_18">18</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-2 <abbr title="Henry">Hen.</abbr> IV, <abbr title="chapter">c.</abbr> 15 (<i lang="la">De Haeretico</i>)
-</td>
-<td class="tdr tdb">
-<a href="#Page_19">19</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-2 Hen. V, stat. I, c. 7
-</td>
-<td class="tdr tdb">
-<a href="#Page_20">20</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-25 Hen. VIII, c. 14
-</td>
-<td class="tdr tdb">
-<a href="#Page_21">21</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-31 Hen. VIII, c. 14 (Act of the Six Articles)
-</td>
-<td class="tdr tdb">
-<a href="#Page_21">21</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-32 Hen. VIII, c. 2 (Limitations)
-</td>
-<td class="tdr tdb">
-<a href="#Page_15">15</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-1 Edw. VI, c. 1
-</td>
-<td class="tdr tdb">
-<a href="#Page_21">21</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-1 Edw. VI, c. 12
-</td>
-<td class="tdr tdb">
-<a href="#Page_21">21</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-2 &amp; 3 Edw. VI, c. 1
-</td>
-<td class="tdr tdb">
-<a href="#Page_21">21</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-1 &amp; 2 <abbr title="Philip">Phil.</abbr> &amp; <abbr title="Mary">Mar.</abbr>, c. 6
-</td>
-<td class="tdr tdb">
-21 (<a href="#Footnote_39_39">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-1 <abbr title="Elizabeth">Eliz.</abbr>, c. 1 (Act of Supremacy)
-</td>
-<td class="tdr tdb">
-<a href="#Page_21">21</a>, <a href="#Page_28">28</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-1 Eliz., c. 2 (Act of Uniformity)
-</td>
-<td class="tdr tdb">
-<a href="#Page_25">25</a>, <a href="#Page_38">38</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-23 Eliz., c. 1
-</td>
-<td class="tdr tdb">
-<a href="#Page_26">26</a>, <a href="#Page_39">39</a>, <a href="#Page_105">105</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-29 Eliz., c. 6
-</td>
-<td class="tdr tdb">
-<a href="#Page_26">26</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-35 Eliz., c. 1
-</td>
-<td class="tdr tdb">
-<a href="#Page_27">27</a>, <a href="#Page_39">39</a>, <a href="#Page_85">85</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-35 Eliz., c. 2
-</td>
-<td class="tdr tdb">
-<a href="#Page_27">27</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-3 <abbr title="James">Jac.</abbr> I, c. 4
-</td>
-<td class="tdr tdb">
-<a href="#Page_27">27</a>, <a href="#Page_28">28</a>, <a href="#Page_29">29</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-3 Jac. I, c. 5
-</td>
-<td class="tdr tdb">
-<a href="#Page_28">28</a>, <a href="#Page_29">29</a>, <a href="#Page_65">65</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-7 Jac. I, c. 6
-</td>
-<td class="tdr tdb">
-28 (<a href="#Footnote_46_46">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-16 <abbr title="Charles">Car.</abbr> I, c. 11
-</td>
-<td class="tdr tdb">
-<a href="#Page_24">24</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-Navigation Act, 1651
-</td>
-<td class="tdr tdb">
-<a href="#Page_40">40</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-The Instrument of Government
-</td>
-<td class="tdr tdb">
-<a href="#Page_39">39</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-12 Car. II, c. 18 (Navigation Act, 1660)
-</td>
-<td class="tdr tdb">
-<a href="#Page_96">96</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-13 Car. II, stat. 1, c. 12
-</td>
-<td class="tdr tdb">
-<a href="#Page_24">24</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-13 Car. II, stat. 1, c. 14
-</td>
-<td class="tdr tdb">
-96 (<a href="#Footnote_126_126">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-13 Car. II, stat. 2, c. 1 (Corporation Act)
-</td>
-<td class="tdr tdb">
-<a href="#Page_81">81</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-13 &amp; 14 Car. II, c. 4 (Quakers’ Act)
-</td>
-<td class="tdr tdb">
-<a href="#Page_81">81</a>, <a href="#Page_82">82</a>, 113 (<a href="#Footnote_146_146">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-13 &amp; 14 Car. II, c. 1 (Act of Uniformity)
-</td>
-<td class="tdr tdb">
-<a href="#Page_82">82</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-16 Car. II, c. 4 (Conventicle Act, 1664)
-</td>
-<td class="tdr tdb">
-<a href="#Page_85">85</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-17 Car. II, c. 2 (Five Mile Act)
-</td>
-<td class="tdr tdb">
-<a href="#Page_86">86</a>, 113 (<a href="#Footnote_146_146">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-22 Car. II, c. 1 (Second Conventicle Act)
-</td>
-<td class="tdr tdb">
-<a href="#Page_87">87</a>, 113 (<a href="#Footnote_146_146">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-<span class="pagenum" id="Page_viii">[Pg viii]</span>25 Car. II, c. 2 (Test Act)
-</td>
-<td class="tdr tdb">
-<a href="#Page_91">91</a>, 108 (<a href="#Footnote_143_143">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-29 Car. II, c. 9
-</td>
-<td class="tdr tdb">
-<a href="#Page_25">25</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-30 Car. II, stat. 2 (Parliamentary Test Act)
-</td>
-<td class="tdr tdb">
-<a href="#Page_92">92</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-1 <abbr title="William">Will.</abbr> &amp; Mar., c. 18 (Toleration Act)
-</td>
-<td class="tdr tdb">
-<a href="#Page_111">111–113</a>, <a href="#Page_125">125</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-1 Will. &amp; Mar., <abbr title="session">sess.</abbr> 2, c. 2 (Bill of Rights)
-</td>
-<td class="tdr tdb">
-<a href="#Page_28">28</a>, <a href="#Page_124">124</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-6 &amp; 7 Will. &amp; Mar., c. 6
-</td>
-<td class="tdr tdb">
-<a href="#Page_118">118</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-9 Will. III, c. 35
-</td>
-<td class="tdr tdb">
-<a href="#Page_119">119</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-11 &amp; 12 Will. III, c. 4
-</td>
-<td class="tdr tdb">
-113 (<a href="#Footnote_146_146">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-1 Ann., c. 24 (<abbr title="statute">st.</abbr> 1, c. 30, Ruff)
-</td>
-<td class="tdr tdb">
-<a href="#Page_119">119</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-9 <abbr title="George">Geo.</abbr> I, c. 24
-</td>
-<td class="tdr tdb">
-<a href="#Page_122">122</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-10 Geo. I, c. 4
-</td>
-<td class="tdr tdb">
-<a href="#Page_122">122</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-13 Geo. II, c. 7 (Colonial Naturalization Act, 1740)
-</td>
-<td class="tdr tdb">
-<a href="#Page_122">122</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-26 Geo. II, c. 26 (Jewish Naturalization Act)
-</td>
-<td class="tdr tdb">
-115 (<a href="#Footnote_147_147">note</a>), <a href="#Page_123">123</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-26 Geo. II, c. 33 (Lord Hardwicke’s Marriage Act)
-</td>
-<td class="tdr tdb">
-<a href="#Page_122">122</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-18 Geo. III, c. 60 (Sir George Savile’s Act)
-</td>
-<td class="tdr tdb">
-113 (<a href="#Footnote_146_146">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-31 Geo. III, c. 32 (Roman Catholic Relief Act, 1791)
-</td>
-<td class="tdr tdb">
-113 (<a href="#Footnote_146_146">note</a>), <a href="#Page_125">125</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-43 Geo. III, c. 30
-</td>
-<td class="tdr tdb">
-113 (<a href="#Footnote_146_146">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-52 Geo. III, c. 155 (Places of Religious Worship Act, 1812)
-</td>
-<td class="tdr tdb">
-82 (<a href="#Footnote_109_109">note</a>), <a href="#Page_87">87</a>, 113 (<a href="#Footnote_146_146">note</a>), <a href="#Page_125">125</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-53 Geo. III, c. 160
-</td>
-<td class="tdr tdb">
-113 (<a href="#Footnote_146_146">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-9 Geo. IV, c. 17
-</td>
-<td class="tdr tdb">
-81 (<a href="#Footnote_108_108">note</a>), <a href="#Page_114">114</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-10 Geo. IV, c. 7 (Roman Catholic Relief Act, 1829)
-</td>
-<td class="tdr tdb">
-113 (<a href="#Footnote_146_146">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-2 &amp; 3 Will. IV, c. 115 (Roman Catholic Charities Act, 1832)
-</td>
-<td class="tdr tdb">
-113 (<a href="#Footnote_146_146">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-3 &amp; 4 Will. IV, c. 30
-</td>
-<td class="tdr tdb">
-126 (<a href="#Footnote_159_159">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-5 &amp; 6 Will. IV, c. 50
-</td>
-<td class="tdr tdb">
-126 (<a href="#Footnote_159_159">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-7 &amp; 8 <abbr title="Victoria">Vict.</abbr>, c. 66, s. 5 (Naturalization Act, 1844)
-</td>
-<td class="tdr tdb">
-63 (<a href="#Footnote_94_94">note</a>), 114 (<a href="#Footnote_146_146">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-7 &amp; 8 Vict., c. 102
-</td>
-<td class="tdr tdb">
-29 (<a href="#Footnote_47_47">note</a>), <a href="#Page_114">114</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-9 &amp; 10 Vict., c. 59 (Religious Disabilities Act, 1846)
-</td>
-<td class="tdr tdb">
-<a href="#Page_17">17</a>, 29 (<a href="#Footnote_47_47">note</a>), <a href="#Page_115">115</a>, <a href="#Page_126">126</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-16 &amp; 17 Vict., c. 137 (Charitable Trusts Act, 1853)
-</td>
-<td class="tdr tdb">
-126 (<a href="#Footnote_159_159">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-18 &amp; 19 Vict., c. 81 (Places of Religious Worship Registration Act, 1855)
-</td>
-<td class="tdr tdb">
-<a href="#Page_126">126</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-18 &amp; 19 Vict., c. 86 (Act for securing the liberty of Religious Worship, 1855)
-</td>
-<td class="tdr tdb">
-<a href="#Page_126">126</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-26 &amp; 27 Vict., c. 125 (Statute Law Revision Act, 1873)
-</td>
-<td class="tdr tdb">
-<a href="#Page_19">19</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-32 &amp; 33 Vict., c. 110 (Charitable Trust Act, 1869)
-</td>
-<td class="tdr tdb">
-<a href="#Page_126">126</a>
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-33 &amp; 34 Vict., c. 14 (Naturalization Act, 1870)
-</td>
-<td class="tdr tdb">
-63 (<a href="#Footnote_94_94">note</a>), 122 (<a href="#Footnote_156_156">note</a>)
-</td>
-</tr>
-<tr>
-<td class="tdl tdt">
-34 &amp; 35 Vict., c. 48 (Promissory Oaths Act, 1871)
-</td>
-<td class="tdr tdb">
-81 (<a href="#Footnote_108_108">note</a>)
-</td>
-</tr>
-</table>
-</section>
+<div class="toc-wrap toc2-wrap">
+<ul class="toc-list">
+  <li class="toc-entry toc-head">
+    <span class="toc-title"></span>
+    <span class="toc-page">PAGES</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Ancient Saxon Statutes</span>
+    <span class="toc-page"><a href="#Page_4">4</a> and <a href="#Page_5">5</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Law of Edward the Confessor</span>
+    <span class="toc-page"><a href="#Page_5">5</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Magna Charta</span>
+    <span class="toc-page"><a href="#Page_13">13</a>, 69 (<a href="#Footnote_100_100">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">54 &amp; 55 Henry III</span>
+    <span class="toc-page"><a href="#Page_6">6</a>, <a href="#Page_16">16</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">3 Edw. I, <i lang="xno">de la Jeuerie</i> or <i lang="la">de Iudaismo</i></span>
+    <span class="toc-page"><a href="#Page_6">6</a>, <a href="#Page_10">10</a>, <a href="#Page_11">11</a>, <a href="#Page_14">14</a>, <a href="#Page_16">16</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">15 Edw. II (Act banishing the Despensers)</span>
+    <span class="toc-page"><a href="#Page_30">30</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">5 Rich. II, stat. 2, cap. 5</span>
+    <span class="toc-page"><a href="#Page_18">18</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">2 Hen. IV, c. 15 (<i lang="la">De Haeretico</i>)</span>
+    <span class="toc-page"><a href="#Page_19">19</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">2 Hen. V, stat. I, c. 7</span>
+    <span class="toc-page"><a href="#Page_20">20</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">25 Hen. VIII, c. 14</span>
+    <span class="toc-page"><a href="#Page_21">21</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">31 Hen. VIII, c. 14 (Act of the Six Articles)</span>
+    <span class="toc-page"><a href="#Page_21">21</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">32 Hen. VIII, c. 2 (Limitations)</span>
+    <span class="toc-page"><a href="#Page_15">15</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">1 Edw. VI, c. 1</span>
+    <span class="toc-page"><a href="#Page_21">21</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">1 Edw. VI, c. 12</span>
+    <span class="toc-page"><a href="#Page_21">21</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">2 &amp; 3 Edw. VI, c. 1</span>
+    <span class="toc-page"><a href="#Page_21">21</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">1 &amp; 2 Phil. &amp; Mar., c. 6</span>
+    <span class="toc-page">21 (<a href="#Footnote_39_39">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">1 Eliz., c. 1 (Act of Supremacy)</span>
+    <span class="toc-page"><a href="#Page_21">21</a>, <a href="#Page_28">28</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">1 Eliz., c. 2 (Act of Uniformity)</span>
+    <span class="toc-page"><a href="#Page_25">25</a>, <a href="#Page_38">38</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">23 Eliz., c. 1</span>
+    <span class="toc-page"><a href="#Page_26">26</a>, <a href="#Page_39">39</a>, <a href="#Page_105">105</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">29 Eliz., c. 6</span>
+    <span class="toc-page"><a href="#Page_26">26</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">35 Eliz., c. 1</span>
+    <span class="toc-page"><a href="#Page_27">27</a>, <a href="#Page_39">39</a>, <a href="#Page_85">85</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">35 Eliz., c. 2</span>
+    <span class="toc-page"><a href="#Page_27">27</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">3 Jac. I, c. 4</span>
+    <span class="toc-page"><a href="#Page_27">27</a>, <a href="#Page_28">28</a>, <a href="#Page_29">29</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">3 Jac. I, c. 5</span>
+    <span class="toc-page"><a href="#Page_28">28</a>, <a href="#Page_29">29</a>, <a href="#Page_65">65</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">7 Jac. I, c. 6</span>
+    <span class="toc-page">28 (<a href="#Footnote_46_46">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">16 Car. I, c. 11</span>
+    <span class="toc-page"><a href="#Page_24">24</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">Navigation Act, 1651</span>
+    <span class="toc-page"><a href="#Page_40">40</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">The Instrument of Government</span>
+    <span class="toc-page"><a href="#Page_39">39</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">12 Car. II, c. 18 (Navigation Act, 1660)</span>
+    <span class="toc-page"><a href="#Page_96">96</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">13 Car. II, stat. 1, c. 12</span>
+    <span class="toc-page"><a href="#Page_24">24</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">13 Car. II, stat. 1, c. 14</span>
+    <span class="toc-page">96 (<a href="#Footnote_126_126">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">13 Car. II, stat. 2, c. 1 (Corporation Act)</span>
+    <span class="toc-page"><a href="#Page_81">81</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">13 &amp; 14 Car. II, c. 4 (Quakers’ Act)</span>
+    <span class="toc-page"><a href="#Page_81">81</a>, <a href="#Page_82">82</a>, 113 (<a href="#Footnote_146_146">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">13 &amp; 14 Car. II, c. 1 (Act of Uniformity)</span>
+    <span class="toc-page"><a href="#Page_82">82</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">16 Car. II, c. 4 (Conventicle Act, 1664)</span>
+    <span class="toc-page"><a href="#Page_85">85</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">17 Car. II, c. 2 (Five Mile Act)</span>
+    <span class="toc-page"><a href="#Page_86">86</a>, 113 (<a href="#Footnote_146_146">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">22 Car. II, c. 1 (Second Conventicle Act)</span>
+    <span class="toc-page"><a href="#Page_87">87</a>, 113 (<a href="#Footnote_146_146">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title"><span class="pagenum" id="Page_viii">[Pg viii]</span>25 Car. II, c. 2 (Test Act)</span>
+    <span class="toc-page"><a href="#Page_91">91</a>, 108 (<a href="#Footnote_143_143">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">29 Car. II, c. 9</span>
+    <span class="toc-page"><a href="#Page_25">25</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">30 Car. II, stat. 2 (Parliamentary Test Act)</span>
+    <span class="toc-page"><a href="#Page_92">92</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">1 Will. &amp; Mar., c. 18 (Toleration Act)</span>
+    <span class="toc-page"><a href="#Page_111">111–113</a>, <a href="#Page_125">125</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">1 Will. &amp; Mar., sess. 2, c. 2 (Bill of Rights)</span>
+    <span class="toc-page"><a href="#Page_28">28</a>, <a href="#Page_124">124</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">6 &amp; 7 Will. &amp; Mar., c. 6</span>
+    <span class="toc-page"><a href="#Page_118">118</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">9 Will. III, c. 35</span>
+    <span class="toc-page"><a href="#Page_119">119</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">11 &amp; 12 Will. III, c. 4</span>
+    <span class="toc-page">113 (<a href="#Footnote_146_146">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">1 Ann., c. 24 (st. 1, c. 30, Ruff)</span>
+    <span class="toc-page"><a href="#Page_119">119</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">9 Geo. I, c. 24</span>
+    <span class="toc-page"><a href="#Page_122">122</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">10 Geo. I, c. 4</span>
+    <span class="toc-page"><a href="#Page_122">122</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">13 Geo. II, c. 7 (Colonial Naturalization Act, 1740)</span>
+    <span class="toc-page"><a href="#Page_122">122</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">26 Geo. II, c. 26 (Jewish Naturalization Act)</span>
+    <span class="toc-page">115 (<a href="#Footnote_147_147">note</a>), <a href="#Page_123">123</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">26 Geo. II, c. 33 (Lord Hardwicke’s Marriage Act)</span>
+    <span class="toc-page"><a href="#Page_122">122</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">18 Geo. III, c. 60 (Sir George Savile’s Act)</span>
+    <span class="toc-page">113 (<a href="#Footnote_146_146">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">31 Geo. III, c. 32 (Roman Catholic Relief Act, 1791)</span>
+    <span class="toc-page">113 (<a href="#Footnote_146_146">note</a>), <a href="#Page_125">125</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">43 Geo. III, c. 30</span>
+    <span class="toc-page">113 (<a href="#Footnote_146_146">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">52 Geo. III, c. 155 (Places of Religious Worship Act, 1812)</span>
+    <span class="toc-page">82 (<a href="#Footnote_109_109">note</a>), <a href="#Page_87">87</a>, 113 (<a href="#Footnote_146_146">note</a>), <a href="#Page_125">125</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">53 Geo. III, c. 160</span>
+    <span class="toc-page">113 (<a href="#Footnote_146_146">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">9 Geo. IV, c. 17</span>
+    <span class="toc-page">81 (<a href="#Footnote_108_108">note</a>), <a href="#Page_114">114</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">10 Geo. IV, c. 7 (Roman Catholic Relief Act, 1829)</span>
+    <span class="toc-page">113 (<a href="#Footnote_146_146">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">2 &amp; 3 Will. IV, c. 115 (Roman Catholic Charities Act, 1832)</span>
+    <span class="toc-page">113 (<a href="#Footnote_146_146">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">3 &amp; 4 Will. IV, c. 30</span>
+    <span class="toc-page">126 (<a href="#Footnote_159_159">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">5 &amp; 6 Will. IV, c. 50</span>
+    <span class="toc-page">126 (<a href="#Footnote_159_159">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">7 &amp; 8 Vict., c. 66, s. 5 (Naturalization Act, 1844)</span>
+    <span class="toc-page">63 (<a href="#Footnote_94_94">note</a>), 114 (<a href="#Footnote_146_146">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">7 &amp; 8 Vict., c. 102</span>
+    <span class="toc-page">29 (<a href="#Footnote_47_47">note</a>), <a href="#Page_114">114</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">9 &amp; 10 Vict., c. 59 (Religious Disabilities Act, 1846)</span>
+    <span class="toc-page"><a href="#Page_17">17</a>, 29 (<a href="#Footnote_47_47">note</a>), <a href="#Page_115">115</a>, <a href="#Page_126">126</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">16 &amp; 17 Vict., c. 137 (Charitable Trusts Act, 1853)</span>
+    <span class="toc-page">126 (<a href="#Footnote_159_159">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">18 &amp; 19 Vict., c. 81 (Places of Religious Worship Registration Act, 1855)</span>
+    <span class="toc-page"><a href="#Page_126">126</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">18 &amp; 19 Vict., c. 86 (Act for securing the liberty of Religious Worship, 1855)</span>
+    <span class="toc-page"><a href="#Page_126">126</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">26 &amp; 27 Vict., c. 125 (Statute Law Revision Act, 1873)</span>
+    <span class="toc-page"><a href="#Page_19">19</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">32 &amp; 33 Vict., c. 110 (Charitable Trust Act, 1869)</span>
+    <span class="toc-page"><a href="#Page_126">126</a></span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">33 &amp; 34 Vict., c. 14 (Naturalization Act, 1870)</span>
+    <span class="toc-page">63 (<a href="#Footnote_94_94">note</a>), 122 (<a href="#Footnote_156_156">note</a>)</span>
+  </li>
+  <li class="toc-entry">
+    <span class="toc-title">34 &amp; 35 Vict., c. 48 (Promissory Oaths Act, 1871)</span>
+    <span class="toc-page">81 (<a href="#Footnote_108_108">note</a>)</span>
+  </li>
+</ul>
+</div>
+</nav>
 
 <section class="chapter">
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
@@ -1337,7 +1006,7 @@ to return and enjoy their religion, and the question was
 much agitated but nothing was done. On the Restoration,
 Charles II promised them protection and the use of their
 religion, and an order of Council issued to that effect.’
-The order is given in the Appendix, <abbr title="page">p.</abbr> 3. It is dated
+The order is given in the Appendix, p. 3. It is dated
 November 13, 1685, and it provides as follows: ‘Upon
 reading this day at the board the petition of Joseph
 Henriques, Abraham Delivera, and Aaron Pacheco, overseers
@@ -1649,7 +1318,7 @@ or grievance be offered to them in the mean time&#x2060;<a id="FNanchor_23_23" h
 Iudaismo</i>, and attributing it to the Parliament of 1290.
 It is still placed among the statutes of uncertain date by
 the commissioners responsible for the statutes of the realm.
-In the Harleian <abbr title="Manuscript">MS.</abbr> it immediately succeeds the Statute of
+In the Harleian MS. it immediately succeeds the Statute of
 Westminster I, passed in the third year of Edward I, and
 in the document discovered by Dr. Gross at the British
 Museum it is stated to have been enacted “<span lang="la">in quindena
@@ -1677,7 +1346,7 @@ assertion.</p>
 spread, and at one time held by both the supporters and
 opponents of the Jews’ readmission; for the first petition
 presented on behalf of the Jews to the Council of War on
-<abbr title="January">Jan.</abbr> 5, 1648/9, some seven years before Prynne wrote his
+Jan. 5, 1648/9, some seven years before Prynne wrote his
 <cite>Demurrer</cite>, is entitled, “The petition of the Jews for the
 repealing of the Act of Parliament for their Banishment
 out of England,” and speaks of the instrument of expulsion
@@ -2014,7 +1683,7 @@ brought to the stake within the short period of less
 than four years that elapsed before the Queen’s death&#x2060;<a id="FNanchor_40_40" href="#Footnote_40_40" class="fnanchor" role="doc-noteref" data-epub-type="noteref">[40]</a>&#x2060;.
 When Elizabeth came to the throne, the law was again
 recast. The first Act of Parliament passed in her reign,
-commonly called the Act of Supremacy (1 Eliz. cap. 1, <abbr title="section">sect.</abbr> 15)
+commonly called the Act of Supremacy (1 Eliz. cap. 1, sect. 15)
 expressly repealed the Act of Philip and Mary under which
 the persecutions had taken place, as also the former statutes
 for the punishment of heresies revived by that Act; but it
@@ -2277,7 +1946,7 @@ or mental evasion, or secret reservation whatsoever:
 and I do make this recognition and acknowledgment
 heartily, willingly, and truly, <em>upon the true faith of a Christian</em>,
 So help me God.” The oath itself was abolished in
-1688 by the Bill of Rights (1 <abbr title="William">W.</abbr> &amp; <abbr title="Mary">M.</abbr>, sess. 2, cap. 1, sect. 3);
+1688 by the Bill of Rights (1 W. &amp; M., sess. 2, cap. 1, sect. 3);
 but the final words, now for the first time introduced, were
 retained in other forms of oaths and declarations and, as
 will be hereafter shown, for a long time proved an insurmountable
@@ -2421,7 +2090,7 @@ protection. Among the earliest of these new comers was
 Antonio Fernandez Carvajal; he must have arrived here
 in or before the year 1635, long before the Great Rebellion
 commenced, for in the letters of denization which were
-granted to him by Cromwell on <abbr title="August">Aug.</abbr> 17, 1655, he is described
+granted to him by Cromwell on Aug. 17, 1655, he is described
 as having “for the space of twentie yeares and upwards
 <span class="pagenum" id="Page_33">[Pg 33]</span>been an Inhabitant in this nation.” When he had been
 here for some years he with other merchant strangers was
@@ -2821,7 +2490,7 @@ Serene Highness. Amen.’</p>
 desired Time to consider of them, and the next Day was
 spent in Prayer and Fasting.</p>
 
-<p>“<i><abbr title="December">Dec.</abbr> 7.</i> This Day, in the Afternoon, a Conference was
+<p>“<i>Dec. 7.</i> This Day, in the Afternoon, a Conference was
 held with the Ministers about these Proposals, in the
 Presence of his Highness the Lord Protector, the Lord
 President Lawrence, Lord Lambert, Lord Fiennes, and
@@ -2925,13 +2594,13 @@ communal organization and openly practising their religion.</p></div>
 
 <div class="footnote" id="Footnote_4_4" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_4_4" class="label" role="doc-backlink">[4]</a> Prynne’s <cite>Demurrer</cite>, part I, p. 5.</p></div>
 
-<div class="footnote" id="Footnote_5_5" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_5_5" class="label" role="doc-backlink">[5]</a> <abbr title="Theodore">Theod.</abbr> <cite><abbr title="Liber Poenitentialis">Lib. P.</abbr></cite>, XVI, § 35.</p></div>
+<div class="footnote" id="Footnote_5_5" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_5_5" class="label" role="doc-backlink">[5]</a> Theod. <cite>Lib. P.</cite>, XVI, § 35.</p></div>
 
 <div class="footnote" id="Footnote_6_6" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_6_6" class="label" role="doc-backlink">[6]</a> Theod. <cite>Lib. P.</cite>, XXX, § 4.</p></div>
 
 <div class="footnote" id="Footnote_7_7" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_7_7" class="label" role="doc-backlink">[7]</a> Ibid., XLII, § 1.</p></div>
 
-<div class="footnote" id="Footnote_8_8" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_8_8" class="label" role="doc-backlink">[8]</a> Ibid., § 4; <abbr title="Ecbert">Ecb.</abbr> <cite><abbr title="Excerptiones">Ex.</abbr></cite> 150.</p></div>
+<div class="footnote" id="Footnote_8_8" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_8_8" class="label" role="doc-backlink">[8]</a> Ibid., § 4; Ecb. <cite>Ex.</cite> 150.</p></div>
 
 <div class="footnote" id="Footnote_9_9" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_9_9" class="label" role="doc-backlink">[9]</a> Theod. <cite>Lib. P.</cite>, XLVII, § 1.</p></div>
 
@@ -2965,11 +2634,11 @@ from England in 1290</cite>, by B. L. Abrahams, and the Introduction to the
 Jewish Historical and Selden Societies’ edition of <cite>Select Pleas</cite>, Starrs, &amp;c., by
 J. M. Rigg, which has appeared while these pages were in the press.</p></div>
 
-<div class="footnote" id="Footnote_16_16" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_16_16" class="label" role="doc-backlink">[16]</a> Stubbs, <cite><abbr title="Constitutional History">Const. Hist.</abbr></cite>, II, 126.</p></div>
+<div class="footnote" id="Footnote_16_16" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_16_16" class="label" role="doc-backlink">[16]</a> Stubbs, <cite>Const. Hist.</cite>, II, 126.</p></div>
 
-<div class="footnote" id="Footnote_17_17" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_17_17" class="label" role="doc-backlink">[17]</a> Rymer, <cite><abbr title="Foedera">Foed.</abbr></cite>, vol. I, part 2, p. 736. Coke gives from the Close Rolls
+<div class="footnote" id="Footnote_17_17" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_17_17" class="label" role="doc-backlink">[17]</a> Rymer, <cite>Foed.</cite>, vol. I, part 2, p. 736. Coke gives from the Close Rolls
 a similar writ addressed to the sheriff of G. and dated July 18, 1290. Inst.,
-II, p. 507, and see Tovey’s <cite><abbr title="Anglia">Ang.</abbr> Iudaica</cite>, p. 241, and at p. 232 the entry in
+II, p. 507, and see Tovey’s <cite>Ang. Iudaica</cite>, p. 241, and at p. 232 the entry in
 the Red Book of the Exchequer is given.</p></div>
 
 <div class="footnote" id="Footnote_18_18" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_18_18" class="label" role="doc-backlink">[18]</a> The original word is <i lang="la">curialitas</i>, which is quite distinct from the
@@ -2979,7 +2648,7 @@ mediaeval jurisprudence, and is not to be found among the terms explained
 in “Termes de la ley.” It is used in the <i lang="la">Corpus iuris</i>, but with
 a very different meaning. <cite>Novell. Valentinian.</cite> tit. 3, § 3.</p></div>
 
-<div class="footnote" id="Footnote_19_19" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_19_19" class="label" role="doc-backlink">[19]</a> <abbr title="Additional">Add.</abbr> <abbr title="Manuscripts">MSS.</abbr>, <abbr title="Museum">Mus.</abbr> <abbr title="Britain">Brit.</abbr> 32,085, <abbr title="folio">fol.</abbr> 122, <cite>Publications of the Anglo-Jewish
+<div class="footnote" id="Footnote_19_19" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_19_19" class="label" role="doc-backlink">[19]</a> Add. MSS., Mus. Brit. 32,085, fol. 122, <cite>Publications of the Anglo-Jewish
 Historical Exhibition</cite>, I, 229; Rigg, <cite>Select Pleas</cite>, pp. xl-xlii.</p></div>
 
 <div class="footnote" id="Footnote_20_20" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_20_20" class="label" role="doc-backlink">[20]</a> Mathew of Westminster, a contemporary chronicler, says the king
@@ -2990,7 +2659,7 @@ had allowed them to stay till the Feast of All Saints (<cite class="nonitalic">T
 <div class="footnote" id="Footnote_22_22" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_22_22" class="label" role="doc-backlink">[22]</a> Madox, <cite>History of the Exchequer</cite>, p. 261. See note r. “MCCLXXXX
 <span lang="la">eiecti sunt Iudaei ab Anglia cum facultatibus suis; salvis cartis Christianorum
 penes Dominum Regem residentibus</span>,” ex Cod. Vet. MS. (<cite>Annals
-of the Church of <abbr title="Saint">St.</abbr> Augustine at Canterbury</cite>), 4. 7, p. 102. At p. 221 Mr. Madox
+of the Church of St. Augustine at Canterbury</cite>), 4. 7, p. 102. At p. 221 Mr. Madox
 says: “The King of England was wont to draw a considerable Revenue
 from the Jews residing in this Realm: namely, by Tallages, by Fines
 relating to Law-proceedings, by Amerciaments imposed on them for
@@ -3019,7 +2688,7 @@ attributes it to 4 Edw. I.</p></div>
 
 <div class="footnote" id="Footnote_25_25" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_25_25" class="label" role="doc-backlink">[25]</a> <cite>Demurrer</cite>, p. 49.</p></div>
 
-<div class="footnote" id="Footnote_26_26" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_26_26" class="label" role="doc-backlink">[26]</a> Hag., <cite>Cons. <abbr title="Cases">Cas.</abbr></cite>, I, Ap. <abbr title="Number">No.</abbr> 1.</p></div>
+<div class="footnote" id="Footnote_26_26" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_26_26" class="label" role="doc-backlink">[26]</a> Hag., <cite>Cons. Cas.</cite>, I, Ap. No. 1.</p></div>
 
 <div class="footnote" id="Footnote_27_27" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_27_27" class="label" role="doc-backlink">[27]</a> <cite>Demurrer</cite>, p. 50.</p></div>
 
@@ -3043,7 +2712,7 @@ vol. III, p. 71, says he was hanged. See Maitland, <cite>Canon Law in the
 Church of England</cite>, pp. 158–179.</p></div>
 
 <div class="footnote" id="Footnote_35_35" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_35_35" class="label" role="doc-backlink">[35]</a> The statute is 5 Rich. II, stat. 2, cap. 5. See <cite>Statutes of the Realm</cite>, II,
-p. 25; <cite><abbr title="Rotuli Parliamentorum">Rot. Parl.</abbr></cite> III, 125 and 141; “The case of Heresy,” 12 <cite><abbr title="Reports">Rep.</abbr></cite> 56.
+p. 25; <cite>Rot. Parl.</cite> III, 125 and 141; “The case of Heresy,” 12 <cite>Rep.</cite> 56.
 The Act declaring 5 Rich. II, stat. 2, cap. 5 void was omitted (it is said
 through the craft of the clergy) from the published editions of the
 statutes; therefore in the days of the Reformation 5 Rich. II, stat. 2,
@@ -3069,7 +2738,7 @@ and 613.</p></div>
 
 <div class="footnote" id="Footnote_41_41" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_41_41" class="label" role="doc-backlink">[41]</a> 2 <cite>State Trials</cite>, p. 729.</p></div>
 
-<div class="footnote" id="Footnote_42_42" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_42_42" class="label" role="doc-backlink">[42]</a> <cite><abbr title="Calendar">Cal.</abbr> <abbr title="State Papers">S. P.</abbr> Domestic</cite>, 1633–4, p. 538.</p></div>
+<div class="footnote" id="Footnote_42_42" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_42_42" class="label" role="doc-backlink">[42]</a> <cite>Cal. S. P. Domestic</cite>, 1633–4, p. 538.</p></div>
 
 <div class="footnote" id="Footnote_43_43" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_43_43" class="label" role="doc-backlink">[43]</a> <cite>Pleas of the Crown</cite>, Bk. I, cap. 10, sect. 4.</p></div>
 
@@ -3100,7 +2769,7 @@ inferatur ex causa conscientiae, Ideo ut commercium sit tutum et securum
 tam in terra quam in mari, dictus Serenissimus Rex Hispaniarum curabit
 et providebit, ne ex praedicta causa conscientiae contra iura commercii
 molestentur et inquietentur, ubi scandalum alii non dederint</span>.” <cite>Foedera</cite>,
-vol. VIII, <abbr title="part">pt.</abbr>3, p. 143 (edition of 1742). In the treaty of 1667, which
+vol. VIII, pt.3, p. 143 (edition of 1742). In the treaty of 1667, which
 was renewed by the treaty of Versailles in 1783, the same clause occurs,
 but the reciprocal clause is expressed, “and the said King of Great
 Britain shall likewise provide, for the same reasons, that the subjects of
@@ -3110,7 +2779,7 @@ offence.” Hertslet’s <cite>Collection of Treaties</cite>, vol. II, p. 152.</
 
 <div class="footnote" id="Footnote_50_50" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_50_50" class="label" role="doc-backlink">[50]</a> For the petition see <cite>Lords’ Journals</cite>, vol. VII, p. 141. It was presented
 Jan. 16, 1644/5. For Carvajal see “The First English Jew,” by Lucien
-Wolf, <cite><abbr title="Transactions">Trans.</abbr> Jewish <abbr title="Historical">Hist.</abbr> <abbr title="Society">Soc.</abbr></cite>, vol. II, pp. 14–46.</p></div>
+Wolf, <cite>Trans. Jewish Hist. Soc.</cite>, vol. II, pp. 14–46.</p></div>
 
 <div class="footnote" id="Footnote_51_51" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_51_51" class="label" role="doc-backlink">[51]</a> See the case of Paul Best, who had asserted that Christ was merely
 and properly a man (Goodwin, II, pp. 252 seq.), and James Nayler (5 <cite>State
@@ -3138,7 +2807,7 @@ Munday the 1 of Janu. till Munday the 8 of Janu. 1648.”</p></div>
 
 <div class="footnote" id="Footnote_58_58" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_58_58" class="label" role="doc-backlink">[58]</a> See the ordinance of Aug., 1650, cap. 22, given in Scobell, II, p. 124.</p></div>
 
-<div class="footnote" id="Footnote_59_59" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_59_59" class="label" role="doc-backlink">[59]</a> <abbr title="Juvenal">Juv.</abbr> <cite><abbr title="Satires">Sat.</abbr></cite> X, 96.</p></div>
+<div class="footnote" id="Footnote_59_59" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_59_59" class="label" role="doc-backlink">[59]</a> Juv. <cite>Sat.</cite> X, 96.</p></div>
 
 <div class="footnote" id="Footnote_60_60" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_60_60" class="label" role="doc-backlink">[60]</a> Goodwin, vol. IV, p. 309.</p></div>
 
@@ -3148,7 +2817,7 @@ Munday the 1 of Janu. till Munday the 8 of Janu. 1648.”</p></div>
 
 <div class="footnote" id="Footnote_63_63" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_63_63" class="label" role="doc-backlink">[63]</a> Scobell, II, p. 176.</p></div>
 
-<div class="footnote" id="Footnote_64_64" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_64_64" class="label" role="doc-backlink">[64]</a> See <cite><abbr title="Calendar">Cal.</abbr> State Papers</cite>, 1654, pp. 393 and 407; Goodwin, IV, p. 47, note;
+<div class="footnote" id="Footnote_64_64" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_64_64" class="label" role="doc-backlink">[64]</a> See <cite>Cal. State Papers</cite>, 1654, pp. 393 and 407; Goodwin, IV, p. 47, note;
 <cite>Trans. Jewish Hist. Soc.</cite>, vol. III, where the text of the petitions is given at
 pp. 88–93.</p></div>
 
@@ -3157,7 +2826,7 @@ pp. 88–93.</p></div>
 
 <div class="footnote" id="Footnote_66_66" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_66_66" class="label" role="doc-backlink">[66]</a> <cite>Vindiciae Iudaeorum</cite>, the seventh section.</p></div>
 
-<div class="footnote" id="Footnote_67_67" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_67_67" class="label" role="doc-backlink">[67]</a> Petition of John Sadler to Richard Cromwell (S. P. <abbr title="Domestic">Dom.</abbr> <abbr title="Interregnum">Inter.</abbr>, cc. 8),
+<div class="footnote" id="Footnote_67_67" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_67_67" class="label" role="doc-backlink">[67]</a> Petition of John Sadler to Richard Cromwell (S. P. Dom. Inter., cc. 8),
 and Petition from Menasseh to Oliver, Sept. 17, 1657 (S. P. Dom. Inter.,
 clvi. 89), both printed in Wolf’s <cite>Menasseh Ben Israel’s Mission to Oliver
 Cromwell</cite>, p. lxxxvii.</p></div>
@@ -3829,7 +3498,7 @@ a convenient place outside the city “with the Proprietor’s
 leave.” The Jews in England were at this time classed
 with Popish Recusants, and therefore such a licence was
 necessary, for the Act to prevent and avoid dangers which
-may grow by Popish Recusants (3 <abbr title="James">Jas.</abbr> I, c. 5, s. 15) imposed
+may grow by Popish Recusants (3 Jas. I, c. 5, s. 15) imposed
 a penalty of twenty pounds upon persons causing
 a Popish Recusant to be buried in any place other than in
 the church or churchyard, according to the ecclesiastical laws
@@ -3887,9 +3556,9 @@ the booths on the other side of Thames would be explained.</p></div>
 
 <div class="footnote" id="Footnote_80_80" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_80_80" class="label" role="doc-backlink">[80]</a> Violet’s Petition against the Jews, p. 2.</p></div>
 
-<div class="footnote" id="Footnote_81_81" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_81_81" class="label" role="doc-backlink">[81]</a> <cite>State Papers</cite>, Interregnum, ci, No. 118; <cite>Calendar</cite>, <abbr title="ditto">do.</abbr>; <cite>Domestic</cite>, p. 15;
-Neal’s <cite>History of the Puritans</cite>, vol. IV, pp. 141, 142 (<abbr title="edition">ed.</abbr> of 1738). Gardiner’s
-<cite>History of the Commonwealth</cite>, vol. III, p. 219 <abbr title="note">n.</abbr>; Wolf’s <cite>Resettlement</cite>, p. 16;
+<div class="footnote" id="Footnote_81_81" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_81_81" class="label" role="doc-backlink">[81]</a> <cite>State Papers</cite>, Interregnum, ci, No. 118; <cite>Calendar</cite>, do.; <cite>Domestic</cite>, p. 15;
+Neal’s <cite>History of the Puritans</cite>, vol. IV, pp. 141, 142 (ed. of 1738). Gardiner’s
+<cite>History of the Commonwealth</cite>, vol. III, p. 219 n.; Wolf’s <cite>Resettlement</cite>, p. 16;
 and <cite>Menasseh Ben Israel</cite>, pp. xlv, liv, lv.</p></div>
 
 <div class="footnote" id="Footnote_82_82" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_82_82" class="label" role="doc-backlink">[82]</a> If the document itself is looked at, its precise date is of little importance.
@@ -3899,8 +3568,8 @@ Ben Israel</cite> seems not to be justified, especially as he himself gives its 
 as November 13 in his <cite>Resettlement of the Jews</cite>, p. 11.</p></div>
 
 <div class="footnote" id="Footnote_83_83" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_83_83" class="label" role="doc-backlink">[83]</a> <cite>State Papers, Domestic</cite>, Interregnum, vol. CXXV, 38. i. 76, p. 604.
-i. 112, p. 289. <abbr title="Ditto">Do.</abbr> CXXVI, Council, Day’s Proceedings, No. 18. Do. i.
-77, p. 38. Do. CXXVI, 66, <abbr title="Numbers">Nos.</abbr> 11, 12, 13, 67, 67 i, 67 ii. Do. 105, 105 i-xi.
+i. 112, p. 289. Do. CXXVI, Council, Day’s Proceedings, No. 18. Do. i.
+77, p. 38. Do. CXXVI, 66, Nos. 11, 12, 13, 67, 67 i, 67 ii. Do. 105, 105 i-xi.
 i. 77, pp. 44, 78. Do. CXXVII, 21. Do. Council, Day’s Proceedings,
 Nos. 19, 40. The most important of these documents are printed at
 length in Mr. Wolf’s valuable Appendix to his <cite>Crypto-Jews under the Commonwealth</cite>,
@@ -3924,7 +3593,7 @@ them in 1689.</p></div>
 
 <div class="footnote" id="Footnote_88_88" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_88_88" class="label" role="doc-backlink">[88]</a> Wolf’s <cite>Jewry of the Restoration</cite>, p. 6; and his <cite>Menasseh</cite>, p. lviii.</p></div>
 
-<div class="footnote" id="Footnote_89_89" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_89_89" class="label" role="doc-backlink">[89]</a> Birch MSS. 4, 223, <abbr title="folio">fo.</abbr> 165, 166.</p></div>
+<div class="footnote" id="Footnote_89_89" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_89_89" class="label" role="doc-backlink">[89]</a> Birch MSS. 4, 223, fo. 165, 166.</p></div>
 
 <div class="footnote" id="Footnote_90_90" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_90_90" class="label" role="doc-backlink">[90]</a> “To his Highness the Lord Protector the humble Petition of John
 Sadler Sheweth that although your petitioner being often pressed to
@@ -3937,7 +3606,7 @@ here so long that he was allmost ashamed to return to those that sent him
 or to exact their maintenance here where they found so little success
 after so many hopes, it pleased his Highness &amp; the Council to settle on the
 said Menasseh a pension of £100 a year,” &amp;c. (<cite>S. P. Dom. Interregnum</cite>,
-<abbr title="chapter">ch.</abbr> viii). The whole petition is printed in Wolf’s <cite>Menasseh Ben Israel</cite>,
+ch. viii). The whole petition is printed in Wolf’s <cite>Menasseh Ben Israel</cite>,
 p. lxxxvii.</p></div>
 
 <div class="footnote" id="Footnote_91_91" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_91_91" class="label" role="doc-backlink">[91]</a> See the case of the Jews stated, 1689.</p></div>
@@ -3969,7 +3638,7 @@ administrator” (<cite>Co. Litt.</cite> 26). No amendment of the law was made u
 merchants or not, but it was still limited to lands held for the purpose of
 residence or occupation by the alien or his servants, or for the purpose
 of any business, trade, or manufacture, and to terms not exceeding
-twenty-one years (<span id="TN2">7 &amp; 8 Vict., cap. 66, <abbr title="section">sec.</abbr> 5</span>). It was not until 1870 that
+twenty-one years (<span id="TN2">7 &amp; 8 Vict., cap. 66, sec. 5</span>). It was not until 1870 that
 the unrestricted right of holding lands was conferred upon aliens (see
 33 Vict., cap. 14, sec. 2). As to the old law, see the case of Fish <i>v.</i> Klein
 (1817), 2 Mer. 431.</p></div>
@@ -3986,7 +3655,7 @@ Ben Israel</cite>, p. lxix). The pension was granted on March 23, 1656/7, and
 enrolled on May 21, 1657: “Manasseth Ben Israel, a penc̃on of 100<sup>ll</sup> per
 annum, payable quarterly and commencing from the 20th day of February,
 1656[–7]” (see the Fifth Report of the Deputy Keeper of Public
-Records, <abbr title="Appendix">App.</abbr> II, p. 263). Before Menasseh’s departure, in the autumn of
+Records, App. II, p. 263). Before Menasseh’s departure, in the autumn of
 1657, only two quarterly payments of £25 each would be due, and there is
 ample evidence that two such payments were made, one before September
 29, 1657, and one after that date. It was probably this last payment
@@ -4003,7 +3672,7 @@ that as Menasseh died almost directly after the commutation of the
 pension, and before another quarter’s allowance had fallen due, there was
 no moral obligation to pay his widow the promised grant of £200. For
 the two payments of £25 each, see the Eighth Report of the Hist. MSS.
-<abbr title="Commission">Comm.</abbr>, Part I, App. pp. 94 b and 95 a.</p></div>
+Comm., Part I, App. pp. 94 b and 95 a.</p></div>
 
 <div class="footnote" id="Footnote_97_97" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_97_97" class="label" role="doc-backlink">[97]</a> For the facts concerning the first Jewish cemetery at Mile End, see an
 article by Mr. Israel Davis in the <cite>Jewish Chronicle</cite> of November 26, 1880.
@@ -4190,7 +3859,7 @@ so the Jews in Holland now turned to the exiled Charles,
 peradventure they might obtain from him, in the event of
 his ever being restored to his kingdom, the boon which
 had been refused them by the all-powerful Protector.
-<span class="sidenote">Commission to <abbr title="Lieutenant-General">Lt.-Gen.</abbr> Middleton to treat with
+<span class="sidenote">Commission to Lt.-Gen. Middleton to treat with
 them.</span>
 Little more than a year after they had been found so unapproachable
 by Sir Marmaduke Langdale and Mr. Overton,
@@ -4577,7 +4246,7 @@ not repealed till the year 1846.</p>
 
 <p>
 <span class="sidenote">First Declaration of Indulgence, 1662.</span>
-The Act of Uniformity came into force on <abbr title="Saint">St.</abbr> Bartholomew’s
+The Act of Uniformity came into force on St. Bartholomew’s
 Day (Aug. 24), 1662. Its effect was not only to
 drive more than 3,000 ministers from their livings, but
 also, as the earlier legislation punishing non-attendance
@@ -5944,7 +5613,7 @@ with they would be utterly ruined. Though not
 mentioned in the petition, the rumour was spread abroad
 that the Jews would be forced to leave the country, and
 that they would remove themselves and their effects into
-Holland, rather than submit to the imposition&#x2060;<a id="FNanchor_148_148" href="#Footnote_148_148" class="fnanchor" role="doc-noteref" data-epub-type="noteref">[148]</a>&#x2060;. On <abbr title="November">Nov.</abbr>
+Holland, rather than submit to the imposition&#x2060;<a id="FNanchor_148_148" href="#Footnote_148_148" class="fnanchor" role="doc-noteref" data-epub-type="noteref">[148]</a>&#x2060;. On Nov.
 19 the petition was delivered by Mr. Paul Foley, member
 for Hereford, and afterwards Speaker; and a debate as to
 whether it should be received ensued. It was questioned
@@ -6064,7 +5733,7 @@ father, Jacob Mendez de Breta, disowned her for his
 child, turned her out of doors, and refused to allow her
 any maintenance, and she, being afraid of her father’s
 anger, applied to the Lord Mayor for protection, and at
-his order the churchwardens of <abbr title="Saint">St.</abbr> Andrew’s Undershaft,
+his order the churchwardens of St. Andrew’s Undershaft,
 in whose parish the father lived, provided for her
 and maintained her at the charge of the parish. The
 churchwardens lodged a complaint against the father at the
@@ -6084,7 +5753,7 @@ a hatred to our national religion, that in case any of their
 children embrace the same, they utterly disown them and
 treat them with great cruelty; an instance whereof appears
 by the daughter of Jacob Mendez de Breta, a rich Jew
-in <abbr title="Saint">St.</abbr> Andrew’s Undershaft, who being converted to the
+in St. Andrew’s Undershaft, who being converted to the
 Christian Faith, he utterly disowns her for his child and
 refuses to maintain her; so that she is now kept by the
 said parish for her encouragement, suitable to her education,”
@@ -6473,7 +6142,7 @@ of those reasons and those necessities the king himself is sole judge;
 ancient remains of the sovereign power and prerogative of the kings of
 England, which never yet was taken from them nor can be. And therefore,
 such a dispensation appearing upon record, judgment ought to be
-given for the defendant. See 2 <cite>Shower</cite>, p. 475; XI <abbr title="State Trials">St. Tr.</abbr>, p. 1166 seq.</p></div>
+given for the defendant. See 2 <cite>Shower</cite>, p. 475; XI St. Tr., p. 1166 seq.</p></div>
 
 <div class="footnote" id="Footnote_144_144" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_144_144" class="label" role="doc-backlink">[144]</a> Gaster, <cite>The Ancient Synagogue</cite>, p. 88.</p></div>
 
@@ -6540,7 +6209,7 @@ pp. 437–8.</p></div>
 <cite>Calendar S. P. Dom.</cite>, Dec. 31, 1689, p. 374; <cite>Greenwich Hospital News-letter</cite>, 3,
 No. 83.</p></div>
 
-<div class="footnote" id="Footnote_151_151" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_151_151" class="label" role="doc-backlink">[151]</a> <cite>S. P. Calendar</cite>, <abbr title="February">Feb.</abbr> 10, 1690.</p></div>
+<div class="footnote" id="Footnote_151_151" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_151_151" class="label" role="doc-backlink">[151]</a> <cite>S. P. Calendar</cite>, Feb. 10, 1690.</p></div>
 
 <div class="footnote" id="Footnote_152_152" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_152_152" class="label" role="doc-backlink">[152]</a> See Tovey’s <cite>Anglia Iudaica</cite>, pp. 287–95.</p></div>
 
@@ -6548,7 +6217,7 @@ No. 83.</p></div>
 clause was added, but the words which had been struck out by the Lords
 were restored to the Act. For the history of the Act, see supra, pp. 13–18.</p></div>
 
-<div class="footnote" id="Footnote_154_154" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_154_154" class="label" role="doc-backlink">[154]</a> See the Inhabitants of <abbr title="Saint">St.</abbr> Andrew’s Undershaft <i>v.</i> de Breta, Lord
+<div class="footnote" id="Footnote_154_154" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_154_154" class="label" role="doc-backlink">[154]</a> See the Inhabitants of St. Andrew’s Undershaft <i>v.</i> de Breta, Lord
 Raymond’s <cite>Reports</cite>, vol. I, p. 699. Before the Committee of the House of
 Commons it was stated that the allowance for maintenance was twenty
 shillings a-week. <cite>Commons Journals</cite>, vol. XIII, p. 799.</p></div>
@@ -6561,7 +6230,7 @@ especially secs. 2 and 3.</p></div>
 
 <div class="footnote" id="Footnote_157_157" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_157_157" class="label" role="doc-backlink">[157]</a> See first report of Her Majesty’s Commissioners for revising and
 consolidating the criminal law, note on pp. 32–3, and also Lord Brougham’s
-remarks, <cite><abbr title="Hansard">Hans.</abbr> Parl. <abbr title="Debates">Debat.</abbr></cite>, vol. 59, p. 815 (1841), and id., vol. 85, p. 1264
+remarks, <cite>Hans. Parl. Debat.</cite>, vol. 59, p. 815 (1841), and id., vol. 85, p. 1264
 (1846).</p></div>
 
 <div class="footnote" id="Footnote_158_158" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_158_158" class="label" role="doc-backlink">[158]</a> For the dispensing power see the cases of <i lang="la">non-obstante</i>, 12 Rep., fo. 18:
@@ -6660,7 +6329,7 @@ Trusts Act; and as to the exemption from rates, 3 &amp; 4 Will. IV, cap. 30;
 
   <li class="indx">Courtney, Sir William, Petition of, 76 (<a href="#Footnote_105_105">note</a>), <a href="#Page_94">94</a>.</li>
 
-  <li class="indx">Crompton, <abbr title="Reverend">Rev.</abbr> Thomas, <a href="#Page_97">97</a>.</li>
+  <li class="indx">Crompton, Rev. Thomas, <a href="#Page_97">97</a>.</li>
 
   <li class="indx">Cromwell, Oliver, <a href="#Page_3">3</a>, <a href="#Page_32">32</a>, <a href="#Page_36">36</a>, <a href="#Page_40">40</a> seq., <a href="#Page_46">46</a>, <a href="#Page_47">47</a>,
     <a href="#Page_49">49</a>, <a href="#Page_59">59–61</a>, <a href="#Page_67">67–73</a>, <a href="#Page_127">127</a>.</li>
@@ -6860,7 +6529,7 @@ Trusts Act; and as to the exemption from rates, 3 &amp; 4 Will. IV, cap. 30;
 
   <li class="indx">— his son’s burial, <a href="#Page_64">64</a>.</li>
 
-  <li class="indx">Middleton, <abbr title="Lieutenant-General">Lieut.-Gen.</abbr>, <a href="#Page_72">72</a>, <a href="#Page_94">94</a>.</li>
+  <li class="indx">Middleton, Lieut.-Gen., <a href="#Page_72">72</a>, <a href="#Page_94">94</a>.</li>
 
 
   <li class="ifrst"><span class="pagenum" id="Page_131">[Pg 131]</span>Naturalization Act, 1740, <a href="#Page_122">122</a>.</li>

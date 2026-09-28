@@ -50,8 +50,8 @@
   - skipping, sidenotes can't be asides if mid-paragraph
 - [X] (html) Handle converting footnotes to use ~<aside>~ and roles
 - [X] (html) re-evaluate tables on f006, f007-8
-- [ ] (html) convert Table of Cases (f006) to flexbox grid list
-- [ ] (html) convert Table of Statutes (f007-f008) to flexbox grid list
+- [X] (html) convert Table of Cases (f006) to flexbox grid list
+- [X] (html) convert Table of Statutes (f007-f008) to flexbox grid list
 - [X] (html) Can data-epub-type="toc" be used multiple times?
 * Transcriber Notes
 ** Leading TN
