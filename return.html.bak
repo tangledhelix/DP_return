@@ -123,7 +123,7 @@ table.cases td.tdl, table.statutes td.tdl {
 
 /* Classes to support ToC using list & flex */
 .toc-wrap {
-    width: 40em;
+    width: 35em;
     max-width: 100%;
     margin: 0 auto;
     text-align: left;
@@ -388,7 +388,7 @@ p.drop-cap::first-letter {
 </head>
 <body>
 
-<section class="transnote">
+<div class="transnote">
 <p id="TN_leading" class="center"><strong>Transcriber’s Note</strong></p>
 
 <p>
@@ -425,7 +425,7 @@ England ran behind the Gregorian (New Style) calendar used on the
 Continent—by 10 days in the 17th century, 11 in the 18th. The first
 number is the English date; the second, the Continental equivalent.
 </p>
-</section>
+</div>
 
 <nav data-epub-type="toc">
 <p><span class="pagenum" id="Page_i">[Pg i]</span></p>
@@ -481,7 +481,7 @@ PRINTER TO THE UNIVERSITY
 </p>
 </section>
 
-<section class="chapter">
+<div class="chapter">
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
 <p><span class="pagenum" id="Page_iii">[Pg iii]</span></p>
 
@@ -529,7 +529,7 @@ CO-RELIGIONISTS
 </p>
 </div>
 
-</section>
+</div>
 
 <section class="chapter">
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
@@ -2582,7 +2582,7 @@ so much breath as lasted, till he came to Midleburg and
 then he dyed&#x2060;<a id="FNanchor_67_67" href="#Footnote_67_67" class="fnanchor" role="doc-noteref" data-epub-type="noteref">[67]</a>&#x2060;.” His mission had proved an utter failure.</p>
 </section>
 
-<section class="footnotes" role="doc-endnotes">
+<div class="footnotes" role="doc-endnotes">
 <p class="center"><strong>FOOTNOTES</strong></p>
 
 <div class="footnote" id="Footnote_1_1" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_1_1" class="label" role="doc-backlink">[1]</a> 1 Hag., <cite>Cons.</cite> 216.</p></div>
@@ -2830,7 +2830,7 @@ pp. 88–93.</p></div>
 and Petition from Menasseh to Oliver, Sept. 17, 1657 (S. P. Dom. Inter.,
 clvi. 89), both printed in Wolf’s <cite>Menasseh Ben Israel’s Mission to Oliver
 Cromwell</cite>, p. lxxxvii.</p></div>
-</section>
+</div>
 
 <section class="chapter">
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
@@ -3523,7 +3523,7 @@ of the ground, is any proof that any legal protection had
 been accorded to those professing the Jewish religion&#x2060;<a id="FNanchor_97_97" href="#Footnote_97_97" class="fnanchor" role="doc-noteref" data-epub-type="noteref">[97]</a>&#x2060;.</p>
 </section>
 
-<section class="footnotes" role="doc-endnotes">
+<div class="footnotes" role="doc-endnotes">
 <p class="center"><strong>FOOTNOTES</strong></p>
 
 <div class="footnote" id="Footnote_68_68" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_68_68" class="label" role="doc-backlink">[68]</a> Evelyn’s <cite>Memoirs</cite>, vol. I, p. 288 (1st edition).</p></div>
@@ -3678,7 +3678,7 @@ Comm., Part I, App. pp. 94 b and 95 a.</p></div>
 article by Mr. Israel Davis in the <cite>Jewish Chronicle</cite> of November 26, 1880.
 Some interesting letters on the subject appeared in the same periodical
 during the month of October, 1901.</p></div>
-</section>
+</div>
 
 <section class="chapter">
 <p><span class="pagenum" id="Page_67">[Pg 67]</span></p>
@@ -4648,7 +4648,7 @@ worship God according to the dictates of their conscience,
 it is now time to turn.</p>
 </section>
 
-<section class="footnotes" role="doc-endnotes">
+<div class="footnotes" role="doc-endnotes">
 <p class="center"><strong>FOOTNOTES</strong></p>
 
 <div class="footnote" id="Footnote_98_98" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_98_98" class="label" role="doc-backlink">[98]</a> <cite>The Nicholas Papers</cite>, vol. III, p. 255.</p></div>
@@ -4774,7 +4774,7 @@ their assistance to the support of it.”—Cobbett’s <cite>Parl. Hist.</cite>
 <div class="footnote" id="Footnote_119_119" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_119_119" class="label" role="doc-backlink">[119]</a> Ibid., p. 546.</p></div>
 
 <div class="footnote" id="Footnote_120_120" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_120_120" class="label" role="doc-backlink">[120]</a> Cobbett’s <cite>Parl. Hist.</cite>, vol. IV, pp. 551, 556–61.</p></div>
-</section>
+</div>
 
 <section class="chapter">
 <p><span class="pagenum" id="Page_94">[Pg 94]</span></p>
@@ -6040,7 +6040,7 @@ frequently recognized by the legislature, was formally made
 legal by Act of Parliament.</p>
 </section>
 
-<section class="footnotes" role="doc-endnotes">
+<div class="footnotes" role="doc-endnotes">
 <p class="center"><strong>FOOTNOTES</strong></p>
 
 <div class="footnote" id="Footnote_121_121" role="doc-footnote" data-epub-type="footnote"><p><a href="#FNanchor_121_121" class="label" role="doc-backlink">[121]</a> See the Da Costa lists published in Wolf’s <cite>Jewry of the Restoration</cite>,
@@ -6243,7 +6243,7 @@ Anson’s <cite>Parliament</cite>, pp. 311–17; and Burnet’s <cite>Reign of J
 and 32 &amp; 33 Vict., cap. 110, sec. 15, as to the provisions of the Charitable
 Trusts Act; and as to the exemption from rates, 3 &amp; 4 Will. IV, cap. 30;
 5 &amp; 6 Will. IV, cap. 50, sec. 27; and 38 &amp; 39 Vict., cap. 55, sec. 151.</p></div>
-</section>
+</div>
 
 <nav data-epub-type="index">
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
@@ -6710,7 +6710,7 @@ Trusts Act; and as to the exemption from rates, 3 &amp; 4 Will. IV, cap. 30;
 </ul>
 </nav>
 
-<section class="chapter">
+<div class="chapter">
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
   <p class="center" id="Erratum">
     <strong><span class="smcap">Erratum.</span></strong>
@@ -6718,9 +6718,9 @@ Trusts Act; and as to the exemption from rates, 3 &amp; 4 Will. IV, cap. 30;
 
 
 <p>Page 63, line 7 from bottom, <i>for</i> 6 &amp; 7 Vict. <i>read</i> 7 &amp; 8 Vict.</p>
-</section>
+</div>
 
-<section class="transnote">
+<div class="transnote">
 <p id="TN_trailing" class="center"><strong>Transcriber’s Note</strong></p>
 
 <p>
@@ -6740,7 +6740,7 @@ cap. 66, sec. 5</a>)
 p. 75: changed “user” to “use” (<a href="#TN1">such use was wholly illegal</a>)
 </p>
 
-</section>
+</div>
 
 </body>
 </html>

@@ -1,6 +1,6 @@
 {
-  "md5checksum": "b4f0410907ebb45305577f6b6bae5c15",
-  "insertpos": "126.13",
+  "md5checksum": "a34562e0b969137b6ef2517ea583929a",
+  "insertpos": "6247.0",
   "insertpospeer": "674.30",
   "pagedetails": {
     "f001": {
@@ -322,7 +322,7 @@
       "label": "Pg 45"
     },
     "p046": {
-      "index": "2834.0",
+      "index": "2833.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg 46"
@@ -820,7 +820,7 @@
       "label": "Pg 128"
     },
     "p129": {
-      "index": "6247.0",
+      "index": "6246.0",
       "style": "\"",
       "number": "+1",
       "label": "Pg 129"
@@ -851,7 +851,7 @@
     "Basic Latin": true
   },
   "bookmarks": {
-    "Bookmark1": "391.27",
+    "Bookmark1": "391.23",
     "Bookmark2": "6723.1"
   },
   "imagerotate": {}
