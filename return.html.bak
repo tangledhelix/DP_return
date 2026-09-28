@@ -233,7 +233,11 @@ p { text-indent: 1em; text-align: left; }
     background-color: inherit;
     border: 1px dashed #bbbbbb;
     margin-top: 3em;
+    margin-left: auto;
+    margin-right: auto;
     page-break-before: always;
+    width: 40em;
+    max-width: 100%;
 }
 
 /* Don't visibly style abbr tags. Browsers usually underline them. */
@@ -6344,7 +6348,7 @@ Trusts Act; and as to the exemption from rates, 3 &amp; 4 Will. IV, cap. 30;
 
   <li class="indx">— period between their banishment and return, <a href="#Page_14">14</a>.</li>
 
-  <li class="indx">— their legal position in Charles I’s <a href="#Page_29">29</a>.</li>
+  <li class="indx">— their legal position in Charles I’s reign, <a href="#Page_29">29</a>.</li>
 
   <li class="indx">— and Cromwell, <a href="#Page_67">67–70</a>.</li>
 
