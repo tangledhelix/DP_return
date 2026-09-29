@@ -437,7 +437,7 @@ in this country.</p>
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
 <p><span class="pagenum" id="Page_vi">[Pg vi]</span></p>
 
-<nav data-epub-type="toc">
+<nav data-epub-type="toc" class="chapter">
   <h2 class="nobreak" id="TABLE_OF_CASES">
     TABLE OF CASES
   </h2>
@@ -537,6 +537,7 @@ in this country.</p>
 
 </nav>
 
+<div class="chapter"></div>
 <hr class="chap x-ebookmaker-drop" aria-hidden="true">
 <p><span class="pagenum" id="Page_vii">[Pg vii]</span></p>
 
